@@ -1,0 +1,260 @@
+[
+    {
+        "id": "keyword_exists_in_field",
+        "name": "Keyword exists in field",
+        "component_type": "Keyword",
+        "search_text": "Keyword keyKeyword exists in field keyFieldNameforLanguage"
+    },
+    {
+        "id": "keyword_does_not_exists_in_field",
+        "name": "keyword does not exist in field",
+        "component_type": "Keyword",
+        "search_text": "keyword keyKeyword does not exist in field keyFieldNameforLanguage"
+    },
+    {
+        "id": "keyword_matches_field_exactly",
+        "name": "keyword matches field exactly",
+        "component_type": "Keyword",
+        "search_text": "keyword keyKeyword matches field keyFieldNameforLanguage exactly"
+    },
+    {
+        "id": "keyword does not match field exactly",
+        "name": "keyword does not match field exactly",
+        "component_type": "Keyword",
+        "search_text": "keyword keyKeyword does not match field keyFieldNameforLanguage exactly"
+    },
+    {
+        "id": "product_type_is",
+        "name": "product type is",
+        "component_type": "ProductType",
+        "search_text": "product type is keyKeyword"
+    },
+    {
+        "id": "product_type_is_not",
+        "name": "product type is not",
+        "component_type": "ProductType",
+        "search_text": "product type is not keyKeyword"
+    },
+    {
+        "id": "brand_is",
+        "name": "brand is",
+        "component_type": "Brand",
+        "search_text": "brand is keyKeyword"
+    },
+    {
+        "id": "brand_is_not",
+        "name": "brand is not",
+        "component_type": "Brand",
+        "search_text": "brand is not keyKeyword"
+    },
+    {
+        "id": "default_distributor_is",
+        "name": "default distributor is",
+        "component_type": "Distributor",
+        "search_text": "default distributor is keyKeyword"
+    },
+    {
+        "id": "default_distributor_is_not",
+        "name": "default distributor is not",
+        "component_type": "Distributor",
+        "search_text": "default distributor is not keyKeyword"
+    },
+    {
+        "id": "has_any_of_selected_attributes",
+        "name": "has any of selected attributes",
+        "component_type": "Attribute",
+        "search_text": "has any of selected attributes keyKeyword"
+    },
+    {
+        "id": "does_not_have_any_of_selected_attributes",
+        "name": "does not have any of selected attributes",
+        "component_type": "Attribute",
+        "search_text": "does not have any of selected attributes keyKeyword"
+    },
+    {
+        "id": "has_all_of_selected_attributes",
+        "name": "has all of selected attributes",
+        "component_type": "Attribute",
+        "search_text": "has all of selected attributes keyKeyword"
+    },
+    {
+        "id": "does_not_have_all_of_selected_attributes",
+        "name": "does not have all of selected attributes",
+        "component_type": "Attribute",
+        "search_text": "does not have all of selected attributes keyKeyword"
+    },
+    {
+        "id": "default_category_is",
+        "name": "default category is",
+        "component_type": "Category",
+        "search_text": "default category is keyKeyword"
+    },
+    {
+        "id": "default_category_is_not",
+        "name": "default category is not",
+        "component_type": "Category",
+        "search_text": "default category is not keyKeyword"
+    },
+    {
+        "id": "combined_stock_quantity_is_between",
+        "name": "combined stock quantity is between",
+        "component_type": "StockQuantity",
+        "search_text": "combined stock quantity is between keyMin and keyMax"
+    },
+    {
+        "id": "combined_stock_quantity_is_not_between",
+        "name": "combined stock quantity is not between",
+        "component_type": "StockQuantity",
+        "search_text": "combined stock quantity is not between keyMin and keyMax"
+    },
+    {
+        "id": "status_is",
+        "name": "status is",
+        "component_type": "Status",
+        "search_text": "status is keyKeyword"
+    },
+    {
+        "id": "status_is_not",
+        "name": "status is not",
+        "component_type": "Status",
+        "search_text": "status is not keyKeyword"
+    },
+    {
+        "id": "default_out_of_stock_status_is",
+        "name": "default out of stock status is",
+        "component_type": "StockStatus",
+        "search_text": "default out of stock status is keyKeyword"
+    },
+    {
+        "id": "default_out_of_stock_status_is_not",
+        "name": "default out of stock status is not",
+        "component_type": "StockStatus",
+        "search_text": "default out of stock status is not keyKeyword"
+    },
+    {
+        "id": "default_cost_is_between",
+        "name": "default cost is between",
+        "component_type": "DefaultCost",
+        "search_text": "default cost is between keyMin and keyMax"
+    },
+    {
+        "id": "default_cost_is_not_between",
+        "name": "default cost is not between",
+        "component_type": "DefaultCost",
+        "search_text": "default cost is not between keyMin and keyMax"
+    },
+    {
+        "id": "published_on_site",
+        "name": "published on site",
+        "component_type": "PublishedOnSite",
+        "search_text": "published on site keyKeyword"
+    },
+    {
+        "id": "not_published_on_site",
+        "name": "not published on site",
+        "component_type": "PublishedOnSite",
+        "search_text": "not published on site keyKeyword"
+    },
+    {
+        "id": "weight_is_between",
+        "name": "weight is between",
+        "component_type": "ProductWeight",
+        "search_text": "weight is between keyMin and keyMax"
+    },
+    {
+        "id": "weight_is_not_between",
+        "name": "weight is not between",
+        "component_type": "ProductWeight",
+        "search_text": "weight is not between keyMin and keyMax"
+    },
+    {
+        "id": "product_thumbnail_template_is",
+        "name": "product's thumbnail template is",
+        "component_type": "ThumbnailTemplate",
+        "search_text": "product's thumbnail template is keyKeyword"
+    },
+    {
+        "id": "product_thumbnail_template_is_not",
+        "name": "product's thumbnail template is not",
+        "component_type": "ThumbnailTemplate",
+        "search_text": "product's thumbnail template is not keyKeyword"
+    },
+    {
+        "id": "product_detail_template_is",
+        "name": "product's detail template is",
+        "component_type": "DetailTemplate",
+        "search_text": "product's detail template is keyKeyword"
+    },
+    {
+        "id": "product_detail_template_is_not",
+        "name": "product's detail template is not",
+        "component_type": "DetailTemplate",
+        "search_text": "product's detail template is not keyKeyword"
+    },
+    {
+        "id": "product_zoom_template_is",
+        "name": "product's zoom template is",
+        "component_type": "ZoomTemplate",
+        "search_text": "product's zoom template is keyKeyword"
+    },
+    {
+        "id": "product_zoom_template_is_not",
+        "name": "product's zoom template is not",
+        "component_type": "ZoomTemplate",
+        "search_text": "product's zoom template is not keyKeyword"
+    },
+    {
+        "id": "is_inventoried",
+        "name": "is inventoried",
+        "component_type": "EmptyWidget",
+        "search_text": "is inventoried"
+    },
+    {
+        "id": "is_not_inventoried",
+        "name": "is not inventoried",
+        "component_type": "EmptyWidget",
+        "search_text": "is not inventoried"
+    },
+    {
+        "id": "parent_product",
+        "name": "Parent product Id is",
+        "component_type": "ProductId",
+        "search_text": "Parent product Id is keyKeyword"
+    },
+    {
+        "id": "ordering_rule_is_not",
+        "name": "ordering rule is not",
+        "component_type": "OrderingRule",
+        "search_text": "ordering rule is not keyKeyword"
+    },
+    {
+        "id": "ordering_rule_is",
+        "name": "ordering rule is",
+        "component_type": "OrderingRule",
+        "search_text": "ordering rule is keyKeyword"
+    },
+    {
+        "id": "assigned_to_discount_level",
+        "name": "assigned to discount level",
+        "component_type": "DiscountLevel",
+        "search_text": "assigned to discount level keyKeyword"
+    },
+    {
+        "id": "not_assigned_to_discount_level",
+        "name": "not assigned to discount level",
+        "component_type": "DiscountLevel",
+        "search_text": "not assigned to discount level keyKeyword"
+    },
+    {
+        "id": "is_parent",
+        "name": "is parent",
+        "component_type": "EmptyWidget",
+        "search_text": "is parent"
+    },
+    {
+        "id": "is_child",
+        "name": "is child",
+        "component_type": "EmptyWidget",
+        "search_text": "is child"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Fit Bodies",
+        "active": true,
+        "email": "programming@advisiongraphics.com",
+        "phone": "3603015898",
+        "account_no": "",
+        "is_dropshipper": false,
+        "inventory_account_id": 0
+    },
+    {
+        "id": 2,
+        "name": "Fit Launch",
+        "active": true,
+        "email": "programming@advisiongraphics.com",
+        "phone": "3603015898",
+        "account_no": "programming@advisiongraphics.com",
+        "is_dropshipper": true,
+        "inventory_account_id": 0
+    }
+]

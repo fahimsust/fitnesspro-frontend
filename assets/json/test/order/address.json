@@ -1,0 +1,21 @@
+{
+    "id": 5,
+    "created_at": "2024-04-18 11:36:00",
+    "updated_at": null,
+    "deleted_at": null,
+    "label": "vel",
+    "company": "Bins Ltd",
+    "first_name": "Shanny",
+    "last_name": "Smith",
+    "address_1": "5464 Nicklaus Place",
+    "address_2": "95965 Amanda Loaf\nDavisburgh, UT 84745-2039",
+    "city": "New Herminia",
+    "state_id": 1,
+    "country_id": 1,
+    "postal_code": "70017-3287",
+    "email": "obie72@hotmail.com",
+    "phone": "260-820-8867",
+    "is_residential": true,
+    "resource_type": null,
+    "resource_id": null
+}

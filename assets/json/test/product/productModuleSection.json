@@ -1,0 +1,2270 @@
+[
+    {
+        "sections": {
+            "template_id": 16,
+            "section_id": 7,
+            "temp_id": null,
+            "id": 7,
+            "name": "head",
+            "display": "Head",
+            "rank": 0
+        },
+        "modules": [
+            {
+                "template_id": 1,
+                "section_id": 7,
+                "module_id": 4,
+                "rank": 0,
+                "temp_id": null,
+                "id": 39,
+                "module": {
+                    "id": 4,
+                    "name": "Affiliate Account Menu",
+                    "file": "affiliateaccount_menu",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 7,
+                "module_id": 37,
+                "rank": 0,
+                "temp_id": null,
+                "id": 198,
+                "module": {
+                    "id": 37,
+                    "name": "Related Products - Manual",
+                    "file": "related_products_manual",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 7,
+                "module_id": 38,
+                "rank": 0,
+                "temp_id": null,
+                "id": 235,
+                "module": {
+                    "id": 38,
+                    "name": "Product Photos Display\/Upload",
+                    "file": "product_photos",
+                    "config_values": "{&quot;type&quot;:&quot;1&quot;,&quot;selected_attribute&quot;:&quot;21&quot;,&quot;show_for&quot;:&quot;1&quot;,&quot;show_for_types&quot;:&quot;1&quot;}",
+                    "description": "Photos for products",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 7,
+                "module_id": 40,
+                "rank": 0,
+                "temp_id": null,
+                "id": 270,
+                "module": {
+                    "id": 40,
+                    "name": "Account Address List",
+                    "file": "account_addresses",
+                    "config_values": "",
+                    "description": "Display short list of addresses in account",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 7,
+                "module_id": 41,
+                "rank": 0,
+                "temp_id": null,
+                "id": 279,
+                "module": {
+                    "id": 41,
+                    "name": "Account Gift Registries List",
+                    "file": "account_giftregistries",
+                    "config_values": "",
+                    "description": "Display short list of gift registries in account",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 7,
+                "module_id": 44,
+                "rank": 0,
+                "temp_id": null,
+                "id": 300,
+                "module": {
+                    "id": 44,
+                    "name": "My Friends List",
+                    "file": "friend_myfriends",
+                    "config_values": "",
+                    "description": "Display friends of an account",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 7,
+                "module_id": 45,
+                "rank": 0,
+                "temp_id": null,
+                "id": 323,
+                "module": {
+                    "id": 45,
+                    "name": "Friend Activities List",
+                    "file": "friend_activities",
+                    "config_values": "",
+                    "description": "Display friend's activities",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 7,
+                "module_id": 49,
+                "rank": 0,
+                "temp_id": null,
+                "id": 377,
+                "module": {
+                    "id": 49,
+                    "name": "Account Files",
+                    "file": "account_files",
+                    "config_values": "{&quot;show_in_customermenu&quot;:&quot;1&quot;,&quot;list_element_id&quot;:&quot;64&quot;}",
+                    "description": "",
+                    "showinmenu": true
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 7,
+                "module_id": 56,
+                "rank": 0,
+                "temp_id": null,
+                "id": 506,
+                "module": {
+                    "id": 56,
+                    "name": "Custom Page Insert",
+                    "file": "custom_page_insert",
+                    "config_values": "",
+                    "description": "Load custom page content via module",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 7,
+                "module_id": 72,
+                "rank": 0,
+                "temp_id": null,
+                "id": 764,
+                "module": {
+                    "id": 72,
+                    "name": "Fitpro Upcoming\/Post Trip Notification",
+                    "file": "fitpro_upcomingtrip",
+                    "config_values": "{&quot;resort_attribute&quot;:&quot;21&quot;,&quot;teaching_vacation_type&quot;:&quot;1&quot;,&quot;upcoming_trip_msgtemplate_id&quot;:&quot;121&quot;,&quot;early_upcoming_trip_msgtemplate_id&quot;:&quot;181&quot;,&quot;post_trip_msgtemplate_id&quot;:&quot;72&quot;,&quot;arrived_at_trip_msgtemplate_id&quot;:&quot;190&quot;}",
+                    "description": "Upcoming and post trip notifications",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 7,
+                "module_id": 75,
+                "rank": 0,
+                "temp_id": null,
+                "id": 783,
+                "module": {
+                    "id": 75,
+                    "name": "Account Creation Myemma",
+                    "file": "accountcreation_myemmasubscribe",
+                    "config_values": "{&quot;account_id&quot;:&quot;40748&quot;,&quot;public_api_key&quot;:&quot;340915c2325257b6af9d&quot;,&quot;private_api_key&quot;:&quot;3a4261ad1b03776e4e4f&quot;,&quot;type&quot;:&quot;0&quot;}",
+                    "description": "",
+                    "showinmenu": true
+                }
+            }
+        ]
+    },
+    {
+        "sections": {
+            "template_id": 16,
+            "section_id": 29,
+            "temp_id": null,
+            "id": 29,
+            "name": "alternate2",
+            "display": "Alternate #2",
+            "rank": 0
+        },
+        "modules": [
+            {
+                "template_id": 1,
+                "section_id": 29,
+                "module_id": 1,
+                "rank": 0,
+                "temp_id": null,
+                "id": 6,
+                "module": {
+                    "id": 1,
+                    "name": "Related Products (By Brand)",
+                    "file": "related_products_bybrand",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 29,
+                "module_id": 26,
+                "rank": 0,
+                "temp_id": null,
+                "id": 138,
+                "module": {
+                    "id": 26,
+                    "name": "Cart Summary (Advanced)",
+                    "file": "cart_summary_advanced",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 29,
+                "module_id": 31,
+                "rank": 0,
+                "temp_id": null,
+                "id": 185,
+                "module": {
+                    "id": 31,
+                    "name": "Categories Menu",
+                    "file": "categories_menu",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 29,
+                "module_id": 49,
+                "rank": 0,
+                "temp_id": null,
+                "id": 383,
+                "module": {
+                    "id": 49,
+                    "name": "Account Files",
+                    "file": "account_files",
+                    "config_values": "{&quot;show_in_customermenu&quot;:&quot;1&quot;,&quot;list_element_id&quot;:&quot;64&quot;}",
+                    "description": "",
+                    "showinmenu": true
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 29,
+                "module_id": 56,
+                "rank": 0,
+                "temp_id": null,
+                "id": 513,
+                "module": {
+                    "id": 56,
+                    "name": "Custom Page Insert",
+                    "file": "custom_page_insert",
+                    "config_values": "",
+                    "description": "Load custom page content via module",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 29,
+                "module_id": 57,
+                "rank": 0,
+                "temp_id": null,
+                "id": 545,
+                "module": {
+                    "id": 57,
+                    "name": "Custom Element Insert",
+                    "file": "custom_element_insert",
+                    "config_values": "",
+                    "description": "Load custom element content via module",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 29,
+                "module_id": 59,
+                "rank": 0,
+                "temp_id": null,
+                "id": 572,
+                "module": {
+                    "id": 59,
+                    "name": "Account Remote Login Form",
+                    "file": "account_remotelogin",
+                    "config_values": "",
+                    "description": "Display login form",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 29,
+                "module_id": 60,
+                "rank": 0,
+                "temp_id": null,
+                "id": 579,
+                "module": {
+                    "id": 60,
+                    "name": "Account Newest Registrations",
+                    "file": "account_newestregistrations",
+                    "config_values": "",
+                    "description": "Display newest member registrations",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 29,
+                "module_id": 64,
+                "rank": 0,
+                "temp_id": null,
+                "id": 598,
+                "module": {
+                    "id": 64,
+                    "name": "Page Menus",
+                    "file": "page_menus",
+                    "config_values": "",
+                    "description": "Load multiple page menus",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 29,
+                "module_id": 66,
+                "rank": 0,
+                "temp_id": null,
+                "id": 640,
+                "module": {
+                    "id": 66,
+                    "name": "Resort Details",
+                    "file": "fitpro_resortdetails",
+                    "config_values": "{&quot;resort_attribute&quot;:&quot;21&quot;,&quot;airport_attribute&quot;:&quot;23&quot;,&quot;region_attribute&quot;:&quot;22&quot;,&quot;type_attribute&quot;:&quot;18&quot;,&quot;element_id&quot;:&quot;&quot;,&quot;campaign_id&quot;:&quot;1&quot;}",
+                    "description": "Resort specific details for the resort details page",
+                    "showinmenu": true
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 29,
+                "module_id": 76,
+                "rank": 0,
+                "temp_id": null,
+                "id": 810,
+                "module": {
+                    "id": 76,
+                    "name": "Category Slider",
+                    "file": "fitpro_categoryslider",
+                    "config_values": "{&quot;resort_attribute&quot;:&quot;21&quot;,&quot;airport_attribute&quot;:&quot;23&quot;,&quot;region_attribute&quot;:&quot;22&quot;,&quot;type_attribute&quot;:&quot;18&quot;,&quot;category_id&quot;:&quot;159&quot;}",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 29,
+                "module_id": 77,
+                "rank": 0,
+                "temp_id": null,
+                "id": 830,
+                "module": {
+                    "id": 77,
+                    "name": "Cookie Policy Warning",
+                    "file": "cookie_policy",
+                    "config_values": "{&quot;privacypolicy_link&quot;:&quot;\/privacy-policy&quot;,&quot;termsofuse_link&quot;:&quot;\/terms-and-conditions&quot;,&quot;cookiepolicy_link&quot;:&quot;\/cookie-policy&quot;,&quot;bg_color&quot;:&quot;rgba(255,255,255,0.9)&quot;,&quot;text_color&quot;:&quot;#666&quot;}",
+                    "description": "",
+                    "showinmenu": false
+                }
+            }
+        ]
+    },
+    {
+        "sections": {
+            "template_id": 1,
+            "section_id": 2,
+            "temp_id": null,
+            "id": 2,
+            "name": "right",
+            "display": "Right Sidebar",
+            "rank": 1
+        },
+        "modules": [
+            {
+                "template_id": 1,
+                "section_id": 2,
+                "module_id": 1,
+                "rank": 0,
+                "temp_id": null,
+                "id": 1,
+                "module": {
+                    "id": 1,
+                    "name": "Related Products (By Brand)",
+                    "file": "related_products_bybrand",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 2,
+                "module_id": 2,
+                "rank": 0,
+                "temp_id": null,
+                "id": 7,
+                "module": {
+                    "id": 2,
+                    "name": "Product Specifications",
+                    "file": "product_specs",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 2,
+                "module_id": 4,
+                "rank": 0,
+                "temp_id": null,
+                "id": 37,
+                "module": {
+                    "id": 4,
+                    "name": "Affiliate Account Menu",
+                    "file": "affiliateaccount_menu",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 2,
+                "module_id": 5,
+                "rank": 0,
+                "temp_id": null,
+                "id": 42,
+                "module": {
+                    "id": 5,
+                    "name": "Standard Zoom",
+                    "file": "product_zoom",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 2,
+                "module_id": 31,
+                "rank": 0,
+                "temp_id": null,
+                "id": 176,
+                "module": {
+                    "id": 31,
+                    "name": "Categories Menu",
+                    "file": "categories_menu",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 2,
+                "module_id": 38,
+                "rank": 0,
+                "temp_id": null,
+                "id": 233,
+                "module": {
+                    "id": 38,
+                    "name": "Product Photos Display\/Upload",
+                    "file": "product_photos",
+                    "config_values": "{&quot;type&quot;:&quot;1&quot;,&quot;selected_attribute&quot;:&quot;21&quot;,&quot;show_for&quot;:&quot;1&quot;,&quot;show_for_types&quot;:&quot;1&quot;}",
+                    "description": "Photos for products",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 2,
+                "module_id": 45,
+                "rank": 0,
+                "temp_id": null,
+                "id": 322,
+                "module": {
+                    "id": 45,
+                    "name": "Friend Activities List",
+                    "file": "friend_activities",
+                    "config_values": "",
+                    "description": "Display friend's activities",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 2,
+                "module_id": 54,
+                "rank": 0,
+                "temp_id": null,
+                "id": 445,
+                "module": {
+                    "id": 54,
+                    "name": "Search Form",
+                    "file": "search_form",
+                    "config_values": "",
+                    "description": "Load a search form",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 2,
+                "module_id": 57,
+                "rank": 0,
+                "temp_id": null,
+                "id": 540,
+                "module": {
+                    "id": 57,
+                    "name": "Custom Element Insert",
+                    "file": "custom_element_insert",
+                    "config_values": "",
+                    "description": "Load custom element content via module",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 2,
+                "module_id": 60,
+                "rank": 0,
+                "temp_id": null,
+                "id": 574,
+                "module": {
+                    "id": 60,
+                    "name": "Account Newest Registrations",
+                    "file": "account_newestregistrations",
+                    "config_values": "",
+                    "description": "Display newest member registrations",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 2,
+                "module_id": 62,
+                "rank": 0,
+                "temp_id": null,
+                "id": 582,
+                "module": {
+                    "id": 62,
+                    "name": "Upcoming Events",
+                    "file": "events_upcoming",
+                    "config_values": "",
+                    "description": "Display list of feature events",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 2,
+                "module_id": 68,
+                "rank": 0,
+                "temp_id": null,
+                "id": 679,
+                "module": {
+                    "id": 68,
+                    "name": "Account Search Profiles Form",
+                    "file": "account_searchprofiles",
+                    "config_values": "",
+                    "description": "Display fields to search profiles",
+                    "showinmenu": false
+                }
+            }
+        ]
+    },
+    {
+        "sections": {
+            "template_id": 1,
+            "section_id": 11,
+            "temp_id": null,
+            "id": 11,
+            "name": "left_top",
+            "display": "Left Sidebar (Top)",
+            "rank": 1
+        },
+        "modules": [
+            {
+                "template_id": 1,
+                "section_id": 11,
+                "module_id": 26,
+                "rank": 0,
+                "temp_id": null,
+                "id": 131,
+                "module": {
+                    "id": 26,
+                    "name": "Cart Summary (Advanced)",
+                    "file": "cart_summary_advanced",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 11,
+                "module_id": 37,
+                "rank": 0,
+                "temp_id": null,
+                "id": 200,
+                "module": {
+                    "id": 37,
+                    "name": "Related Products - Manual",
+                    "file": "related_products_manual",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 11,
+                "module_id": 38,
+                "rank": 0,
+                "temp_id": null,
+                "id": 236,
+                "module": {
+                    "id": 38,
+                    "name": "Product Photos Display\/Upload",
+                    "file": "product_photos",
+                    "config_values": "{&quot;type&quot;:&quot;1&quot;,&quot;selected_attribute&quot;:&quot;21&quot;,&quot;show_for&quot;:&quot;1&quot;,&quot;show_for_types&quot;:&quot;1&quot;}",
+                    "description": "Photos for products",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 11,
+                "module_id": 39,
+                "rank": 0,
+                "temp_id": null,
+                "id": 241,
+                "module": {
+                    "id": 39,
+                    "name": "Account Order History",
+                    "file": "account_orderhistory",
+                    "config_values": "",
+                    "description": "Display recent orders in account",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 11,
+                "module_id": 40,
+                "rank": 0,
+                "temp_id": null,
+                "id": 272,
+                "module": {
+                    "id": 40,
+                    "name": "Account Address List",
+                    "file": "account_addresses",
+                    "config_values": "",
+                    "description": "Display short list of addresses in account",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 11,
+                "module_id": 49,
+                "rank": 0,
+                "temp_id": null,
+                "id": 379,
+                "module": {
+                    "id": 49,
+                    "name": "Account Files",
+                    "file": "account_files",
+                    "config_values": "{&quot;show_in_customermenu&quot;:&quot;1&quot;,&quot;list_element_id&quot;:&quot;64&quot;}",
+                    "description": "",
+                    "showinmenu": true
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 11,
+                "module_id": 56,
+                "rank": 0,
+                "temp_id": null,
+                "id": 509,
+                "module": {
+                    "id": 56,
+                    "name": "Custom Page Insert",
+                    "file": "custom_page_insert",
+                    "config_values": "",
+                    "description": "Load custom page content via module",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 11,
+                "module_id": 68,
+                "rank": 0,
+                "temp_id": null,
+                "id": 682,
+                "module": {
+                    "id": 68,
+                    "name": "Account Search Profiles Form",
+                    "file": "account_searchprofiles",
+                    "config_values": "",
+                    "description": "Display fields to search profiles",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 11,
+                "module_id": 69,
+                "rank": 0,
+                "temp_id": null,
+                "id": 690,
+                "module": {
+                    "id": 69,
+                    "name": "Travel Vouchers",
+                    "file": "fitpro_travelvoucher",
+                    "config_values": "{&quot;travel_producttype_id&quot;:&quot;1&quot;}",
+                    "description": "Vouchers for travel on fitpro",
+                    "showinmenu": false
+                }
+            }
+        ]
+    },
+    {
+        "sections": {
+            "template_id": 1,
+            "section_id": 17,
+            "temp_id": null,
+            "id": 17,
+            "name": "footer_left",
+            "display": "Footer (Left)",
+            "rank": 1
+        },
+        "modules": [
+            {
+                "template_id": 1,
+                "section_id": 17,
+                "module_id": 1,
+                "rank": 0,
+                "temp_id": null,
+                "id": 3,
+                "module": {
+                    "id": 1,
+                    "name": "Related Products (By Brand)",
+                    "file": "related_products_bybrand",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 17,
+                "module_id": 17,
+                "rank": 0,
+                "temp_id": null,
+                "id": 122,
+                "module": {
+                    "id": 17,
+                    "name": "Related Products",
+                    "file": "related_products",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 17,
+                "module_id": 37,
+                "rank": 0,
+                "temp_id": null,
+                "id": 202,
+                "module": {
+                    "id": 37,
+                    "name": "Related Products - Manual",
+                    "file": "related_products_manual",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 17,
+                "module_id": 56,
+                "rank": 0,
+                "temp_id": null,
+                "id": 511,
+                "module": {
+                    "id": 56,
+                    "name": "Custom Page Insert",
+                    "file": "custom_page_insert",
+                    "config_values": "",
+                    "description": "Load custom page content via module",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 17,
+                "module_id": 58,
+                "rank": 0,
+                "temp_id": null,
+                "id": 566,
+                "module": {
+                    "id": 58,
+                    "name": "Account Start Register Form",
+                    "file": "account_startregister",
+                    "config_values": "",
+                    "description": "Display fields to start registration for account",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 17,
+                "module_id": 60,
+                "rank": 0,
+                "temp_id": null,
+                "id": 577,
+                "module": {
+                    "id": 60,
+                    "name": "Account Newest Registrations",
+                    "file": "account_newestregistrations",
+                    "config_values": "",
+                    "description": "Display newest member registrations",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 17,
+                "module_id": 69,
+                "rank": 0,
+                "temp_id": null,
+                "id": 691,
+                "module": {
+                    "id": 69,
+                    "name": "Travel Vouchers",
+                    "file": "fitpro_travelvoucher",
+                    "config_values": "{&quot;travel_producttype_id&quot;:&quot;1&quot;}",
+                    "description": "Vouchers for travel on fitpro",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 17,
+                "module_id": 78,
+                "rank": 0,
+                "temp_id": null,
+                "id": 846,
+                "module": {
+                    "id": 78,
+                    "name": "Facebook Sharing Meta Data",
+                    "file": "facebook_metadata",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            }
+        ]
+    },
+    {
+        "sections": {
+            "template_id": 1,
+            "section_id": 18,
+            "temp_id": null,
+            "id": 18,
+            "name": "footer_right",
+            "display": "Footer (Right)",
+            "rank": 1
+        },
+        "modules": [
+            {
+                "template_id": 1,
+                "section_id": 18,
+                "module_id": 36,
+                "rank": 0,
+                "temp_id": null,
+                "id": 192,
+                "module": {
+                    "id": 36,
+                    "name": "Product Reviews",
+                    "file": "product_reviews",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 18,
+                "module_id": 40,
+                "rank": 0,
+                "temp_id": null,
+                "id": 275,
+                "module": {
+                    "id": 40,
+                    "name": "Account Address List",
+                    "file": "account_addresses",
+                    "config_values": "",
+                    "description": "Display short list of addresses in account",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 18,
+                "module_id": 67,
+                "rank": 0,
+                "temp_id": null,
+                "id": 667,
+                "module": {
+                    "id": 67,
+                    "name": "Resort Details Link",
+                    "file": "fitpro_resortdetailslink",
+                    "config_values": "{&quot;resort_attribute&quot;:&quot;21&quot;,&quot;resort_category_id&quot;:&quot;67&quot;}",
+                    "description": "The link shown on products page to forward user to resort details page",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 18,
+                "module_id": 69,
+                "rank": 0,
+                "temp_id": null,
+                "id": 692,
+                "module": {
+                    "id": 69,
+                    "name": "Travel Vouchers",
+                    "file": "fitpro_travelvoucher",
+                    "config_values": "{&quot;travel_producttype_id&quot;:&quot;1&quot;}",
+                    "description": "Vouchers for travel on fitpro",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 18,
+                "module_id": 70,
+                "rank": 0,
+                "temp_id": null,
+                "id": 712,
+                "module": {
+                    "id": 70,
+                    "name": "Magic Zoom v2",
+                    "file": "product_magiczoomv2",
+                    "config_values": "",
+                    "description": "Magic zoom for product details page.",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 18,
+                "module_id": 71,
+                "rank": 0,
+                "temp_id": null,
+                "id": 747,
+                "module": {
+                    "id": 71,
+                    "name": "Override Required Login for Catalog",
+                    "file": "catalog_requirelogin_override",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 18,
+                "module_id": 72,
+                "rank": 0,
+                "temp_id": null,
+                "id": 767,
+                "module": {
+                    "id": 72,
+                    "name": "Fitpro Upcoming\/Post Trip Notification",
+                    "file": "fitpro_upcomingtrip",
+                    "config_values": "{&quot;resort_attribute&quot;:&quot;21&quot;,&quot;teaching_vacation_type&quot;:&quot;1&quot;,&quot;upcoming_trip_msgtemplate_id&quot;:&quot;121&quot;,&quot;early_upcoming_trip_msgtemplate_id&quot;:&quot;181&quot;,&quot;post_trip_msgtemplate_id&quot;:&quot;72&quot;,&quot;arrived_at_trip_msgtemplate_id&quot;:&quot;190&quot;}",
+                    "description": "Upcoming and post trip notifications",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 18,
+                "module_id": 76,
+                "rank": 0,
+                "temp_id": null,
+                "id": 807,
+                "module": {
+                    "id": 76,
+                    "name": "Category Slider",
+                    "file": "fitpro_categoryslider",
+                    "config_values": "{&quot;resort_attribute&quot;:&quot;21&quot;,&quot;airport_attribute&quot;:&quot;23&quot;,&quot;region_attribute&quot;:&quot;22&quot;,&quot;type_attribute&quot;:&quot;18&quot;,&quot;category_id&quot;:&quot;159&quot;}",
+                    "description": "",
+                    "showinmenu": false
+                }
+            }
+        ]
+    },
+    {
+        "sections": {
+            "template_id": 1,
+            "section_id": 27,
+            "temp_id": null,
+            "id": 27,
+            "name": "productdetails_zoom_post",
+            "display": "Product Details Zoom (After)",
+            "rank": 1
+        },
+        "modules": [
+            {
+                "template_id": 1,
+                "section_id": 27,
+                "module_id": 2,
+                "rank": 0,
+                "temp_id": null,
+                "id": 9,
+                "module": {
+                    "id": 2,
+                    "name": "Product Specifications",
+                    "file": "product_specs",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 27,
+                "module_id": 3,
+                "rank": 0,
+                "temp_id": null,
+                "id": 35,
+                "module": {
+                    "id": 3,
+                    "name": "Customer Account Menu",
+                    "file": "customeraccount_menu",
+                    "config_values": "{&quot;personalize_default&quot;:&quot;My &quot;}",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 27,
+                "module_id": 28,
+                "rank": 0,
+                "temp_id": null,
+                "id": 149,
+                "module": {
+                    "id": 28,
+                    "name": "Newsletter Signup",
+                    "file": "newsletter_signup",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 27,
+                "module_id": 31,
+                "rank": 0,
+                "temp_id": null,
+                "id": 184,
+                "module": {
+                    "id": 31,
+                    "name": "Categories Menu",
+                    "file": "categories_menu",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 27,
+                "module_id": 36,
+                "rank": 0,
+                "temp_id": null,
+                "id": 193,
+                "module": {
+                    "id": 36,
+                    "name": "Product Reviews",
+                    "file": "product_reviews",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 27,
+                "module_id": 39,
+                "rank": 0,
+                "temp_id": null,
+                "id": 247,
+                "module": {
+                    "id": 39,
+                    "name": "Account Order History",
+                    "file": "account_orderhistory",
+                    "config_values": "",
+                    "description": "Display recent orders in account",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 27,
+                "module_id": 46,
+                "rank": 0,
+                "temp_id": null,
+                "id": 347,
+                "module": {
+                    "id": 46,
+                    "name": "Networking Summary",
+                    "file": "account_networkingsummary",
+                    "config_values": "",
+                    "description": "Show summary of different networking info",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 27,
+                "module_id": 64,
+                "rank": 0,
+                "temp_id": null,
+                "id": 597,
+                "module": {
+                    "id": 64,
+                    "name": "Page Menus",
+                    "file": "page_menus",
+                    "config_values": "",
+                    "description": "Load multiple page menus",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 27,
+                "module_id": 65,
+                "rank": 0,
+                "temp_id": null,
+                "id": 625,
+                "module": {
+                    "id": 65,
+                    "name": "Advanced Categories Menu",
+                    "file": "categories_advancedmenu",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 27,
+                "module_id": 67,
+                "rank": 0,
+                "temp_id": null,
+                "id": 670,
+                "module": {
+                    "id": 67,
+                    "name": "Resort Details Link",
+                    "file": "fitpro_resortdetailslink",
+                    "config_values": "{&quot;resort_attribute&quot;:&quot;21&quot;,&quot;resort_category_id&quot;:&quot;67&quot;}",
+                    "description": "The link shown on products page to forward user to resort details page",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 27,
+                "module_id": 77,
+                "rank": 0,
+                "temp_id": null,
+                "id": 829,
+                "module": {
+                    "id": 77,
+                    "name": "Cookie Policy Warning",
+                    "file": "cookie_policy",
+                    "config_values": "{&quot;privacypolicy_link&quot;:&quot;\/privacy-policy&quot;,&quot;termsofuse_link&quot;:&quot;\/terms-and-conditions&quot;,&quot;cookiepolicy_link&quot;:&quot;\/cookie-policy&quot;,&quot;bg_color&quot;:&quot;rgba(255,255,255,0.9)&quot;,&quot;text_color&quot;:&quot;#666&quot;}",
+                    "description": "",
+                    "showinmenu": false
+                }
+            }
+        ]
+    },
+    {
+        "sections": {
+            "template_id": 1,
+            "section_id": 35,
+            "temp_id": null,
+            "id": 35,
+            "name": "body_bottom",
+            "display": "Body (Bottom)",
+            "rank": 1
+        },
+        "modules": [
+            {
+                "template_id": 1,
+                "section_id": 35,
+                "module_id": 25,
+                "rank": 0,
+                "temp_id": null,
+                "id": 128,
+                "module": {
+                    "id": 25,
+                    "name": "Cart Summary (Simple)",
+                    "file": "cart_summary_simple",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 35,
+                "module_id": 29,
+                "rank": 0,
+                "temp_id": null,
+                "id": 164,
+                "module": {
+                    "id": 29,
+                    "name": "Simple Search",
+                    "file": "simple_search",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 35,
+                "module_id": 39,
+                "rank": 0,
+                "temp_id": null,
+                "id": 249,
+                "module": {
+                    "id": 39,
+                    "name": "Account Order History",
+                    "file": "account_orderhistory",
+                    "config_values": "",
+                    "description": "Display recent orders in account",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 35,
+                "module_id": 43,
+                "rank": 0,
+                "temp_id": null,
+                "id": 285,
+                "module": {
+                    "id": 43,
+                    "name": "Account Missing Profile Image",
+                    "file": "account_missingprofileimage",
+                    "config_values": "",
+                    "description": "Produce warning if account doesn't have a profile image",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 35,
+                "module_id": 47,
+                "rank": 0,
+                "temp_id": null,
+                "id": 355,
+                "module": {
+                    "id": 47,
+                    "name": "List Upcoming Events",
+                    "file": "account_upcomingevents",
+                    "config_values": "",
+                    "description": "Display list of upcoming events",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 35,
+                "module_id": 62,
+                "rank": 0,
+                "temp_id": null,
+                "id": 588,
+                "module": {
+                    "id": 62,
+                    "name": "Upcoming Events",
+                    "file": "events_upcoming",
+                    "config_values": "",
+                    "description": "Display list of feature events",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 35,
+                "module_id": 70,
+                "rank": 0,
+                "temp_id": null,
+                "id": 716,
+                "module": {
+                    "id": 70,
+                    "name": "Magic Zoom v2",
+                    "file": "product_magiczoomv2",
+                    "config_values": "",
+                    "description": "Magic zoom for product details page.",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 35,
+                "module_id": 71,
+                "rank": 0,
+                "temp_id": null,
+                "id": 752,
+                "module": {
+                    "id": 71,
+                    "name": "Override Required Login for Catalog",
+                    "file": "catalog_requirelogin_override",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 35,
+                "module_id": 74,
+                "rank": 0,
+                "temp_id": null,
+                "id": 781,
+                "module": {
+                    "id": 74,
+                    "name": "FAQ Top List",
+                    "file": "faq_toplist",
+                    "config_values": "",
+                    "description": "List top number of FAQs",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 35,
+                "module_id": 77,
+                "rank": 0,
+                "temp_id": null,
+                "id": 832,
+                "module": {
+                    "id": 77,
+                    "name": "Cookie Policy Warning",
+                    "file": "cookie_policy",
+                    "config_values": "{&quot;privacypolicy_link&quot;:&quot;\/privacy-policy&quot;,&quot;termsofuse_link&quot;:&quot;\/terms-and-conditions&quot;,&quot;cookiepolicy_link&quot;:&quot;\/cookie-policy&quot;,&quot;bg_color&quot;:&quot;rgba(255,255,255,0.9)&quot;,&quot;text_color&quot;:&quot;#666&quot;}",
+                    "description": "",
+                    "showinmenu": false
+                }
+            }
+        ]
+    },
+    {
+        "sections": {
+            "template_id": 16,
+            "section_id": 5,
+            "temp_id": null,
+            "id": 5,
+            "name": "body_footer",
+            "display": "Body (Footer)",
+            "rank": 1
+        },
+        "modules": [
+            {
+                "template_id": 1,
+                "section_id": 5,
+                "module_id": 10,
+                "rank": 0,
+                "temp_id": null,
+                "id": 50,
+                "module": {
+                    "id": 10,
+                    "name": "Related Products (By Last Added to Cart)",
+                    "file": "related_products_bylastadded",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 5,
+                "module_id": 11,
+                "rank": 0,
+                "temp_id": null,
+                "id": 58,
+                "module": {
+                    "id": 11,
+                    "name": "Related Products (By Items in Cart)",
+                    "file": "related_products_bycart",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 5,
+                "module_id": 28,
+                "rank": 0,
+                "temp_id": null,
+                "id": 145,
+                "module": {
+                    "id": 28,
+                    "name": "Newsletter Signup",
+                    "file": "newsletter_signup",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 5,
+                "module_id": 29,
+                "rank": 0,
+                "temp_id": null,
+                "id": 159,
+                "module": {
+                    "id": 29,
+                    "name": "Simple Search",
+                    "file": "simple_search",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 5,
+                "module_id": 36,
+                "rank": 0,
+                "temp_id": null,
+                "id": 190,
+                "module": {
+                    "id": 36,
+                    "name": "Product Reviews",
+                    "file": "product_reviews",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 5,
+                "module_id": 47,
+                "rank": 0,
+                "temp_id": null,
+                "id": 350,
+                "module": {
+                    "id": 47,
+                    "name": "List Upcoming Events",
+                    "file": "account_upcomingevents",
+                    "config_values": "",
+                    "description": "Display list of upcoming events",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 5,
+                "module_id": 48,
+                "rank": 0,
+                "temp_id": null,
+                "id": 358,
+                "module": {
+                    "id": 48,
+                    "name": "Networking Alerts",
+                    "file": "account_networkingalerts",
+                    "config_values": "",
+                    "description": "Display alerts of networking activities",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 5,
+                "module_id": 49,
+                "rank": 0,
+                "temp_id": null,
+                "id": 375,
+                "module": {
+                    "id": 49,
+                    "name": "Account Files",
+                    "file": "account_files",
+                    "config_values": "{&quot;show_in_customermenu&quot;:&quot;1&quot;,&quot;list_element_id&quot;:&quot;64&quot;}",
+                    "description": "",
+                    "showinmenu": true
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 5,
+                "module_id": 58,
+                "rank": 0,
+                "temp_id": null,
+                "id": 563,
+                "module": {
+                    "id": 58,
+                    "name": "Account Start Register Form",
+                    "file": "account_startregister",
+                    "config_values": "",
+                    "description": "Display fields to start registration for account",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 5,
+                "module_id": 66,
+                "rank": 0,
+                "temp_id": null,
+                "id": 634,
+                "module": {
+                    "id": 66,
+                    "name": "Resort Details",
+                    "file": "fitpro_resortdetails",
+                    "config_values": "{&quot;resort_attribute&quot;:&quot;21&quot;,&quot;airport_attribute&quot;:&quot;23&quot;,&quot;region_attribute&quot;:&quot;22&quot;,&quot;type_attribute&quot;:&quot;18&quot;,&quot;element_id&quot;:&quot;&quot;,&quot;campaign_id&quot;:&quot;1&quot;}",
+                    "description": "Resort specific details for the resort details page",
+                    "showinmenu": true
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 5,
+                "module_id": 67,
+                "rank": 0,
+                "temp_id": null,
+                "id": 664,
+                "module": {
+                    "id": 67,
+                    "name": "Resort Details Link",
+                    "file": "fitpro_resortdetailslink",
+                    "config_values": "{&quot;resort_attribute&quot;:&quot;21&quot;,&quot;resort_category_id&quot;:&quot;67&quot;}",
+                    "description": "The link shown on products page to forward user to resort details page",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 5,
+                "module_id": 70,
+                "rank": 0,
+                "temp_id": null,
+                "id": 710,
+                "module": {
+                    "id": 70,
+                    "name": "Magic Zoom v2",
+                    "file": "product_magiczoomv2",
+                    "config_values": "",
+                    "description": "Magic zoom for product details page.",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 5,
+                "module_id": 71,
+                "rank": 0,
+                "temp_id": null,
+                "id": 745,
+                "module": {
+                    "id": 71,
+                    "name": "Override Required Login for Catalog",
+                    "file": "catalog_requirelogin_override",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 5,
+                "module_id": 72,
+                "rank": 0,
+                "temp_id": null,
+                "id": 762,
+                "module": {
+                    "id": 72,
+                    "name": "Fitpro Upcoming\/Post Trip Notification",
+                    "file": "fitpro_upcomingtrip",
+                    "config_values": "{&quot;resort_attribute&quot;:&quot;21&quot;,&quot;teaching_vacation_type&quot;:&quot;1&quot;,&quot;upcoming_trip_msgtemplate_id&quot;:&quot;121&quot;,&quot;early_upcoming_trip_msgtemplate_id&quot;:&quot;181&quot;,&quot;post_trip_msgtemplate_id&quot;:&quot;72&quot;,&quot;arrived_at_trip_msgtemplate_id&quot;:&quot;190&quot;}",
+                    "description": "Upcoming and post trip notifications",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 5,
+                "module_id": 76,
+                "rank": 0,
+                "temp_id": null,
+                "id": 803,
+                "module": {
+                    "id": 76,
+                    "name": "Category Slider",
+                    "file": "fitpro_categoryslider",
+                    "config_values": "{&quot;resort_attribute&quot;:&quot;21&quot;,&quot;airport_attribute&quot;:&quot;23&quot;,&quot;region_attribute&quot;:&quot;22&quot;,&quot;type_attribute&quot;:&quot;18&quot;,&quot;category_id&quot;:&quot;159&quot;}",
+                    "description": "",
+                    "showinmenu": false
+                }
+            }
+        ]
+    },
+    {
+        "sections": {
+            "template_id": 16,
+            "section_id": 14,
+            "temp_id": null,
+            "id": 14,
+            "name": "right_bottom",
+            "display": "Right Sidebar (Bottom)",
+            "rank": 1
+        },
+        "modules": [
+            {
+                "template_id": 1,
+                "section_id": 14,
+                "module_id": 4,
+                "rank": 0,
+                "temp_id": null,
+                "id": 40,
+                "module": {
+                    "id": 4,
+                    "name": "Affiliate Account Menu",
+                    "file": "affiliateaccount_menu",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 14,
+                "module_id": 39,
+                "rank": 0,
+                "temp_id": null,
+                "id": 243,
+                "module": {
+                    "id": 39,
+                    "name": "Account Order History",
+                    "file": "account_orderhistory",
+                    "config_values": "",
+                    "description": "Display recent orders in account",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 14,
+                "module_id": 47,
+                "rank": 0,
+                "temp_id": null,
+                "id": 351,
+                "module": {
+                    "id": 47,
+                    "name": "List Upcoming Events",
+                    "file": "account_upcomingevents",
+                    "config_values": "",
+                    "description": "Display list of upcoming events",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 14,
+                "module_id": 66,
+                "rank": 0,
+                "temp_id": null,
+                "id": 636,
+                "module": {
+                    "id": 66,
+                    "name": "Resort Details",
+                    "file": "fitpro_resortdetails",
+                    "config_values": "{&quot;resort_attribute&quot;:&quot;21&quot;,&quot;airport_attribute&quot;:&quot;23&quot;,&quot;region_attribute&quot;:&quot;22&quot;,&quot;type_attribute&quot;:&quot;18&quot;,&quot;element_id&quot;:&quot;&quot;,&quot;campaign_id&quot;:&quot;1&quot;}",
+                    "description": "Resort specific details for the resort details page",
+                    "showinmenu": true
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 14,
+                "module_id": 67,
+                "rank": 0,
+                "temp_id": null,
+                "id": 666,
+                "module": {
+                    "id": 67,
+                    "name": "Resort Details Link",
+                    "file": "fitpro_resortdetailslink",
+                    "config_values": "{&quot;resort_attribute&quot;:&quot;21&quot;,&quot;resort_category_id&quot;:&quot;67&quot;}",
+                    "description": "The link shown on products page to forward user to resort details page",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 14,
+                "module_id": 74,
+                "rank": 0,
+                "temp_id": null,
+                "id": 776,
+                "module": {
+                    "id": 74,
+                    "name": "FAQ Top List",
+                    "file": "faq_toplist",
+                    "config_values": "",
+                    "description": "List top number of FAQs",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 14,
+                "module_id": 75,
+                "rank": 0,
+                "temp_id": null,
+                "id": 785,
+                "module": {
+                    "id": 75,
+                    "name": "Account Creation Myemma",
+                    "file": "accountcreation_myemmasubscribe",
+                    "config_values": "{&quot;account_id&quot;:&quot;40748&quot;,&quot;public_api_key&quot;:&quot;340915c2325257b6af9d&quot;,&quot;private_api_key&quot;:&quot;3a4261ad1b03776e4e4f&quot;,&quot;type&quot;:&quot;0&quot;}",
+                    "description": "",
+                    "showinmenu": true
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 14,
+                "module_id": 76,
+                "rank": 0,
+                "temp_id": null,
+                "id": 805,
+                "module": {
+                    "id": 76,
+                    "name": "Category Slider",
+                    "file": "fitpro_categoryslider",
+                    "config_values": "{&quot;resort_attribute&quot;:&quot;21&quot;,&quot;airport_attribute&quot;:&quot;23&quot;,&quot;region_attribute&quot;:&quot;22&quot;,&quot;type_attribute&quot;:&quot;18&quot;,&quot;category_id&quot;:&quot;159&quot;}",
+                    "description": "",
+                    "showinmenu": false
+                }
+            }
+        ]
+    },
+    {
+        "sections": {
+            "template_id": 16,
+            "section_id": 16,
+            "temp_id": null,
+            "id": 16,
+            "name": "header_right",
+            "display": "Header (Right)",
+            "rank": 1
+        },
+        "modules": [
+            {
+                "template_id": 1,
+                "section_id": 16,
+                "module_id": 12,
+                "rank": 0,
+                "temp_id": null,
+                "id": 75,
+                "module": {
+                    "id": 12,
+                    "name": "Recently Viewed Products",
+                    "file": "recently_viewed_products",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 16,
+                "module_id": 29,
+                "rank": 0,
+                "temp_id": null,
+                "id": 160,
+                "module": {
+                    "id": 29,
+                    "name": "Simple Search",
+                    "file": "simple_search",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 16,
+                "module_id": 31,
+                "rank": 0,
+                "temp_id": null,
+                "id": 180,
+                "module": {
+                    "id": 31,
+                    "name": "Categories Menu",
+                    "file": "categories_menu",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 16,
+                "module_id": 39,
+                "rank": 0,
+                "temp_id": null,
+                "id": 244,
+                "module": {
+                    "id": 39,
+                    "name": "Account Order History",
+                    "file": "account_orderhistory",
+                    "config_values": "",
+                    "description": "Display recent orders in account",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 16,
+                "module_id": 40,
+                "rank": 0,
+                "temp_id": null,
+                "id": 274,
+                "module": {
+                    "id": 40,
+                    "name": "Account Address List",
+                    "file": "account_addresses",
+                    "config_values": "",
+                    "description": "Display short list of addresses in account",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 16,
+                "module_id": 49,
+                "rank": 0,
+                "temp_id": null,
+                "id": 381,
+                "module": {
+                    "id": 49,
+                    "name": "Account Files",
+                    "file": "account_files",
+                    "config_values": "{&quot;show_in_customermenu&quot;:&quot;1&quot;,&quot;list_element_id&quot;:&quot;64&quot;}",
+                    "description": "",
+                    "showinmenu": true
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 16,
+                "module_id": 50,
+                "rank": 0,
+                "temp_id": null,
+                "id": 397,
+                "module": {
+                    "id": 50,
+                    "name": "Account Certifications",
+                    "file": "account_certifications",
+                    "config_values": "{&quot;show_in_customermenu&quot;:&quot;1&quot;,&quot;list_element_id&quot;:&quot;65&quot;,&quot;edit_element_id&quot;:&quot;0&quot;}",
+                    "description": "",
+                    "showinmenu": true
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 16,
+                "module_id": 53,
+                "rank": 0,
+                "temp_id": null,
+                "id": 433,
+                "module": {
+                    "id": 53,
+                    "name": "Search Vacations",
+                    "file": "fitpro_searchvacations",
+                    "config_values": "",
+                    "description": "Search Form for Vacations",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 16,
+                "module_id": 54,
+                "rank": 0,
+                "temp_id": null,
+                "id": 448,
+                "module": {
+                    "id": 54,
+                    "name": "Search Form",
+                    "file": "search_form",
+                    "config_values": "",
+                    "description": "Load a search form",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 16,
+                "module_id": 60,
+                "rank": 0,
+                "temp_id": null,
+                "id": 576,
+                "module": {
+                    "id": 60,
+                    "name": "Account Newest Registrations",
+                    "file": "account_newestregistrations",
+                    "config_values": "",
+                    "description": "Display newest member registrations",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 16,
+                "module_id": 65,
+                "rank": 0,
+                "temp_id": null,
+                "id": 623,
+                "module": {
+                    "id": 65,
+                    "name": "Advanced Categories Menu",
+                    "file": "categories_advancedmenu",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 16,
+                "module_id": 66,
+                "rank": 0,
+                "temp_id": null,
+                "id": 637,
+                "module": {
+                    "id": 66,
+                    "name": "Resort Details",
+                    "file": "fitpro_resortdetails",
+                    "config_values": "{&quot;resort_attribute&quot;:&quot;21&quot;,&quot;airport_attribute&quot;:&quot;23&quot;,&quot;region_attribute&quot;:&quot;22&quot;,&quot;type_attribute&quot;:&quot;18&quot;,&quot;element_id&quot;:&quot;&quot;,&quot;campaign_id&quot;:&quot;1&quot;}",
+                    "description": "Resort specific details for the resort details page",
+                    "showinmenu": true
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 16,
+                "module_id": 70,
+                "rank": 0,
+                "temp_id": null,
+                "id": 711,
+                "module": {
+                    "id": 70,
+                    "name": "Magic Zoom v2",
+                    "file": "product_magiczoomv2",
+                    "config_values": "",
+                    "description": "Magic zoom for product details page.",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 16,
+                "module_id": 71,
+                "rank": 0,
+                "temp_id": null,
+                "id": 746,
+                "module": {
+                    "id": 71,
+                    "name": "Override Required Login for Catalog",
+                    "file": "catalog_requirelogin_override",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 16,
+                "module_id": 73,
+                "rank": 0,
+                "temp_id": null,
+                "id": 772,
+                "module": {
+                    "id": 73,
+                    "name": "Auto Update Dates Order Rules",
+                    "file": "fitpro_datesautoorderrules",
+                    "config_values": "",
+                    "description": "Auto change order rules when start date within certain days",
+                    "showinmenu": true
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 16,
+                "module_id": 78,
+                "rank": 0,
+                "temp_id": null,
+                "id": 845,
+                "module": {
+                    "id": 78,
+                    "name": "Facebook Sharing Meta Data",
+                    "file": "facebook_metadata",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            }
+        ]
+    },
+    {
+        "sections": {
+            "template_id": 16,
+            "section_id": 26,
+            "temp_id": null,
+            "id": 26,
+            "name": "productdetails_zoom_pre",
+            "display": "Product Details Zoom (Before)",
+            "rank": 1
+        },
+        "modules": [
+            {
+                "template_id": 1,
+                "section_id": 26,
+                "module_id": 1,
+                "rank": 0,
+                "temp_id": null,
+                "id": 5,
+                "module": {
+                    "id": 1,
+                    "name": "Related Products (By Brand)",
+                    "file": "related_products_bybrand",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 26,
+                "module_id": 5,
+                "rank": 0,
+                "temp_id": null,
+                "id": 48,
+                "module": {
+                    "id": 5,
+                    "name": "Standard Zoom",
+                    "file": "product_zoom",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 26,
+                "module_id": 11,
+                "rank": 0,
+                "temp_id": null,
+                "id": 60,
+                "module": {
+                    "id": 11,
+                    "name": "Related Products (By Items in Cart)",
+                    "file": "related_products_bycart",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 26,
+                "module_id": 14,
+                "rank": 0,
+                "temp_id": null,
+                "id": 85,
+                "module": {
+                    "id": 14,
+                    "name": "Checkout Steps",
+                    "file": "checkout_steps",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 26,
+                "module_id": 39,
+                "rank": 0,
+                "temp_id": null,
+                "id": 246,
+                "module": {
+                    "id": 39,
+                    "name": "Account Order History",
+                    "file": "account_orderhistory",
+                    "config_values": "",
+                    "description": "Display recent orders in account",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 26,
+                "module_id": 44,
+                "rank": 0,
+                "temp_id": null,
+                "id": 304,
+                "module": {
+                    "id": 44,
+                    "name": "My Friends List",
+                    "file": "friend_myfriends",
+                    "config_values": "",
+                    "description": "Display friends of an account",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 26,
+                "module_id": 47,
+                "rank": 0,
+                "temp_id": null,
+                "id": 354,
+                "module": {
+                    "id": 47,
+                    "name": "List Upcoming Events",
+                    "file": "account_upcomingevents",
+                    "config_values": "",
+                    "description": "Display list of upcoming events",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 26,
+                "module_id": 51,
+                "rank": 0,
+                "temp_id": null,
+                "id": 406,
+                "module": {
+                    "id": 51,
+                    "name": "Lookbooks v2",
+                    "file": "lookbookv2",
+                    "config_values": "",
+                    "description": "Lookbook gallery modules.",
+                    "showinmenu": true
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 26,
+                "module_id": 52,
+                "rank": 0,
+                "temp_id": null,
+                "id": 419,
+                "module": {
+                    "id": 52,
+                    "name": "Breadcrumbs",
+                    "file": "breadcrumbs",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 26,
+                "module_id": 53,
+                "rank": 0,
+                "temp_id": null,
+                "id": 435,
+                "module": {
+                    "id": 53,
+                    "name": "Search Vacations",
+                    "file": "fitpro_searchvacations",
+                    "config_values": "",
+                    "description": "Search Form for Vacations",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 26,
+                "module_id": 62,
+                "rank": 0,
+                "temp_id": null,
+                "id": 585,
+                "module": {
+                    "id": 62,
+                    "name": "Upcoming Events",
+                    "file": "events_upcoming",
+                    "config_values": "",
+                    "description": "Display list of feature events",
+                    "showinmenu": false
+                }
+            },
+            {
+                "template_id": 1,
+                "section_id": 26,
+                "module_id": 78,
+                "rank": 0,
+                "temp_id": null,
+                "id": 847,
+                "module": {
+                    "id": 78,
+                    "name": "Facebook Sharing Meta Data",
+                    "file": "facebook_metadata",
+                    "config_values": "",
+                    "description": "",
+                    "showinmenu": false
+                }
+            }
+        ]
+    }
+]

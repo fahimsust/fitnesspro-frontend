@@ -1,0 +1,74 @@
+{
+    "current_page": 1,
+    "data": [
+        {
+            "id": 23,
+            "option_id": 9,
+            "name": "laudantium sint",
+            "display": "laudantium sint",
+            "price": 0,
+            "rank": 0,
+            "image_id": null,
+            "is_custom": false,
+            "start_date": null,
+            "end_date": null,
+            "status": true,
+            "custom": null
+        },
+        {
+            "id": 24,
+            "option_id": 9,
+            "name": "delectus accusamus",
+            "display": "delectus accusamus",
+            "price": 0,
+            "rank": 0,
+            "image_id": null,
+            "is_custom": false,
+            "start_date": null,
+            "end_date": null,
+            "status": true,
+            "custom": null
+        },
+        {
+            "id": 25,
+            "option_id": 9,
+            "name": "voluptas est",
+            "display": "voluptas est",
+            "price": 0,
+            "rank": 0,
+            "image_id": null,
+            "is_custom": false,
+            "start_date": null,
+            "end_date": null,
+            "status": true,
+            "custom": null
+        }
+    ],
+    "first_page_url": "http:\/\/localhost:89\/api\/admin\/product-option-values\/9?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "http:\/\/localhost:89\/api\/admin\/product-option-values\/9?page=1",
+    "links": [
+        {
+            "url": null,
+            "label": "&laquo; Previous",
+            "active": false
+        },
+        {
+            "url": "http:\/\/localhost:89\/api\/admin\/product-option-values\/9?page=1",
+            "label": "1",
+            "active": true
+        },
+        {
+            "url": null,
+            "label": "Next &raquo;",
+            "active": false
+        }
+    ],
+    "next_page_url": null,
+    "path": "http:\/\/localhost:89\/api\/admin\/product-option-values\/9",
+    "per_page": 15,
+    "prev_page_url": null,
+    "to": 3,
+    "total": 3
+}

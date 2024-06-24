@@ -1,0 +1,352 @@
+{
+    "current_page": 1,
+    "data": [
+        {
+            "id": 44,
+            "account_id": 1,
+            "template_id": 1,
+            "sent_to": "clesch@hotmail.com",
+            "subject": "dolorum",
+            "content": "Ullam earum expedita quaerat totam dicta assumenda nemo.",
+            "sent_date": "2024-04-18T11:36:40.000000Z",
+            "sent_by": {
+                "id": 1,
+                "name": "Geovanny Wyman",
+                "email": "john@782media.com",
+                "email_verified_at": "2024-04-18T11:36:29.000000Z",
+                "created_at": "2024-04-18T11:36:29.000000Z",
+                "updated_at": "2024-04-18T11:36:29.000000Z"
+            },
+            "order_id": 2,
+            "status": "sent",
+            "failed_data": null,
+            "sent_to_account": null
+        },
+        {
+            "id": 58,
+            "account_id": 1,
+            "template_id": 1,
+            "sent_to": "uconsidine@kuvalis.com",
+            "subject": "delectus",
+            "content": "Omnis molestiae et qui ratione.",
+            "sent_date": "2024-04-18T11:36:40.000000Z",
+            "sent_by": {
+                "id": 1,
+                "name": "Geovanny Wyman",
+                "email": "john@782media.com",
+                "email_verified_at": "2024-04-18T11:36:29.000000Z",
+                "created_at": "2024-04-18T11:36:29.000000Z",
+                "updated_at": "2024-04-18T11:36:29.000000Z"
+            },
+            "order_id": 2,
+            "status": "sent",
+            "failed_data": null,
+            "sent_to_account": null
+        },
+        {
+            "id": 57,
+            "account_id": 1,
+            "template_id": 1,
+            "sent_to": "kjacobs@gmail.com",
+            "subject": "ex",
+            "content": "Dolorum nulla harum quia velit perspiciatis.",
+            "sent_date": "2024-04-18T11:36:40.000000Z",
+            "sent_by": {
+                "id": 1,
+                "name": "Geovanny Wyman",
+                "email": "john@782media.com",
+                "email_verified_at": "2024-04-18T11:36:29.000000Z",
+                "created_at": "2024-04-18T11:36:29.000000Z",
+                "updated_at": "2024-04-18T11:36:29.000000Z"
+            },
+            "order_id": 2,
+            "status": "sent",
+            "failed_data": null,
+            "sent_to_account": null
+        },
+        {
+            "id": 56,
+            "account_id": 1,
+            "template_id": 1,
+            "sent_to": "zemlak.curt@hotmail.com",
+            "subject": "omnis",
+            "content": "Accusamus ut omnis consequuntur omnis corrupti consequuntur esse.",
+            "sent_date": "2024-04-18T11:36:40.000000Z",
+            "sent_by": {
+                "id": 1,
+                "name": "Geovanny Wyman",
+                "email": "john@782media.com",
+                "email_verified_at": "2024-04-18T11:36:29.000000Z",
+                "created_at": "2024-04-18T11:36:29.000000Z",
+                "updated_at": "2024-04-18T11:36:29.000000Z"
+            },
+            "order_id": 2,
+            "status": "sent",
+            "failed_data": null,
+            "sent_to_account": null
+        },
+        {
+            "id": 55,
+            "account_id": 1,
+            "template_id": 1,
+            "sent_to": "tnolan@yost.org",
+            "subject": "totam",
+            "content": "Dolor necessitatibus consectetur eos distinctio nisi unde aut.",
+            "sent_date": "2024-04-18T11:36:40.000000Z",
+            "sent_by": {
+                "id": 1,
+                "name": "Geovanny Wyman",
+                "email": "john@782media.com",
+                "email_verified_at": "2024-04-18T11:36:29.000000Z",
+                "created_at": "2024-04-18T11:36:29.000000Z",
+                "updated_at": "2024-04-18T11:36:29.000000Z"
+            },
+            "order_id": 2,
+            "status": "sent",
+            "failed_data": null,
+            "sent_to_account": null
+        },
+        {
+            "id": 54,
+            "account_id": 1,
+            "template_id": 1,
+            "sent_to": "haley.albina@nienow.com",
+            "subject": "enim",
+            "content": "Ut nesciunt nihil quam odit.",
+            "sent_date": "2024-04-18T11:36:40.000000Z",
+            "sent_by": {
+                "id": 1,
+                "name": "Geovanny Wyman",
+                "email": "john@782media.com",
+                "email_verified_at": "2024-04-18T11:36:29.000000Z",
+                "created_at": "2024-04-18T11:36:29.000000Z",
+                "updated_at": "2024-04-18T11:36:29.000000Z"
+            },
+            "order_id": 2,
+            "status": "sent",
+            "failed_data": null,
+            "sent_to_account": null
+        },
+        {
+            "id": 53,
+            "account_id": 1,
+            "template_id": 1,
+            "sent_to": "kyla95@lind.com",
+            "subject": "quos",
+            "content": "Et recusandae accusantium dolorum aut modi.",
+            "sent_date": "2024-04-18T11:36:40.000000Z",
+            "sent_by": {
+                "id": 1,
+                "name": "Geovanny Wyman",
+                "email": "john@782media.com",
+                "email_verified_at": "2024-04-18T11:36:29.000000Z",
+                "created_at": "2024-04-18T11:36:29.000000Z",
+                "updated_at": "2024-04-18T11:36:29.000000Z"
+            },
+            "order_id": 2,
+            "status": "sent",
+            "failed_data": null,
+            "sent_to_account": null
+        },
+        {
+            "id": 52,
+            "account_id": 1,
+            "template_id": 1,
+            "sent_to": "elissa.kilback@gmail.com",
+            "subject": "doloremque",
+            "content": "Quam totam odit et id officia ab.",
+            "sent_date": "2024-04-18T11:36:40.000000Z",
+            "sent_by": {
+                "id": 1,
+                "name": "Geovanny Wyman",
+                "email": "john@782media.com",
+                "email_verified_at": "2024-04-18T11:36:29.000000Z",
+                "created_at": "2024-04-18T11:36:29.000000Z",
+                "updated_at": "2024-04-18T11:36:29.000000Z"
+            },
+            "order_id": 2,
+            "status": "sent",
+            "failed_data": null,
+            "sent_to_account": null
+        },
+        {
+            "id": 51,
+            "account_id": 1,
+            "template_id": 1,
+            "sent_to": "charity.kunde@hotmail.com",
+            "subject": "repudiandae",
+            "content": "Voluptas est expedita debitis labore id et sed illum.",
+            "sent_date": "2024-04-18T11:36:40.000000Z",
+            "sent_by": {
+                "id": 1,
+                "name": "Geovanny Wyman",
+                "email": "john@782media.com",
+                "email_verified_at": "2024-04-18T11:36:29.000000Z",
+                "created_at": "2024-04-18T11:36:29.000000Z",
+                "updated_at": "2024-04-18T11:36:29.000000Z"
+            },
+            "order_id": 2,
+            "status": "sent",
+            "failed_data": null,
+            "sent_to_account": null
+        },
+        {
+            "id": 50,
+            "account_id": 1,
+            "template_id": 1,
+            "sent_to": "callie37@yahoo.com",
+            "subject": "nemo",
+            "content": "Est ad id accusamus nostrum vel magnam.",
+            "sent_date": "2024-04-18T11:36:40.000000Z",
+            "sent_by": {
+                "id": 1,
+                "name": "Geovanny Wyman",
+                "email": "john@782media.com",
+                "email_verified_at": "2024-04-18T11:36:29.000000Z",
+                "created_at": "2024-04-18T11:36:29.000000Z",
+                "updated_at": "2024-04-18T11:36:29.000000Z"
+            },
+            "order_id": 2,
+            "status": "sent",
+            "failed_data": null,
+            "sent_to_account": null
+        },
+        {
+            "id": 49,
+            "account_id": 1,
+            "template_id": 1,
+            "sent_to": "shaina79@yahoo.com",
+            "subject": "consequuntur",
+            "content": "Aut saepe velit non quia ea.",
+            "sent_date": "2024-04-18T11:36:40.000000Z",
+            "sent_by": {
+                "id": 1,
+                "name": "Geovanny Wyman",
+                "email": "john@782media.com",
+                "email_verified_at": "2024-04-18T11:36:29.000000Z",
+                "created_at": "2024-04-18T11:36:29.000000Z",
+                "updated_at": "2024-04-18T11:36:29.000000Z"
+            },
+            "order_id": 2,
+            "status": "sent",
+            "failed_data": null,
+            "sent_to_account": null
+        },
+        {
+            "id": 48,
+            "account_id": 1,
+            "template_id": 1,
+            "sent_to": "clark.wiza@marks.com",
+            "subject": "facilis",
+            "content": "Ducimus aut qui ut nihil illo et.",
+            "sent_date": "2024-04-18T11:36:40.000000Z",
+            "sent_by": {
+                "id": 1,
+                "name": "Geovanny Wyman",
+                "email": "john@782media.com",
+                "email_verified_at": "2024-04-18T11:36:29.000000Z",
+                "created_at": "2024-04-18T11:36:29.000000Z",
+                "updated_at": "2024-04-18T11:36:29.000000Z"
+            },
+            "order_id": 2,
+            "status": "sent",
+            "failed_data": null,
+            "sent_to_account": null
+        },
+        {
+            "id": 47,
+            "account_id": 1,
+            "template_id": 1,
+            "sent_to": "rylee.dibbert@will.com",
+            "subject": "occaecati",
+            "content": "Nulla sequi animi ab eligendi.",
+            "sent_date": "2024-04-18T11:36:40.000000Z",
+            "sent_by": {
+                "id": 1,
+                "name": "Geovanny Wyman",
+                "email": "john@782media.com",
+                "email_verified_at": "2024-04-18T11:36:29.000000Z",
+                "created_at": "2024-04-18T11:36:29.000000Z",
+                "updated_at": "2024-04-18T11:36:29.000000Z"
+            },
+            "order_id": 2,
+            "status": "sent",
+            "failed_data": null,
+            "sent_to_account": null
+        },
+        {
+            "id": 46,
+            "account_id": 1,
+            "template_id": 1,
+            "sent_to": "schmeler.juwan@eichmann.com",
+            "subject": "voluptate",
+            "content": "Id sed quidem ab.",
+            "sent_date": "2024-04-18T11:36:40.000000Z",
+            "sent_by": {
+                "id": 1,
+                "name": "Geovanny Wyman",
+                "email": "john@782media.com",
+                "email_verified_at": "2024-04-18T11:36:29.000000Z",
+                "created_at": "2024-04-18T11:36:29.000000Z",
+                "updated_at": "2024-04-18T11:36:29.000000Z"
+            },
+            "order_id": 2,
+            "status": "sent",
+            "failed_data": null,
+            "sent_to_account": null
+        },
+        {
+            "id": 45,
+            "account_id": 1,
+            "template_id": 1,
+            "sent_to": "kassandra39@greenfelder.biz",
+            "subject": "aut",
+            "content": "Quos voluptas voluptatem quasi ipsum nemo iste in.",
+            "sent_date": "2024-04-18T11:36:40.000000Z",
+            "sent_by": {
+                "id": 1,
+                "name": "Geovanny Wyman",
+                "email": "john@782media.com",
+                "email_verified_at": "2024-04-18T11:36:29.000000Z",
+                "created_at": "2024-04-18T11:36:29.000000Z",
+                "updated_at": "2024-04-18T11:36:29.000000Z"
+            },
+            "order_id": 2,
+            "status": "sent",
+            "failed_data": null,
+            "sent_to_account": null
+        }
+    ],
+    "first_page_url": "http:\/\/localhost:89\/api\/admin\/order\/2\/email?page=1",
+    "from": 1,
+    "last_page": 2,
+    "last_page_url": "http:\/\/localhost:89\/api\/admin\/order\/2\/email?page=2",
+    "links": [
+        {
+            "url": null,
+            "label": "&laquo; Previous",
+            "active": false
+        },
+        {
+            "url": "http:\/\/localhost:89\/api\/admin\/order\/2\/email?page=1",
+            "label": "1",
+            "active": true
+        },
+        {
+            "url": "http:\/\/localhost:89\/api\/admin\/order\/2\/email?page=2",
+            "label": "2",
+            "active": false
+        },
+        {
+            "url": "http:\/\/localhost:89\/api\/admin\/order\/2\/email?page=2",
+            "label": "Next &raquo;",
+            "active": false
+        }
+    ],
+    "next_page_url": "http:\/\/localhost:89\/api\/admin\/order\/2\/email?page=2",
+    "path": "http:\/\/localhost:89\/api\/admin\/order\/2\/email",
+    "per_page": 15,
+    "prev_page_url": null,
+    "to": 15,
+    "total": 29
+}

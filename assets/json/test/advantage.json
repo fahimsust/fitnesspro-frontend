@@ -1,0 +1,205 @@
+[
+    {
+        "id": 1,
+        "discount_id": 1,
+        "advantage_type_id": 10,
+        "amount": 23.23,
+        "apply_shipping_id": 30,
+        "apply_shipping_country": 1,
+        "apply_shipping_distributor": 1,
+        "applyto_qty_type": 0,
+        "applyto_qty_combined": 0,
+        "target_products": [],
+        "target_product_types": [
+            {
+                "id": 1,
+                "name": "sed numquam",
+                "pivot": {
+                    "advantage_id": 1,
+                    "producttype_id": 1,
+                    "applyto_qty": 0,
+                    "id": 1
+                }
+            },
+            {
+                "id": 3,
+                "name": "eum possimus",
+                "pivot": {
+                    "advantage_id": 1,
+                    "producttype_id": 3,
+                    "applyto_qty": 0,
+                    "id": 2
+                }
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "discount_id": 1,
+        "advantage_type_id": 2,
+        "amount": 12,
+        "apply_shipping_id": 36,
+        "apply_shipping_country": 441,
+        "apply_shipping_distributor": 1,
+        "applyto_qty_type": 0,
+        "applyto_qty_combined": 1,
+        "target_products": [],
+        "target_product_types": []
+    },
+    {
+        "id": 33,
+        "discount_id": 1,
+        "advantage_type_id": 1,
+        "amount": 0,
+        "apply_shipping_id": null,
+        "apply_shipping_country": null,
+        "apply_shipping_distributor": null,
+        "applyto_qty_type": 0,
+        "applyto_qty_combined": 1,
+        "target_products": [],
+        "target_product_types": []
+    },
+    {
+        "id": 34,
+        "discount_id": 1,
+        "advantage_type_id": 3,
+        "amount": 0,
+        "apply_shipping_id": null,
+        "apply_shipping_country": null,
+        "apply_shipping_distributor": null,
+        "applyto_qty_type": 0,
+        "applyto_qty_combined": 1,
+        "target_products": [],
+        "target_product_types": []
+    },
+    {
+        "id": 35,
+        "discount_id": 1,
+        "advantage_type_id": 4,
+        "amount": 0,
+        "apply_shipping_id": null,
+        "apply_shipping_country": null,
+        "apply_shipping_distributor": null,
+        "applyto_qty_type": 0,
+        "applyto_qty_combined": 1,
+        "target_products": [],
+        "target_product_types": []
+    },
+    {
+        "id": 36,
+        "discount_id": 1,
+        "advantage_type_id": 5,
+        "amount": 0,
+        "apply_shipping_id": null,
+        "apply_shipping_country": null,
+        "apply_shipping_distributor": null,
+        "applyto_qty_type": 0,
+        "applyto_qty_combined": 1,
+        "target_products": [],
+        "target_product_types": []
+    },
+    {
+        "id": 37,
+        "discount_id": 1,
+        "advantage_type_id": 6,
+        "amount": 0,
+        "apply_shipping_id": null,
+        "apply_shipping_country": null,
+        "apply_shipping_distributor": null,
+        "applyto_qty_type": 0,
+        "applyto_qty_combined": 1,
+        "target_products": [],
+        "target_product_types": []
+    },
+    {
+        "id": 38,
+        "discount_id": 1,
+        "advantage_type_id": 7,
+        "amount": 0,
+        "apply_shipping_id": null,
+        "apply_shipping_country": null,
+        "apply_shipping_distributor": null,
+        "applyto_qty_type": 0,
+        "applyto_qty_combined": 1,
+        "target_products": [],
+        "target_product_types": []
+    },
+    {
+        "id": 39,
+        "discount_id": 1,
+        "advantage_type_id": 8,
+        "amount": 0,
+        "apply_shipping_id": null,
+        "apply_shipping_country": null,
+        "apply_shipping_distributor": null,
+        "applyto_qty_type": 0,
+        "applyto_qty_combined": 1,
+        "target_products": [],
+        "target_product_types": []
+    },
+    {
+        "id": 40,
+        "discount_id": 1,
+        "advantage_type_id": 9,
+        "amount": 0,
+        "apply_shipping_id": null,
+        "apply_shipping_country": null,
+        "apply_shipping_distributor": null,
+        "applyto_qty_type": 0,
+        "applyto_qty_combined": 1,
+        "target_products": [],
+        "target_product_types": []
+    },
+    {
+        "id": 41,
+        "discount_id": 1,
+        "advantage_type_id": 10,
+        "amount": 0,
+        "apply_shipping_id": null,
+        "apply_shipping_country": null,
+        "apply_shipping_distributor": null,
+        "applyto_qty_type": 0,
+        "applyto_qty_combined": 1,
+        "target_products": [],
+        "target_product_types": []
+    },
+    {
+        "id": 42,
+        "discount_id": 1,
+        "advantage_type_id": 13,
+        "amount": 0,
+        "apply_shipping_id": null,
+        "apply_shipping_country": null,
+        "apply_shipping_distributor": null,
+        "applyto_qty_type": 0,
+        "applyto_qty_combined": 1,
+        "target_products": [],
+        "target_product_types": []
+    },
+    {
+        "id": 43,
+        "discount_id": 1,
+        "advantage_type_id": 14,
+        "amount": 0,
+        "apply_shipping_id": null,
+        "apply_shipping_country": null,
+        "apply_shipping_distributor": null,
+        "applyto_qty_type": 0,
+        "applyto_qty_combined": 1,
+        "target_products": [],
+        "target_product_types": []
+    },
+    {
+        "id": 44,
+        "discount_id": 1,
+        "advantage_type_id": 12,
+        "amount": 0,
+        "apply_shipping_id": null,
+        "apply_shipping_country": null,
+        "apply_shipping_distributor": null,
+        "applyto_qty_type": 0,
+        "applyto_qty_combined": 1,
+        "target_products": [],
+        "target_product_types": []
+    }
+]

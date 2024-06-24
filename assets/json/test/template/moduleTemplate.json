@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Products Page",
+        "parent_template_id": 16
+    },
+    {
+        "id": 2,
+        "name": "Catalog Page",
+        "parent_template_id": 16
+    },
+    {
+        "id": 3,
+        "name": "Category Page",
+        "parent_template_id": 16
+    },
+    {
+        "id": 4,
+        "name": "Affiliates Pages",
+        "parent_template_id": 16
+    },
+    {
+        "id": 5,
+        "name": "Account Pages",
+        "parent_template_id": 15
+    },
+    {
+        "id": 6,
+        "name": "Homepage",
+        "parent_template_id": 16
+    },
+    {
+        "id": 7,
+        "name": "Cart Page",
+        "parent_template_id": 16
+    },
+    {
+        "id": 8,
+        "name": "Checkout Pages",
+        "parent_template_id": 16
+    },
+    {
+        "id": 12,
+        "name": "Sitemap Page",
+        "parent_template_id": 16
+    },
+    {
+        "id": 13,
+        "name": "Account Lobby",
+        "parent_template_id": 15
+    },
+    {
+        "id": 14,
+        "name": "Account Networking Lobby",
+        "parent_template_id": 15
+    },
+    {
+        "id": 15,
+        "name": "Account Master",
+        "parent_template_id": 16
+    },
+    {
+        "id": 16,
+        "name": "Root Template",
+        "parent_template_id": null
+    },
+    {
+        "id": 17,
+        "name": "Book Trip Categories",
+        "parent_template_id": 16
+    },
+    {
+        "id": 18,
+        "name": "Book a Trip",
+        "parent_template_id": 17
+    },
+    {
+        "id": 19,
+        "name": "Resort Details",
+        "parent_template_id": 17
+    },
+    {
+        "id": 20,
+        "name": "Profiles Page",
+        "parent_template_id": 16
+    },
+    {
+        "id": 21,
+        "name": "Order View",
+        "parent_template_id": 15
+    },
+    {
+        "id": 22,
+        "name": "Concierge",
+        "parent_template_id": 16
+    },
+    {
+        "id": 23,
+        "name": "Terms & Conditions",
+        "parent_template_id": 16
+    }
+]

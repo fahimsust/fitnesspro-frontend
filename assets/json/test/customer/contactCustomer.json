@@ -1,0 +1,44 @@
+[
+    {
+        "id": 293,
+        "account_id": 34,
+        "template_id": 4,
+        "sent_to": "april76@gmail.com",
+        "subject": "Default Site Password Reset",
+        "content": "<p><br \/>\tDear Esther,<\/p><br \/><div><br \/>\t<p><br \/>\t\tYour Default Site account password has been reset. Your new password is&nbsp;<strong>{NEW_PASSWORD}<\/strong>.<\/p><br \/>\t<p><br \/>\t\tYou can now login to your account using your email address and new password.<\/p><br \/><\/div>",
+        "sent_date": "2024-04-15T18:07:35.000000Z",
+        "sent_by": {
+            "id": 1,
+            "name": "Prof. Stan Hudson I",
+            "email": "john@782media.com",
+            "email_verified_at": "2024-03-17T09:05:52.000000Z",
+            "created_at": "2024-03-17T09:05:52.000000Z",
+            "updated_at": "2024-03-29T05:16:12.000000Z"
+        },
+        "order_id": null,
+        "status": "sent",
+        "failed_data": null,
+        "sent_to_account": null
+    },
+    {
+        "id": 292,
+        "account_id": 34,
+        "template_id": 4,
+        "sent_to": "april76@gmail.com",
+        "subject": "Default Site Password Reset",
+        "content": "<p><br \/>\tDear Esther,<\/p><br \/><div><br \/>\t<p><br \/>\t\tYour Default Site account password has been reset. Your new password is&nbsp;<strong>{NEW_PASSWORD}<\/strong>.<\/p><br \/>\t<p><br \/>\t\tYou can now login to your account using your email address and new password.<\/p><br \/><\/div>",
+        "sent_date": "2024-04-13T10:22:30.000000Z",
+        "sent_by": {
+            "id": 1,
+            "name": "Prof. Stan Hudson I",
+            "email": "john@782media.com",
+            "email_verified_at": "2024-03-17T09:05:52.000000Z",
+            "created_at": "2024-03-17T09:05:52.000000Z",
+            "updated_at": "2024-03-29T05:16:12.000000Z"
+        },
+        "order_id": null,
+        "status": "sent",
+        "failed_data": null,
+        "sent_to_account": null
+    }
+]

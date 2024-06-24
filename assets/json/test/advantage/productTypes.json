@@ -1,0 +1,926 @@
+{
+    "current_page": 1,
+    "data": [
+        {
+            "id": 2,
+            "name": "et beatae",
+            "attribute_sets": [
+                {
+                    "id": 1,
+                    "name": "aliquid id",
+                    "pivot": {
+                        "type_id": 2,
+                        "set_id": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "excepturi maxime",
+                    "pivot": {
+                        "type_id": 2,
+                        "set_id": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "autem illum",
+                    "pivot": {
+                        "type_id": 2,
+                        "set_id": 3
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "laudantium eligendi",
+                    "pivot": {
+                        "type_id": 2,
+                        "set_id": 4
+                    }
+                },
+                {
+                    "id": 6,
+                    "name": "ut qui",
+                    "pivot": {
+                        "type_id": 2,
+                        "set_id": 6
+                    }
+                },
+                {
+                    "id": 9,
+                    "name": "sint architecto",
+                    "pivot": {
+                        "type_id": 2,
+                        "set_id": 9
+                    }
+                },
+                {
+                    "id": 10,
+                    "name": "voluptatem ea",
+                    "pivot": {
+                        "type_id": 2,
+                        "set_id": 10
+                    }
+                }
+            ],
+            "selectedAttributeSet": [
+                1,
+                2,
+                3,
+                4,
+                6,
+                9,
+                10
+            ],
+            "selectedTaxRules": [
+                2,
+                3,
+                6
+            ]
+        },
+        {
+            "id": 4,
+            "name": "quis accusamus",
+            "attribute_sets": [
+                {
+                    "id": 1,
+                    "name": "aliquid id",
+                    "pivot": {
+                        "type_id": 4,
+                        "set_id": 1
+                    }
+                },
+                {
+                    "id": 5,
+                    "name": "quisquam earum",
+                    "pivot": {
+                        "type_id": 4,
+                        "set_id": 5
+                    }
+                },
+                {
+                    "id": 6,
+                    "name": "ut qui",
+                    "pivot": {
+                        "type_id": 4,
+                        "set_id": 6
+                    }
+                },
+                {
+                    "id": 7,
+                    "name": "aliquid praesentium",
+                    "pivot": {
+                        "type_id": 4,
+                        "set_id": 7
+                    }
+                },
+                {
+                    "id": 8,
+                    "name": "consectetur quis",
+                    "pivot": {
+                        "type_id": 4,
+                        "set_id": 8
+                    }
+                },
+                {
+                    "id": 10,
+                    "name": "voluptatem ea",
+                    "pivot": {
+                        "type_id": 4,
+                        "set_id": 10
+                    }
+                }
+            ],
+            "selectedAttributeSet": [
+                1,
+                5,
+                6,
+                7,
+                8,
+                10
+            ],
+            "selectedTaxRules": [
+                1,
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "id": 5,
+            "name": "veritatis aliquam",
+            "attribute_sets": [
+                {
+                    "id": 1,
+                    "name": "aliquid id",
+                    "pivot": {
+                        "type_id": 5,
+                        "set_id": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "excepturi maxime",
+                    "pivot": {
+                        "type_id": 5,
+                        "set_id": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "autem illum",
+                    "pivot": {
+                        "type_id": 5,
+                        "set_id": 3
+                    }
+                },
+                {
+                    "id": 9,
+                    "name": "sint architecto",
+                    "pivot": {
+                        "type_id": 5,
+                        "set_id": 9
+                    }
+                },
+                {
+                    "id": 10,
+                    "name": "voluptatem ea",
+                    "pivot": {
+                        "type_id": 5,
+                        "set_id": 10
+                    }
+                }
+            ],
+            "selectedAttributeSet": [
+                1,
+                2,
+                3,
+                9,
+                10
+            ],
+            "selectedTaxRules": [
+                5
+            ]
+        },
+        {
+            "id": 6,
+            "name": "aut quo",
+            "attribute_sets": [
+                {
+                    "id": 1,
+                    "name": "aliquid id",
+                    "pivot": {
+                        "type_id": 6,
+                        "set_id": 1
+                    }
+                },
+                {
+                    "id": 5,
+                    "name": "quisquam earum",
+                    "pivot": {
+                        "type_id": 6,
+                        "set_id": 5
+                    }
+                },
+                {
+                    "id": 6,
+                    "name": "ut qui",
+                    "pivot": {
+                        "type_id": 6,
+                        "set_id": 6
+                    }
+                },
+                {
+                    "id": 7,
+                    "name": "aliquid praesentium",
+                    "pivot": {
+                        "type_id": 6,
+                        "set_id": 7
+                    }
+                },
+                {
+                    "id": 8,
+                    "name": "consectetur quis",
+                    "pivot": {
+                        "type_id": 6,
+                        "set_id": 8
+                    }
+                },
+                {
+                    "id": 10,
+                    "name": "voluptatem ea",
+                    "pivot": {
+                        "type_id": 6,
+                        "set_id": 10
+                    }
+                }
+            ],
+            "selectedAttributeSet": [
+                1,
+                5,
+                6,
+                7,
+                8,
+                10
+            ],
+            "selectedTaxRules": [
+                2,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "id": 7,
+            "name": "sint consequatur",
+            "attribute_sets": [
+                {
+                    "id": 1,
+                    "name": "aliquid id",
+                    "pivot": {
+                        "type_id": 7,
+                        "set_id": 1
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "laudantium eligendi",
+                    "pivot": {
+                        "type_id": 7,
+                        "set_id": 4
+                    }
+                },
+                {
+                    "id": 5,
+                    "name": "quisquam earum",
+                    "pivot": {
+                        "type_id": 7,
+                        "set_id": 5
+                    }
+                },
+                {
+                    "id": 6,
+                    "name": "ut qui",
+                    "pivot": {
+                        "type_id": 7,
+                        "set_id": 6
+                    }
+                },
+                {
+                    "id": 7,
+                    "name": "aliquid praesentium",
+                    "pivot": {
+                        "type_id": 7,
+                        "set_id": 7
+                    }
+                },
+                {
+                    "id": 8,
+                    "name": "consectetur quis",
+                    "pivot": {
+                        "type_id": 7,
+                        "set_id": 8
+                    }
+                },
+                {
+                    "id": 10,
+                    "name": "voluptatem ea",
+                    "pivot": {
+                        "type_id": 7,
+                        "set_id": 10
+                    }
+                }
+            ],
+            "selectedAttributeSet": [
+                1,
+                4,
+                5,
+                6,
+                7,
+                8,
+                10
+            ],
+            "selectedTaxRules": [
+                2,
+                3,
+                5
+            ]
+        },
+        {
+            "id": 8,
+            "name": "tempore non",
+            "attribute_sets": [
+                {
+                    "id": 1,
+                    "name": "aliquid id",
+                    "pivot": {
+                        "type_id": 8,
+                        "set_id": 1
+                    }
+                },
+                {
+                    "id": 5,
+                    "name": "quisquam earum",
+                    "pivot": {
+                        "type_id": 8,
+                        "set_id": 5
+                    }
+                },
+                {
+                    "id": 6,
+                    "name": "ut qui",
+                    "pivot": {
+                        "type_id": 8,
+                        "set_id": 6
+                    }
+                },
+                {
+                    "id": 7,
+                    "name": "aliquid praesentium",
+                    "pivot": {
+                        "type_id": 8,
+                        "set_id": 7
+                    }
+                },
+                {
+                    "id": 9,
+                    "name": "sint architecto",
+                    "pivot": {
+                        "type_id": 8,
+                        "set_id": 9
+                    }
+                }
+            ],
+            "selectedAttributeSet": [
+                1,
+                5,
+                6,
+                7,
+                9
+            ],
+            "selectedTaxRules": [
+                1,
+                2,
+                4
+            ]
+        },
+        {
+            "id": 9,
+            "name": "nobis enim",
+            "attribute_sets": [
+                {
+                    "id": 2,
+                    "name": "excepturi maxime",
+                    "pivot": {
+                        "type_id": 9,
+                        "set_id": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "autem illum",
+                    "pivot": {
+                        "type_id": 9,
+                        "set_id": 3
+                    }
+                },
+                {
+                    "id": 7,
+                    "name": "aliquid praesentium",
+                    "pivot": {
+                        "type_id": 9,
+                        "set_id": 7
+                    }
+                }
+            ],
+            "selectedAttributeSet": [
+                2,
+                3,
+                7
+            ],
+            "selectedTaxRules": [
+                1,
+                2,
+                6
+            ]
+        },
+        {
+            "id": 10,
+            "name": "autem dolores",
+            "attribute_sets": [
+                {
+                    "id": 1,
+                    "name": "aliquid id",
+                    "pivot": {
+                        "type_id": 10,
+                        "set_id": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "excepturi maxime",
+                    "pivot": {
+                        "type_id": 10,
+                        "set_id": 2
+                    }
+                },
+                {
+                    "id": 8,
+                    "name": "consectetur quis",
+                    "pivot": {
+                        "type_id": 10,
+                        "set_id": 8
+                    }
+                },
+                {
+                    "id": 9,
+                    "name": "sint architecto",
+                    "pivot": {
+                        "type_id": 10,
+                        "set_id": 9
+                    }
+                }
+            ],
+            "selectedAttributeSet": [
+                1,
+                2,
+                8,
+                9
+            ],
+            "selectedTaxRules": [
+                1,
+                2,
+                6
+            ]
+        },
+        {
+            "id": 11,
+            "name": "eum qui",
+            "attribute_sets": [
+                {
+                    "id": 2,
+                    "name": "excepturi maxime",
+                    "pivot": {
+                        "type_id": 11,
+                        "set_id": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "autem illum",
+                    "pivot": {
+                        "type_id": 11,
+                        "set_id": 3
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "laudantium eligendi",
+                    "pivot": {
+                        "type_id": 11,
+                        "set_id": 4
+                    }
+                },
+                {
+                    "id": 5,
+                    "name": "quisquam earum",
+                    "pivot": {
+                        "type_id": 11,
+                        "set_id": 5
+                    }
+                },
+                {
+                    "id": 7,
+                    "name": "aliquid praesentium",
+                    "pivot": {
+                        "type_id": 11,
+                        "set_id": 7
+                    }
+                },
+                {
+                    "id": 8,
+                    "name": "consectetur quis",
+                    "pivot": {
+                        "type_id": 11,
+                        "set_id": 8
+                    }
+                },
+                {
+                    "id": 9,
+                    "name": "sint architecto",
+                    "pivot": {
+                        "type_id": 11,
+                        "set_id": 9
+                    }
+                },
+                {
+                    "id": 10,
+                    "name": "voluptatem ea",
+                    "pivot": {
+                        "type_id": 11,
+                        "set_id": 10
+                    }
+                }
+            ],
+            "selectedAttributeSet": [
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10
+            ],
+            "selectedTaxRules": [
+                4,
+                6
+            ]
+        },
+        {
+            "id": 12,
+            "name": "qui qui",
+            "attribute_sets": [
+                {
+                    "id": 3,
+                    "name": "autem illum",
+                    "pivot": {
+                        "type_id": 12,
+                        "set_id": 3
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "laudantium eligendi",
+                    "pivot": {
+                        "type_id": 12,
+                        "set_id": 4
+                    }
+                },
+                {
+                    "id": 5,
+                    "name": "quisquam earum",
+                    "pivot": {
+                        "type_id": 12,
+                        "set_id": 5
+                    }
+                },
+                {
+                    "id": 7,
+                    "name": "aliquid praesentium",
+                    "pivot": {
+                        "type_id": 12,
+                        "set_id": 7
+                    }
+                },
+                {
+                    "id": 9,
+                    "name": "sint architecto",
+                    "pivot": {
+                        "type_id": 12,
+                        "set_id": 9
+                    }
+                }
+            ],
+            "selectedAttributeSet": [
+                3,
+                4,
+                5,
+                7,
+                9
+            ],
+            "selectedTaxRules": [
+                2,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 13,
+            "name": "possimus vero",
+            "attribute_sets": [
+                {
+                    "id": 4,
+                    "name": "laudantium eligendi",
+                    "pivot": {
+                        "type_id": 13,
+                        "set_id": 4
+                    }
+                },
+                {
+                    "id": 5,
+                    "name": "quisquam earum",
+                    "pivot": {
+                        "type_id": 13,
+                        "set_id": 5
+                    }
+                },
+                {
+                    "id": 7,
+                    "name": "aliquid praesentium",
+                    "pivot": {
+                        "type_id": 13,
+                        "set_id": 7
+                    }
+                },
+                {
+                    "id": 10,
+                    "name": "voluptatem ea",
+                    "pivot": {
+                        "type_id": 13,
+                        "set_id": 10
+                    }
+                }
+            ],
+            "selectedAttributeSet": [
+                4,
+                5,
+                7,
+                10
+            ],
+            "selectedTaxRules": [
+                1,
+                5,
+                6
+            ]
+        },
+        {
+            "id": 14,
+            "name": "sed dolore",
+            "attribute_sets": [
+                {
+                    "id": 1,
+                    "name": "aliquid id",
+                    "pivot": {
+                        "type_id": 14,
+                        "set_id": 1
+                    }
+                },
+                {
+                    "id": 5,
+                    "name": "quisquam earum",
+                    "pivot": {
+                        "type_id": 14,
+                        "set_id": 5
+                    }
+                },
+                {
+                    "id": 7,
+                    "name": "aliquid praesentium",
+                    "pivot": {
+                        "type_id": 14,
+                        "set_id": 7
+                    }
+                },
+                {
+                    "id": 10,
+                    "name": "voluptatem ea",
+                    "pivot": {
+                        "type_id": 14,
+                        "set_id": 10
+                    }
+                }
+            ],
+            "selectedAttributeSet": [
+                1,
+                5,
+                7,
+                10
+            ],
+            "selectedTaxRules": [
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 15,
+            "name": "sint possimus",
+            "attribute_sets": [
+                {
+                    "id": 1,
+                    "name": "aliquid id",
+                    "pivot": {
+                        "type_id": 15,
+                        "set_id": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "autem illum",
+                    "pivot": {
+                        "type_id": 15,
+                        "set_id": 3
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "laudantium eligendi",
+                    "pivot": {
+                        "type_id": 15,
+                        "set_id": 4
+                    }
+                },
+                {
+                    "id": 8,
+                    "name": "consectetur quis",
+                    "pivot": {
+                        "type_id": 15,
+                        "set_id": 8
+                    }
+                },
+                {
+                    "id": 10,
+                    "name": "voluptatem ea",
+                    "pivot": {
+                        "type_id": 15,
+                        "set_id": 10
+                    }
+                }
+            ],
+            "selectedAttributeSet": [
+                1,
+                3,
+                4,
+                8,
+                10
+            ],
+            "selectedTaxRules": [
+                2,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "id": 16,
+            "name": "accusamus sapiente",
+            "attribute_sets": [
+                {
+                    "id": 1,
+                    "name": "aliquid id",
+                    "pivot": {
+                        "type_id": 16,
+                        "set_id": 1
+                    }
+                },
+                {
+                    "id": 8,
+                    "name": "consectetur quis",
+                    "pivot": {
+                        "type_id": 16,
+                        "set_id": 8
+                    }
+                },
+                {
+                    "id": 9,
+                    "name": "sint architecto",
+                    "pivot": {
+                        "type_id": 16,
+                        "set_id": 9
+                    }
+                },
+                {
+                    "id": 10,
+                    "name": "voluptatem ea",
+                    "pivot": {
+                        "type_id": 16,
+                        "set_id": 10
+                    }
+                }
+            ],
+            "selectedAttributeSet": [
+                1,
+                8,
+                9,
+                10
+            ],
+            "selectedTaxRules": [
+                2,
+                3,
+                6
+            ]
+        },
+        {
+            "id": 17,
+            "name": "dignissimos omnis",
+            "attribute_sets": [
+                {
+                    "id": 2,
+                    "name": "excepturi maxime",
+                    "pivot": {
+                        "type_id": 17,
+                        "set_id": 2
+                    }
+                },
+                {
+                    "id": 5,
+                    "name": "quisquam earum",
+                    "pivot": {
+                        "type_id": 17,
+                        "set_id": 5
+                    }
+                },
+                {
+                    "id": 6,
+                    "name": "ut qui",
+                    "pivot": {
+                        "type_id": 17,
+                        "set_id": 6
+                    }
+                },
+                {
+                    "id": 9,
+                    "name": "sint architecto",
+                    "pivot": {
+                        "type_id": 17,
+                        "set_id": 9
+                    }
+                }
+            ],
+            "selectedAttributeSet": [
+                2,
+                5,
+                6,
+                9
+            ],
+            "selectedTaxRules": [
+                1,
+                4,
+                5
+            ]
+        }
+    ],
+    "first_page_url": "http:\/\/localhost:89\/api\/admin\/product-types?page=1",
+    "from": 1,
+    "last_page": 2,
+    "last_page_url": "http:\/\/localhost:89\/api\/admin\/product-types?page=2",
+    "links": [
+        {
+            "url": null,
+            "label": "&laquo; Previous",
+            "active": false
+        },
+        {
+            "url": "http:\/\/localhost:89\/api\/admin\/product-types?page=1",
+            "label": "1",
+            "active": true
+        },
+        {
+            "url": "http:\/\/localhost:89\/api\/admin\/product-types?page=2",
+            "label": "2",
+            "active": false
+        },
+        {
+            "url": "http:\/\/localhost:89\/api\/admin\/product-types?page=2",
+            "label": "Next &raquo;",
+            "active": false
+        }
+    ],
+    "next_page_url": "http:\/\/localhost:89\/api\/admin\/product-types?page=2",
+    "path": "http:\/\/localhost:89\/api\/admin\/product-types",
+    "per_page": 15,
+    "prev_page_url": null,
+    "to": 15,
+    "total": 29
+}

@@ -1,0 +1,179 @@
+[
+    {
+        "field": {
+            "id": 12,
+            "module_id": 4,
+            "field_name": "optio",
+            "field_setting": "{\"type\": \"number\"}"
+        },
+        "field_setting": {
+            "type": "number",
+            "options": []
+        },
+        "custom_value": ""
+    },
+    {
+        "field": {
+            "id": 13,
+            "module_id": 4,
+            "field_name": "incidunt",
+            "field_setting": "{\"type\": \"query\", \"query\": \"Select id,title as name from categories where status = 1\"}"
+        },
+        "field_setting": {
+            "type": "query",
+            "options": [
+                {
+                    "id": 1,
+                    "name": "provident soluta ex voluptatem"
+                },
+                {
+                    "id": 2,
+                    "name": "libero ipsa porro velit"
+                },
+                {
+                    "id": 3,
+                    "name": "aut id et dicta"
+                },
+                {
+                    "id": 4,
+                    "name": "asperiores et quia qui"
+                },
+                {
+                    "id": 5,
+                    "name": "nesciunt aut architecto omnis"
+                },
+                {
+                    "id": 6,
+                    "name": "earum corporis atque quae"
+                },
+                {
+                    "id": 7,
+                    "name": "qui cupiditate dolor id"
+                },
+                {
+                    "id": 8,
+                    "name": "temporibus vitae qui dolorum"
+                },
+                {
+                    "id": 9,
+                    "name": "adipisci accusamus reiciendis ullam"
+                },
+                {
+                    "id": 10,
+                    "name": "repellat debitis qui pariatur"
+                },
+                {
+                    "id": 11,
+                    "name": "autem quod deleniti quis"
+                },
+                {
+                    "id": 12,
+                    "name": "quasi aut saepe aut"
+                },
+                {
+                    "id": 13,
+                    "name": "commodi molestiae provident cumque"
+                },
+                {
+                    "id": 14,
+                    "name": "id reprehenderit officia doloremque"
+                },
+                {
+                    "id": 15,
+                    "name": "architecto esse eveniet dolores"
+                },
+                {
+                    "id": 16,
+                    "name": "omnis architecto quia sed"
+                },
+                {
+                    "id": 17,
+                    "name": "voluptatem facere ea ut"
+                },
+                {
+                    "id": 18,
+                    "name": "et est corrupti tempore"
+                },
+                {
+                    "id": 19,
+                    "name": "repudiandae quam voluptatem odio"
+                },
+                {
+                    "id": 20,
+                    "name": "quia perspiciatis perferendis nemo"
+                },
+                {
+                    "id": 21,
+                    "name": "iste id perspiciatis saepe"
+                },
+                {
+                    "id": 22,
+                    "name": "molestiae ratione repudiandae id"
+                },
+                {
+                    "id": 23,
+                    "name": "ut quia perferendis necessitatibus"
+                },
+                {
+                    "id": 24,
+                    "name": "eveniet provident amet eaque"
+                },
+                {
+                    "id": 25,
+                    "name": "numquam voluptas sit et"
+                },
+                {
+                    "id": 26,
+                    "name": "distinctio ut delectus saepe"
+                },
+                {
+                    "id": 27,
+                    "name": "nam explicabo et dolor"
+                },
+                {
+                    "id": 28,
+                    "name": "velit aspernatur officiis reiciendis"
+                },
+                {
+                    "id": 29,
+                    "name": "odio quia et enim"
+                },
+                {
+                    "id": 30,
+                    "name": "id et nemo facilis"
+                },
+                {
+                    "id": 31,
+                    "name": "fuga accusantium molestiae at"
+                }
+            ]
+        },
+        "custom_value": ""
+    },
+    {
+        "field": {
+            "id": 14,
+            "module_id": 4,
+            "field_name": "autem",
+            "field_setting": "{\"type\": \"number\"}"
+        },
+        "field_setting": {
+            "type": "number",
+            "options": []
+        },
+        "custom_value": ""
+    },
+    {
+        "field": {
+            "id": 15,
+            "module_id": 4,
+            "field_name": "sed",
+            "field_setting": "{\"type\": \"text\"}"
+        },
+        "field_setting": {
+            "type": "text",
+            "options": []
+        },
+        "custom_value": ""
+    }
+]

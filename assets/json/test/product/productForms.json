@@ -1,0 +1,67 @@
+{
+    "id": 7497,
+    "parent_product": null,
+    "title": "aut consequatur quia esse et",
+    "subtitle": "",
+    "default_outofstockstatus_id": 5,
+    "details_img_id": 2,
+    "category_img_id": 2,
+    "status": 1,
+    "product_no": "",
+    "combined_stock_qty": 210,
+    "default_cost": 1193,
+    "weight": "36.00",
+    "created": "1984-07-25T01:22:27.000000Z",
+    "default_distributor_id": 1,
+    "fulfillment_rule_id": null,
+    "url_name": "officia-sapiente",
+    "meta_title": "aut consequatur quia esse et",
+    "meta_desc": null,
+    "meta_keywords": null,
+    "inventory_id": "",
+    "customs_description": null,
+    "tariff_number": null,
+    "country_origin": null,
+    "inventoried": true,
+    "shared_inventory_id": null,
+    "addtocart_setting": null,
+    "addtocart_external_label": null,
+    "addtocart_external_link": null,
+    "has_children": false,
+    "deleted_at": null,
+    "product_forms": [
+        {
+            "form_id": 8,
+            "product_id": 7497,
+            "rank": 8,
+            "id": 13,
+            "form": {
+                "id": 8,
+                "name": "itaque earum",
+                "status": true
+            }
+        },
+        {
+            "form_id": 33,
+            "product_id": 7497,
+            "rank": 6,
+            "id": 14,
+            "form": {
+                "id": 33,
+                "name": "sunt amet",
+                "status": true
+            }
+        },
+        {
+            "form_id": 46,
+            "product_id": 7497,
+            "rank": 1,
+            "id": 15,
+            "form": {
+                "id": 46,
+                "name": "saepe omnis",
+                "status": true
+            }
+        }
+    ]
+}

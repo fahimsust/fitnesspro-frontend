@@ -1,0 +1,117 @@
+{
+    "current_page": 1,
+    "data": [
+        {
+            "id": 2,
+            "order_id": 2,
+            "form_id": 46,
+            "product_id": null,
+            "product_type_id": null,
+            "form_count": 0,
+            "form_values": {
+                "46": {
+                    "4": {
+                        "4": "Albert Collier"
+                    },
+                    "5": {
+                        "5": "Dr. Daphne Bailey"
+                    }
+                }
+            },
+            "created": "2024-04-18T11:36:40.000000Z",
+            "modified": "2024-04-18T11:36:40.000000Z",
+            "form": {
+                "id": 46,
+                "name": "delectus velit",
+                "status": true,
+                "sections": [
+                    {
+                        "id": 4,
+                        "form_id": 46,
+                        "title": "enim optio recusandae",
+                        "rank": 9,
+                        "fields": [
+                            {
+                                "id": 4,
+                                "display": "animi eos",
+                                "name": "animi eos",
+                                "type": 0,
+                                "required": true,
+                                "rank": 8,
+                                "cssclass": "",
+                                "options": [],
+                                "specs": "",
+                                "status": true,
+                                "pivot": {
+                                    "section_id": 4,
+                                    "field_id": 4,
+                                    "rank": 5,
+                                    "required": 1,
+                                    "new_row": 1,
+                                    "id": 4
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "form_id": 46,
+                        "title": "quam vero tenetur",
+                        "rank": 1,
+                        "fields": [
+                            {
+                                "id": 5,
+                                "display": "at voluptas",
+                                "name": "at voluptas",
+                                "type": 0,
+                                "required": true,
+                                "rank": 1,
+                                "cssclass": "",
+                                "options": [],
+                                "specs": "",
+                                "status": true,
+                                "pivot": {
+                                    "section_id": 5,
+                                    "field_id": 5,
+                                    "rank": 8,
+                                    "required": 1,
+                                    "new_row": 1,
+                                    "id": 5
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "product": null,
+            "product_type": null
+        }
+    ],
+    "first_page_url": "http:\/\/localhost:89\/api\/admin\/order\/2\/custom-forms?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "http:\/\/localhost:89\/api\/admin\/order\/2\/custom-forms?page=1",
+    "links": [
+        {
+            "url": null,
+            "label": "&laquo; Previous",
+            "active": false
+        },
+        {
+            "url": "http:\/\/localhost:89\/api\/admin\/order\/2\/custom-forms?page=1",
+            "label": "1",
+            "active": true
+        },
+        {
+            "url": null,
+            "label": "Next &raquo;",
+            "active": false
+        }
+    ],
+    "next_page_url": null,
+    "path": "http:\/\/localhost:89\/api\/admin\/order\/2\/custom-forms",
+    "per_page": 15,
+    "prev_page_url": null,
+    "to": 1,
+    "total": 1
+}

@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "name": "Alaska"
+    },
+    {
+        "id": 2,
+        "name": "Alabama"
+    },
+    {
+        "id": 3,
+        "name": "Arkansas"
+    },
+    {
+        "id": 4,
+        "name": "Arizona"
+    },
+    {
+        "id": 5,
+        "name": "California"
+    },
+    {
+        "id": 6,
+        "name": "Colorado"
+    },
+    {
+        "id": 7,
+        "name": "Connecticut"
+    },
+    {
+        "id": 8,
+        "name": "District of Columbia"
+    },
+    {
+        "id": 9,
+        "name": "Delaware"
+    },
+    {
+        "id": 10,
+        "name": "Florida"
+    },
+    {
+        "id": 11,
+        "name": "Georgia"
+    },
+    {
+        "id": 12,
+        "name": "Hawaii"
+    },
+    {
+        "id": 13,
+        "name": "Iowa"
+    },
+    {
+        "id": 14,
+        "name": "Idaho"
+    },
+    {
+        "id": 15,
+        "name": "Illinois"
+    },
+    {
+        "id": 16,
+        "name": "Indiana"
+    },
+    {
+        "id": 17,
+        "name": "Kansas"
+    },
+    {
+        "id": 18,
+        "name": "Kentucky"
+    },
+    {
+        "id": 19,
+        "name": "Louisiana"
+    },
+    {
+        "id": 20,
+        "name": "Massachusetts"
+    },
+    {
+        "id": 21,
+        "name": "Maryland"
+    },
+    {
+        "id": 22,
+        "name": "Maine"
+    },
+    {
+        "id": 23,
+        "name": "Michigan"
+    },
+    {
+        "id": 24,
+        "name": "Minnesota"
+    },
+    {
+        "id": 25,
+        "name": "Missouri"
+    },
+    {
+        "id": 26,
+        "name": "Mississippi"
+    },
+    {
+        "id": 27,
+        "name": "Montana"
+    },
+    {
+        "id": 28,
+        "name": "North Carolina"
+    },
+    {
+        "id": 29,
+        "name": "North Dakota"
+    },
+    {
+        "id": 30,
+        "name": "Nebraska"
+    },
+    {
+        "id": 31,
+        "name": "New Hampshire"
+    },
+    {
+        "id": 32,
+        "name": "New Jersey"
+    },
+    {
+        "id": 33,
+        "name": "New Mexico"
+    },
+    {
+        "id": 34,
+        "name": "Nevada"
+    },
+    {
+        "id": 35,
+        "name": "New York"
+    },
+    {
+        "id": 36,
+        "name": "Ohio"
+    },
+    {
+        "id": 37,
+        "name": "Oklahoma"
+    },
+    {
+        "id": 38,
+        "name": "Oregon"
+    },
+    {
+        "id": 39,
+        "name": "Pennsylvania"
+    },
+    {
+        "id": 40,
+        "name": "Rhode Island"
+    },
+    {
+        "id": 41,
+        "name": "South Carolina"
+    },
+    {
+        "id": 42,
+        "name": "South Dakota"
+    },
+    {
+        "id": 43,
+        "name": "Tennessee"
+    },
+    {
+        "id": 44,
+        "name": "Texas"
+    },
+    {
+        "id": 45,
+        "name": "Utah"
+    },
+    {
+        "id": 46,
+        "name": "Virginia"
+    },
+    {
+        "id": 47,
+        "name": "Vermont"
+    },
+    {
+        "id": 48,
+        "name": "Washington"
+    },
+    {
+        "id": 49,
+        "name": "Wisconsin"
+    },
+    {
+        "id": 50,
+        "name": "West Virginia"
+    },
+    {
+        "id": 51,
+        "name": "Wyoming"
+    },
+    {
+        "id": 79,
+        "name": "Puerto Rico"
+    },
+    {
+        "id": 81,
+        "name": "APO\/FPO (AA)"
+    },
+    {
+        "id": 82,
+        "name": "APO\/FPO (AE)"
+    },
+    {
+        "id": 83,
+        "name": "APO\/FPO (AP)"
+    }
+]

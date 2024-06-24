@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Minimum Cart Amount",
+        "component_type": "MinCartAmount"
+    },
+    {
+        "id": 2,
+        "name": "Required Product",
+        "component_type": "RequiredProduct"
+    },
+    {
+        "id": 3,
+        "name": "Required Discount Code",
+        "component_type": "RequiredDiscountCode"
+    },
+    {
+        "id": 4,
+        "name": "Required Product Type",
+        "component_type": "RequiredProductType"
+    },
+    {
+        "id": 5,
+        "name": "Required Attribute Option",
+        "component_type": "RequiredAttributeOption"
+    },
+    {
+        "id": 6,
+        "name": "Required Account",
+        "component_type": "RequiredAccount"
+    },
+    {
+        "id": 7,
+        "name": "Required Account Type(s)",
+        "component_type": "RequiredAccountType"
+    },
+    {
+        "id": 8,
+        "name": "Required Out of Stock Status",
+        "component_type": "OutOfStockStatus"
+    },
+    {
+        "id": 9,
+        "name": "Required Product Availability",
+        "component_type": "ProductAvailability"
+    },
+    {
+        "id": 10,
+        "name": "Required Product On Sale Status",
+        "component_type": "ProductSaleStatus"
+    },
+    {
+        "id": 11,
+        "name": "Required Active Membership Level",
+        "component_type": "ActiveMembershipLevel"
+    },
+    {
+        "id": 12,
+        "name": "Membership Expires in # Days",
+        "component_type": "MembershipExpiresInDays"
+    },
+    {
+        "id": 13,
+        "name": "Required Site",
+        "component_type": "RequiredSite"
+    },
+    {
+        "id": 14,
+        "name": "Date Range",
+        "component_type": "DateRange"
+    }
+]

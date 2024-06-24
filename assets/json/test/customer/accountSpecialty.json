@@ -1,0 +1,5132 @@
+[
+    {
+        "id": 1,
+        "parent_id": null,
+        "name": "Golf Pro",
+        "rank": 8,
+        "status": 1,
+        "account_specialty": {
+            "exists": false,
+            "id": 0,
+            "approved": false
+        },
+        "childrenRecursive": [],
+        "children_recursive": [],
+        "account_specialties": [
+            {
+                "id": 1,
+                "account_id": 1,
+                "specialty_id": 1,
+                "approved": true
+            },
+            {
+                "id": 127,
+                "account_id": 4,
+                "specialty_id": 1,
+                "approved": false
+            },
+            {
+                "id": 172,
+                "account_id": 5,
+                "specialty_id": 1,
+                "approved": true
+            },
+            {
+                "id": 220,
+                "account_id": 6,
+                "specialty_id": 1,
+                "approved": false
+            },
+            {
+                "id": 260,
+                "account_id": 7,
+                "specialty_id": 1,
+                "approved": true
+            },
+            {
+                "id": 295,
+                "account_id": 8,
+                "specialty_id": 1,
+                "approved": true
+            },
+            {
+                "id": 369,
+                "account_id": 10,
+                "specialty_id": 1,
+                "approved": false
+            },
+            {
+                "id": 415,
+                "account_id": 11,
+                "specialty_id": 1,
+                "approved": true
+            },
+            {
+                "id": 487,
+                "account_id": 13,
+                "specialty_id": 1,
+                "approved": false
+            },
+            {
+                "id": 560,
+                "account_id": 15,
+                "specialty_id": 1,
+                "approved": true
+            },
+            {
+                "id": 629,
+                "account_id": 17,
+                "specialty_id": 1,
+                "approved": false
+            },
+            {
+                "id": 671,
+                "account_id": 18,
+                "specialty_id": 1,
+                "approved": false
+            },
+            {
+                "id": 715,
+                "account_id": 19,
+                "specialty_id": 1,
+                "approved": true
+            },
+            {
+                "id": 755,
+                "account_id": 20,
+                "specialty_id": 1,
+                "approved": false
+            },
+            {
+                "id": 909,
+                "account_id": 24,
+                "specialty_id": 1,
+                "approved": true
+            },
+            {
+                "id": 1033,
+                "account_id": 27,
+                "specialty_id": 1,
+                "approved": true
+            },
+            {
+                "id": 1114,
+                "account_id": 29,
+                "specialty_id": 1,
+                "approved": true
+            },
+            {
+                "id": 1156,
+                "account_id": 30,
+                "specialty_id": 1,
+                "approved": true
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "parent_id": null,
+        "name": "Squash Pro",
+        "rank": 9,
+        "status": 0,
+        "account_specialty": {
+            "exists": true,
+            "id": 1379,
+            "approved": true
+        },
+        "childrenRecursive": [],
+        "children_recursive": [],
+        "account_specialties": [
+            {
+                "id": 2,
+                "account_id": 1,
+                "specialty_id": 2,
+                "approved": true
+            },
+            {
+                "id": 82,
+                "account_id": 3,
+                "specialty_id": 2,
+                "approved": false
+            },
+            {
+                "id": 128,
+                "account_id": 4,
+                "specialty_id": 2,
+                "approved": false
+            },
+            {
+                "id": 173,
+                "account_id": 5,
+                "specialty_id": 2,
+                "approved": false
+            },
+            {
+                "id": 261,
+                "account_id": 7,
+                "specialty_id": 2,
+                "approved": true
+            },
+            {
+                "id": 296,
+                "account_id": 8,
+                "specialty_id": 2,
+                "approved": false
+            },
+            {
+                "id": 336,
+                "account_id": 9,
+                "specialty_id": 2,
+                "approved": false
+            },
+            {
+                "id": 488,
+                "account_id": 13,
+                "specialty_id": 2,
+                "approved": false
+            },
+            {
+                "id": 561,
+                "account_id": 15,
+                "specialty_id": 2,
+                "approved": false
+            },
+            {
+                "id": 594,
+                "account_id": 16,
+                "specialty_id": 2,
+                "approved": true
+            },
+            {
+                "id": 672,
+                "account_id": 18,
+                "specialty_id": 2,
+                "approved": true
+            },
+            {
+                "id": 716,
+                "account_id": 19,
+                "specialty_id": 2,
+                "approved": true
+            },
+            {
+                "id": 786,
+                "account_id": 21,
+                "specialty_id": 2,
+                "approved": true
+            },
+            {
+                "id": 872,
+                "account_id": 23,
+                "specialty_id": 2,
+                "approved": true
+            },
+            {
+                "id": 910,
+                "account_id": 24,
+                "specialty_id": 2,
+                "approved": true
+            },
+            {
+                "id": 989,
+                "account_id": 26,
+                "specialty_id": 2,
+                "approved": false
+            },
+            {
+                "id": 1073,
+                "account_id": 28,
+                "specialty_id": 2,
+                "approved": false
+            },
+            {
+                "id": 1198,
+                "account_id": 31,
+                "specialty_id": 2,
+                "approved": true
+            },
+            {
+                "id": 1239,
+                "account_id": 32,
+                "specialty_id": 2,
+                "approved": true
+            },
+            {
+                "id": 1284,
+                "account_id": 33,
+                "specialty_id": 2,
+                "approved": false
+            },
+            {
+                "id": 1379,
+                "account_id": 34,
+                "specialty_id": 2,
+                "approved": true
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "parent_id": null,
+        "name": "Nurse",
+        "rank": 9,
+        "status": 0,
+        "account_specialty": {
+            "exists": true,
+            "id": 1333,
+            "approved": false
+        },
+        "childrenRecursive": [],
+        "children_recursive": [],
+        "account_specialties": [
+            {
+                "id": 42,
+                "account_id": 2,
+                "specialty_id": 3,
+                "approved": true
+            },
+            {
+                "id": 83,
+                "account_id": 3,
+                "specialty_id": 3,
+                "approved": true
+            },
+            {
+                "id": 129,
+                "account_id": 4,
+                "specialty_id": 3,
+                "approved": false
+            },
+            {
+                "id": 174,
+                "account_id": 5,
+                "specialty_id": 3,
+                "approved": true
+            },
+            {
+                "id": 297,
+                "account_id": 8,
+                "specialty_id": 3,
+                "approved": true
+            },
+            {
+                "id": 337,
+                "account_id": 9,
+                "specialty_id": 3,
+                "approved": true
+            },
+            {
+                "id": 456,
+                "account_id": 12,
+                "specialty_id": 3,
+                "approved": false
+            },
+            {
+                "id": 562,
+                "account_id": 15,
+                "specialty_id": 3,
+                "approved": false
+            },
+            {
+                "id": 717,
+                "account_id": 19,
+                "specialty_id": 3,
+                "approved": false
+            },
+            {
+                "id": 824,
+                "account_id": 22,
+                "specialty_id": 3,
+                "approved": false
+            },
+            {
+                "id": 911,
+                "account_id": 24,
+                "specialty_id": 3,
+                "approved": false
+            },
+            {
+                "id": 1115,
+                "account_id": 29,
+                "specialty_id": 3,
+                "approved": false
+            },
+            {
+                "id": 1240,
+                "account_id": 32,
+                "specialty_id": 3,
+                "approved": true
+            },
+            {
+                "id": 1333,
+                "account_id": 34,
+                "specialty_id": 3,
+                "approved": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "parent_id": null,
+        "name": "Group Fitness Instructor",
+        "rank": 1,
+        "status": 1,
+        "account_specialty": {
+            "exists": true,
+            "id": 1334,
+            "approved": true
+        },
+        "childrenRecursive": [
+            {
+                "id": 5,
+                "parent_id": 4,
+                "name": "Bosu",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 6,
+                "parent_id": 4,
+                "name": "Kickboxing",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 11,
+                "parent_id": 4,
+                "name": "High\/Low",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 12,
+                "parent_id": 4,
+                "name": "Aqua Fit",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1339,
+                    "approved": true
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 19,
+                "parent_id": 4,
+                "name": "Bootcamp",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1345,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 20,
+                "parent_id": 4,
+                "name": "Sculpting",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 21,
+                "parent_id": 4,
+                "name": "Step",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1346,
+                    "approved": true
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 22,
+                "parent_id": 4,
+                "name": "Tai Chi",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1375,
+                    "approved": true
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 23,
+                "parent_id": 4,
+                "name": "Dance Based",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 40,
+                "parent_id": 4,
+                "name": "SUP",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1357,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 42,
+                "parent_id": 4,
+                "name": "Pole Dance Instructor",
+                "rank": 0,
+                "status": 0,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1358,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 44,
+                "parent_id": 4,
+                "name": "TRX certified",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1359,
+                    "approved": true
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 46,
+                "parent_id": 4,
+                "name": "Barre",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 47,
+                "parent_id": 4,
+                "name": "HIIT\/Tabata",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 49,
+                "parent_id": 4,
+                "name": "CrossFit",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1360,
+                    "approved": true
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 51,
+                "parent_id": 4,
+                "name": "Yoga Sculpt",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 53,
+                "parent_id": 4,
+                "name": "Stretching",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 62,
+                "parent_id": 4,
+                "name": "Belly Dancing",
+                "rank": 0,
+                "status": 0,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1363,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 64,
+                "parent_id": 4,
+                "name": "Will Power and Grace",
+                "rank": 0,
+                "status": 0,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1365,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 65,
+                "parent_id": 4,
+                "name": "Kids Programming",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 68,
+                "parent_id": 4,
+                "name": "Pound - bring your own sticks",
+                "rank": 1,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1367,
+                    "approved": true
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 73,
+                "parent_id": 4,
+                "name": "Strong Nation",
+                "rank": 1,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1369,
+                    "approved": true
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            }
+        ],
+        "children_recursive": [
+            {
+                "id": 5,
+                "parent_id": 4,
+                "name": "Bosu",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 6,
+                "parent_id": 4,
+                "name": "Kickboxing",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 11,
+                "parent_id": 4,
+                "name": "High\/Low",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 12,
+                "parent_id": 4,
+                "name": "Aqua Fit",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1339,
+                    "approved": true
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 19,
+                "parent_id": 4,
+                "name": "Bootcamp",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1345,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 20,
+                "parent_id": 4,
+                "name": "Sculpting",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 21,
+                "parent_id": 4,
+                "name": "Step",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1346,
+                    "approved": true
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 22,
+                "parent_id": 4,
+                "name": "Tai Chi",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1375,
+                    "approved": true
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 23,
+                "parent_id": 4,
+                "name": "Dance Based",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 40,
+                "parent_id": 4,
+                "name": "SUP",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1357,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 42,
+                "parent_id": 4,
+                "name": "Pole Dance Instructor",
+                "rank": 0,
+                "status": 0,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1358,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 44,
+                "parent_id": 4,
+                "name": "TRX certified",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1359,
+                    "approved": true
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 46,
+                "parent_id": 4,
+                "name": "Barre",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 47,
+                "parent_id": 4,
+                "name": "HIIT\/Tabata",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 49,
+                "parent_id": 4,
+                "name": "CrossFit",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1360,
+                    "approved": true
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 51,
+                "parent_id": 4,
+                "name": "Yoga Sculpt",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 53,
+                "parent_id": 4,
+                "name": "Stretching",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 62,
+                "parent_id": 4,
+                "name": "Belly Dancing",
+                "rank": 0,
+                "status": 0,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1363,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 64,
+                "parent_id": 4,
+                "name": "Will Power and Grace",
+                "rank": 0,
+                "status": 0,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1365,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 65,
+                "parent_id": 4,
+                "name": "Kids Programming",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 68,
+                "parent_id": 4,
+                "name": "Pound - bring your own sticks",
+                "rank": 1,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1367,
+                    "approved": true
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 73,
+                "parent_id": 4,
+                "name": "Strong Nation",
+                "rank": 1,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1369,
+                    "approved": true
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            }
+        ],
+        "account_specialties": [
+            {
+                "id": 43,
+                "account_id": 2,
+                "specialty_id": 4,
+                "approved": true
+            },
+            {
+                "id": 84,
+                "account_id": 3,
+                "specialty_id": 4,
+                "approved": false
+            },
+            {
+                "id": 130,
+                "account_id": 4,
+                "specialty_id": 4,
+                "approved": true
+            },
+            {
+                "id": 298,
+                "account_id": 8,
+                "specialty_id": 4,
+                "approved": false
+            },
+            {
+                "id": 338,
+                "account_id": 9,
+                "specialty_id": 4,
+                "approved": true
+            },
+            {
+                "id": 489,
+                "account_id": 13,
+                "specialty_id": 4,
+                "approved": true
+            },
+            {
+                "id": 524,
+                "account_id": 14,
+                "specialty_id": 4,
+                "approved": true
+            },
+            {
+                "id": 630,
+                "account_id": 17,
+                "specialty_id": 4,
+                "approved": true
+            },
+            {
+                "id": 673,
+                "account_id": 18,
+                "specialty_id": 4,
+                "approved": false
+            },
+            {
+                "id": 718,
+                "account_id": 19,
+                "specialty_id": 4,
+                "approved": false
+            },
+            {
+                "id": 787,
+                "account_id": 21,
+                "specialty_id": 4,
+                "approved": true
+            },
+            {
+                "id": 873,
+                "account_id": 23,
+                "specialty_id": 4,
+                "approved": false
+            },
+            {
+                "id": 912,
+                "account_id": 24,
+                "specialty_id": 4,
+                "approved": true
+            },
+            {
+                "id": 1074,
+                "account_id": 28,
+                "specialty_id": 4,
+                "approved": false
+            },
+            {
+                "id": 1199,
+                "account_id": 31,
+                "specialty_id": 4,
+                "approved": true
+            },
+            {
+                "id": 1241,
+                "account_id": 32,
+                "specialty_id": 4,
+                "approved": true
+            },
+            {
+                "id": 1285,
+                "account_id": 33,
+                "specialty_id": 4,
+                "approved": false
+            },
+            {
+                "id": 1334,
+                "account_id": 34,
+                "specialty_id": 4,
+                "approved": true
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "parent_id": null,
+        "name": "Personal Trainer",
+        "rank": 4,
+        "status": 1,
+        "account_specialty": {
+            "exists": true,
+            "id": 1336,
+            "approved": true
+        },
+        "childrenRecursive": [
+            {
+                "id": 16,
+                "parent_id": 7,
+                "name": "BootCamp",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1342,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 17,
+                "parent_id": 7,
+                "name": "Sculpting Class",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1343,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 18,
+                "parent_id": 7,
+                "name": "Group Circuit Training",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1344,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 34,
+                "parent_id": 7,
+                "name": "Group Class Approved",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 45,
+                "parent_id": 7,
+                "name": "TRX certified",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 48,
+                "parent_id": 7,
+                "name": "HIIT\/Tabata",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 50,
+                "parent_id": 7,
+                "name": "CrossFit",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 54,
+                "parent_id": 7,
+                "name": "Stretching",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 58,
+                "parent_id": 7,
+                "name": "Kids Programming",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            }
+        ],
+        "children_recursive": [
+            {
+                "id": 16,
+                "parent_id": 7,
+                "name": "BootCamp",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1342,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 17,
+                "parent_id": 7,
+                "name": "Sculpting Class",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1343,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 18,
+                "parent_id": 7,
+                "name": "Group Circuit Training",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1344,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 34,
+                "parent_id": 7,
+                "name": "Group Class Approved",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 45,
+                "parent_id": 7,
+                "name": "TRX certified",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 48,
+                "parent_id": 7,
+                "name": "HIIT\/Tabata",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 50,
+                "parent_id": 7,
+                "name": "CrossFit",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 54,
+                "parent_id": 7,
+                "name": "Stretching",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 58,
+                "parent_id": 7,
+                "name": "Kids Programming",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            }
+        ],
+        "account_specialties": [
+            {
+                "id": 5,
+                "account_id": 1,
+                "specialty_id": 7,
+                "approved": true
+            },
+            {
+                "id": 45,
+                "account_id": 2,
+                "specialty_id": 7,
+                "approved": true
+            },
+            {
+                "id": 85,
+                "account_id": 3,
+                "specialty_id": 7,
+                "approved": false
+            },
+            {
+                "id": 132,
+                "account_id": 4,
+                "specialty_id": 7,
+                "approved": true
+            },
+            {
+                "id": 263,
+                "account_id": 7,
+                "specialty_id": 7,
+                "approved": false
+            },
+            {
+                "id": 301,
+                "account_id": 8,
+                "specialty_id": 7,
+                "approved": false
+            },
+            {
+                "id": 418,
+                "account_id": 11,
+                "specialty_id": 7,
+                "approved": true
+            },
+            {
+                "id": 490,
+                "account_id": 13,
+                "specialty_id": 7,
+                "approved": false
+            },
+            {
+                "id": 595,
+                "account_id": 16,
+                "specialty_id": 7,
+                "approved": false
+            },
+            {
+                "id": 632,
+                "account_id": 17,
+                "specialty_id": 7,
+                "approved": true
+            },
+            {
+                "id": 720,
+                "account_id": 19,
+                "specialty_id": 7,
+                "approved": false
+            },
+            {
+                "id": 788,
+                "account_id": 21,
+                "specialty_id": 7,
+                "approved": false
+            },
+            {
+                "id": 826,
+                "account_id": 22,
+                "specialty_id": 7,
+                "approved": false
+            },
+            {
+                "id": 914,
+                "account_id": 24,
+                "specialty_id": 7,
+                "approved": false
+            },
+            {
+                "id": 991,
+                "account_id": 26,
+                "specialty_id": 7,
+                "approved": false
+            },
+            {
+                "id": 1035,
+                "account_id": 27,
+                "specialty_id": 7,
+                "approved": false
+            },
+            {
+                "id": 1075,
+                "account_id": 28,
+                "specialty_id": 7,
+                "approved": false
+            },
+            {
+                "id": 1158,
+                "account_id": 30,
+                "specialty_id": 7,
+                "approved": false
+            },
+            {
+                "id": 1287,
+                "account_id": 33,
+                "specialty_id": 7,
+                "approved": false
+            },
+            {
+                "id": 1336,
+                "account_id": 34,
+                "specialty_id": 7,
+                "approved": true
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "parent_id": null,
+        "name": "Yoga Instructor",
+        "rank": 2,
+        "status": 1,
+        "account_specialty": {
+            "exists": true,
+            "id": 1337,
+            "approved": false
+        },
+        "childrenRecursive": [
+            {
+                "id": 13,
+                "parent_id": 8,
+                "name": "500hr",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 14,
+                "parent_id": 8,
+                "name": "200hr",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1340,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 15,
+                "parent_id": 8,
+                "name": "Certified",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1341,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 41,
+                "parent_id": 8,
+                "name": "SUP Yoga",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 52,
+                "parent_id": 8,
+                "name": "Yoga Sculpt",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 55,
+                "parent_id": 8,
+                "name": "Kids Programming",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 59,
+                "parent_id": 8,
+                "name": "PiYo or Yogalates",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1361,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            }
+        ],
+        "children_recursive": [
+            {
+                "id": 13,
+                "parent_id": 8,
+                "name": "500hr",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 14,
+                "parent_id": 8,
+                "name": "200hr",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1340,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 15,
+                "parent_id": 8,
+                "name": "Certified",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1341,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 41,
+                "parent_id": 8,
+                "name": "SUP Yoga",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 52,
+                "parent_id": 8,
+                "name": "Yoga Sculpt",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 55,
+                "parent_id": 8,
+                "name": "Kids Programming",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 59,
+                "parent_id": 8,
+                "name": "PiYo or Yogalates",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1361,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            }
+        ],
+        "account_specialties": [
+            {
+                "id": 86,
+                "account_id": 3,
+                "specialty_id": 8,
+                "approved": false
+            },
+            {
+                "id": 133,
+                "account_id": 4,
+                "specialty_id": 8,
+                "approved": false
+            },
+            {
+                "id": 177,
+                "account_id": 5,
+                "specialty_id": 8,
+                "approved": true
+            },
+            {
+                "id": 223,
+                "account_id": 6,
+                "specialty_id": 8,
+                "approved": false
+            },
+            {
+                "id": 264,
+                "account_id": 7,
+                "specialty_id": 8,
+                "approved": true
+            },
+            {
+                "id": 370,
+                "account_id": 10,
+                "specialty_id": 8,
+                "approved": false
+            },
+            {
+                "id": 458,
+                "account_id": 12,
+                "specialty_id": 8,
+                "approved": false
+            },
+            {
+                "id": 596,
+                "account_id": 16,
+                "specialty_id": 8,
+                "approved": true
+            },
+            {
+                "id": 721,
+                "account_id": 19,
+                "specialty_id": 8,
+                "approved": true
+            },
+            {
+                "id": 757,
+                "account_id": 20,
+                "specialty_id": 8,
+                "approved": false
+            },
+            {
+                "id": 789,
+                "account_id": 21,
+                "specialty_id": 8,
+                "approved": true
+            },
+            {
+                "id": 874,
+                "account_id": 23,
+                "specialty_id": 8,
+                "approved": true
+            },
+            {
+                "id": 915,
+                "account_id": 24,
+                "specialty_id": 8,
+                "approved": true
+            },
+            {
+                "id": 1117,
+                "account_id": 29,
+                "specialty_id": 8,
+                "approved": true
+            },
+            {
+                "id": 1202,
+                "account_id": 31,
+                "specialty_id": 8,
+                "approved": false
+            },
+            {
+                "id": 1288,
+                "account_id": 33,
+                "specialty_id": 8,
+                "approved": false
+            },
+            {
+                "id": 1337,
+                "account_id": 34,
+                "specialty_id": 8,
+                "approved": false
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "parent_id": null,
+        "name": "Pilates Instructor",
+        "rank": 5,
+        "status": 1,
+        "account_specialty": {
+            "exists": true,
+            "id": 1338,
+            "approved": true
+        },
+        "childrenRecursive": [
+            {
+                "id": 60,
+                "parent_id": 9,
+                "name": "PiYo or Yogalates",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            }
+        ],
+        "children_recursive": [
+            {
+                "id": 60,
+                "parent_id": 9,
+                "name": "PiYo or Yogalates",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            }
+        ],
+        "account_specialties": [
+            {
+                "id": 6,
+                "account_id": 1,
+                "specialty_id": 9,
+                "approved": false
+            },
+            {
+                "id": 87,
+                "account_id": 3,
+                "specialty_id": 9,
+                "approved": true
+            },
+            {
+                "id": 178,
+                "account_id": 5,
+                "specialty_id": 9,
+                "approved": false
+            },
+            {
+                "id": 224,
+                "account_id": 6,
+                "specialty_id": 9,
+                "approved": false
+            },
+            {
+                "id": 371,
+                "account_id": 10,
+                "specialty_id": 9,
+                "approved": true
+            },
+            {
+                "id": 564,
+                "account_id": 15,
+                "specialty_id": 9,
+                "approved": false
+            },
+            {
+                "id": 633,
+                "account_id": 17,
+                "specialty_id": 9,
+                "approved": false
+            },
+            {
+                "id": 674,
+                "account_id": 18,
+                "specialty_id": 9,
+                "approved": true
+            },
+            {
+                "id": 722,
+                "account_id": 19,
+                "specialty_id": 9,
+                "approved": true
+            },
+            {
+                "id": 827,
+                "account_id": 22,
+                "specialty_id": 9,
+                "approved": false
+            },
+            {
+                "id": 875,
+                "account_id": 23,
+                "specialty_id": 9,
+                "approved": false
+            },
+            {
+                "id": 1118,
+                "account_id": 29,
+                "specialty_id": 9,
+                "approved": false
+            },
+            {
+                "id": 1159,
+                "account_id": 30,
+                "specialty_id": 9,
+                "approved": false
+            },
+            {
+                "id": 1203,
+                "account_id": 31,
+                "specialty_id": 9,
+                "approved": false
+            },
+            {
+                "id": 1242,
+                "account_id": 32,
+                "specialty_id": 9,
+                "approved": false
+            },
+            {
+                "id": 1289,
+                "account_id": 33,
+                "specialty_id": 9,
+                "approved": false
+            },
+            {
+                "id": 1338,
+                "account_id": 34,
+                "specialty_id": 9,
+                "approved": true
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "parent_id": null,
+        "name": "Zumba Instructor",
+        "rank": 7,
+        "status": 1,
+        "account_specialty": {
+            "exists": false,
+            "id": 0,
+            "approved": false
+        },
+        "childrenRecursive": [
+            {
+                "id": 56,
+                "parent_id": 10,
+                "name": "Kids Programming",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 71,
+                "parent_id": 10,
+                "name": "Strong Nation",
+                "rank": 1,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            }
+        ],
+        "children_recursive": [
+            {
+                "id": 56,
+                "parent_id": 10,
+                "name": "Kids Programming",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 71,
+                "parent_id": 10,
+                "name": "Strong Nation",
+                "rank": 1,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            }
+        ],
+        "account_specialties": [
+            {
+                "id": 46,
+                "account_id": 2,
+                "specialty_id": 10,
+                "approved": true
+            },
+            {
+                "id": 134,
+                "account_id": 4,
+                "specialty_id": 10,
+                "approved": true
+            },
+            {
+                "id": 225,
+                "account_id": 6,
+                "specialty_id": 10,
+                "approved": true
+            },
+            {
+                "id": 265,
+                "account_id": 7,
+                "specialty_id": 10,
+                "approved": false
+            },
+            {
+                "id": 340,
+                "account_id": 9,
+                "specialty_id": 10,
+                "approved": true
+            },
+            {
+                "id": 372,
+                "account_id": 10,
+                "specialty_id": 10,
+                "approved": true
+            },
+            {
+                "id": 419,
+                "account_id": 11,
+                "specialty_id": 10,
+                "approved": true
+            },
+            {
+                "id": 758,
+                "account_id": 20,
+                "specialty_id": 10,
+                "approved": true
+            },
+            {
+                "id": 951,
+                "account_id": 25,
+                "specialty_id": 10,
+                "approved": false
+            },
+            {
+                "id": 992,
+                "account_id": 26,
+                "specialty_id": 10,
+                "approved": false
+            },
+            {
+                "id": 1036,
+                "account_id": 27,
+                "specialty_id": 10,
+                "approved": false
+            },
+            {
+                "id": 1076,
+                "account_id": 28,
+                "specialty_id": 10,
+                "approved": true
+            },
+            {
+                "id": 1119,
+                "account_id": 29,
+                "specialty_id": 10,
+                "approved": true
+            },
+            {
+                "id": 1160,
+                "account_id": 30,
+                "specialty_id": 10,
+                "approved": true
+            },
+            {
+                "id": 1243,
+                "account_id": 32,
+                "specialty_id": 10,
+                "approved": false
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "parent_id": null,
+        "name": "Cycling Instructor",
+        "rank": 8,
+        "status": 1,
+        "account_specialty": {
+            "exists": true,
+            "id": 1348,
+            "approved": false
+        },
+        "childrenRecursive": [],
+        "children_recursive": [],
+        "account_specialties": [
+            {
+                "id": 15,
+                "account_id": 1,
+                "specialty_id": 24,
+                "approved": false
+            },
+            {
+                "id": 53,
+                "account_id": 2,
+                "specialty_id": 24,
+                "approved": false
+            },
+            {
+                "id": 96,
+                "account_id": 3,
+                "specialty_id": 24,
+                "approved": false
+            },
+            {
+                "id": 187,
+                "account_id": 5,
+                "specialty_id": 24,
+                "approved": false
+            },
+            {
+                "id": 233,
+                "account_id": 6,
+                "specialty_id": 24,
+                "approved": false
+            },
+            {
+                "id": 347,
+                "account_id": 9,
+                "specialty_id": 24,
+                "approved": true
+            },
+            {
+                "id": 382,
+                "account_id": 10,
+                "specialty_id": 24,
+                "approved": true
+            },
+            {
+                "id": 495,
+                "account_id": 13,
+                "specialty_id": 24,
+                "approved": true
+            },
+            {
+                "id": 531,
+                "account_id": 14,
+                "specialty_id": 24,
+                "approved": false
+            },
+            {
+                "id": 639,
+                "account_id": 17,
+                "specialty_id": 24,
+                "approved": true
+            },
+            {
+                "id": 683,
+                "account_id": 18,
+                "specialty_id": 24,
+                "approved": true
+            },
+            {
+                "id": 728,
+                "account_id": 19,
+                "specialty_id": 24,
+                "approved": true
+            },
+            {
+                "id": 797,
+                "account_id": 21,
+                "specialty_id": 24,
+                "approved": false
+            },
+            {
+                "id": 838,
+                "account_id": 22,
+                "specialty_id": 24,
+                "approved": false
+            },
+            {
+                "id": 1085,
+                "account_id": 28,
+                "specialty_id": 24,
+                "approved": true
+            },
+            {
+                "id": 1166,
+                "account_id": 30,
+                "specialty_id": 24,
+                "approved": false
+            },
+            {
+                "id": 1211,
+                "account_id": 31,
+                "specialty_id": 24,
+                "approved": true
+            },
+            {
+                "id": 1297,
+                "account_id": 33,
+                "specialty_id": 24,
+                "approved": true
+            },
+            {
+                "id": 1348,
+                "account_id": 34,
+                "specialty_id": 24,
+                "approved": false
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "parent_id": null,
+        "name": "CEC Provider",
+        "rank": 10,
+        "status": 1,
+        "account_specialty": {
+            "exists": false,
+            "id": 0,
+            "approved": false
+        },
+        "childrenRecursive": [],
+        "children_recursive": [],
+        "account_specialties": [
+            {
+                "id": 16,
+                "account_id": 1,
+                "specialty_id": 25,
+                "approved": false
+            },
+            {
+                "id": 54,
+                "account_id": 2,
+                "specialty_id": 25,
+                "approved": true
+            },
+            {
+                "id": 97,
+                "account_id": 3,
+                "specialty_id": 25,
+                "approved": false
+            },
+            {
+                "id": 143,
+                "account_id": 4,
+                "specialty_id": 25,
+                "approved": false
+            },
+            {
+                "id": 188,
+                "account_id": 5,
+                "specialty_id": 25,
+                "approved": true
+            },
+            {
+                "id": 306,
+                "account_id": 8,
+                "specialty_id": 25,
+                "approved": true
+            },
+            {
+                "id": 428,
+                "account_id": 11,
+                "specialty_id": 25,
+                "approved": true
+            },
+            {
+                "id": 462,
+                "account_id": 12,
+                "specialty_id": 25,
+                "approved": false
+            },
+            {
+                "id": 532,
+                "account_id": 14,
+                "specialty_id": 25,
+                "approved": false
+            },
+            {
+                "id": 571,
+                "account_id": 15,
+                "specialty_id": 25,
+                "approved": false
+            },
+            {
+                "id": 640,
+                "account_id": 17,
+                "specialty_id": 25,
+                "approved": false
+            },
+            {
+                "id": 729,
+                "account_id": 19,
+                "specialty_id": 25,
+                "approved": false
+            },
+            {
+                "id": 763,
+                "account_id": 20,
+                "specialty_id": 25,
+                "approved": false
+            },
+            {
+                "id": 839,
+                "account_id": 22,
+                "specialty_id": 25,
+                "approved": true
+            },
+            {
+                "id": 882,
+                "account_id": 23,
+                "specialty_id": 25,
+                "approved": false
+            },
+            {
+                "id": 923,
+                "account_id": 24,
+                "specialty_id": 25,
+                "approved": true
+            },
+            {
+                "id": 1127,
+                "account_id": 29,
+                "specialty_id": 25,
+                "approved": false
+            },
+            {
+                "id": 1212,
+                "account_id": 31,
+                "specialty_id": 25,
+                "approved": false
+            },
+            {
+                "id": 1253,
+                "account_id": 32,
+                "specialty_id": 25,
+                "approved": true
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "parent_id": null,
+        "name": "Dietician",
+        "rank": 8,
+        "status": 0,
+        "account_specialty": {
+            "exists": false,
+            "id": 0,
+            "approved": false
+        },
+        "childrenRecursive": [],
+        "children_recursive": [],
+        "account_specialties": [
+            {
+                "id": 17,
+                "account_id": 1,
+                "specialty_id": 26,
+                "approved": false
+            },
+            {
+                "id": 55,
+                "account_id": 2,
+                "specialty_id": 26,
+                "approved": true
+            },
+            {
+                "id": 98,
+                "account_id": 3,
+                "specialty_id": 26,
+                "approved": false
+            },
+            {
+                "id": 348,
+                "account_id": 9,
+                "specialty_id": 26,
+                "approved": true
+            },
+            {
+                "id": 383,
+                "account_id": 10,
+                "specialty_id": 26,
+                "approved": true
+            },
+            {
+                "id": 572,
+                "account_id": 15,
+                "specialty_id": 26,
+                "approved": true
+            },
+            {
+                "id": 641,
+                "account_id": 17,
+                "specialty_id": 26,
+                "approved": false
+            },
+            {
+                "id": 684,
+                "account_id": 18,
+                "specialty_id": 26,
+                "approved": true
+            },
+            {
+                "id": 764,
+                "account_id": 20,
+                "specialty_id": 26,
+                "approved": true
+            },
+            {
+                "id": 840,
+                "account_id": 22,
+                "specialty_id": 26,
+                "approved": false
+            },
+            {
+                "id": 961,
+                "account_id": 25,
+                "specialty_id": 26,
+                "approved": false
+            },
+            {
+                "id": 1045,
+                "account_id": 27,
+                "specialty_id": 26,
+                "approved": false
+            },
+            {
+                "id": 1128,
+                "account_id": 29,
+                "specialty_id": 26,
+                "approved": true
+            },
+            {
+                "id": 1213,
+                "account_id": 31,
+                "specialty_id": 26,
+                "approved": false
+            },
+            {
+                "id": 1298,
+                "account_id": 33,
+                "specialty_id": 26,
+                "approved": true
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "parent_id": null,
+        "name": "Club\/Studio Operator",
+        "rank": 9,
+        "status": 1,
+        "account_specialty": {
+            "exists": false,
+            "id": 0,
+            "approved": false
+        },
+        "childrenRecursive": [],
+        "children_recursive": [],
+        "account_specialties": [
+            {
+                "id": 189,
+                "account_id": 5,
+                "specialty_id": 27,
+                "approved": false
+            },
+            {
+                "id": 234,
+                "account_id": 6,
+                "specialty_id": 27,
+                "approved": false
+            },
+            {
+                "id": 271,
+                "account_id": 7,
+                "specialty_id": 27,
+                "approved": true
+            },
+            {
+                "id": 307,
+                "account_id": 8,
+                "specialty_id": 27,
+                "approved": true
+            },
+            {
+                "id": 429,
+                "account_id": 11,
+                "specialty_id": 27,
+                "approved": true
+            },
+            {
+                "id": 496,
+                "account_id": 13,
+                "specialty_id": 27,
+                "approved": true
+            },
+            {
+                "id": 533,
+                "account_id": 14,
+                "specialty_id": 27,
+                "approved": true
+            },
+            {
+                "id": 604,
+                "account_id": 16,
+                "specialty_id": 27,
+                "approved": true
+            },
+            {
+                "id": 685,
+                "account_id": 18,
+                "specialty_id": 27,
+                "approved": true
+            },
+            {
+                "id": 730,
+                "account_id": 19,
+                "specialty_id": 27,
+                "approved": false
+            },
+            {
+                "id": 765,
+                "account_id": 20,
+                "specialty_id": 27,
+                "approved": true
+            },
+            {
+                "id": 798,
+                "account_id": 21,
+                "specialty_id": 27,
+                "approved": false
+            },
+            {
+                "id": 924,
+                "account_id": 24,
+                "specialty_id": 27,
+                "approved": false
+            },
+            {
+                "id": 999,
+                "account_id": 26,
+                "specialty_id": 27,
+                "approved": false
+            },
+            {
+                "id": 1086,
+                "account_id": 28,
+                "specialty_id": 27,
+                "approved": true
+            },
+            {
+                "id": 1129,
+                "account_id": 29,
+                "specialty_id": 27,
+                "approved": true
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "parent_id": null,
+        "name": "Massage Therapist",
+        "rank": 9,
+        "status": 0,
+        "account_specialty": {
+            "exists": true,
+            "id": 1349,
+            "approved": true
+        },
+        "childrenRecursive": [],
+        "children_recursive": [],
+        "account_specialties": [
+            {
+                "id": 18,
+                "account_id": 1,
+                "specialty_id": 28,
+                "approved": true
+            },
+            {
+                "id": 99,
+                "account_id": 3,
+                "specialty_id": 28,
+                "approved": true
+            },
+            {
+                "id": 144,
+                "account_id": 4,
+                "specialty_id": 28,
+                "approved": true
+            },
+            {
+                "id": 190,
+                "account_id": 5,
+                "specialty_id": 28,
+                "approved": true
+            },
+            {
+                "id": 235,
+                "account_id": 6,
+                "specialty_id": 28,
+                "approved": false
+            },
+            {
+                "id": 272,
+                "account_id": 7,
+                "specialty_id": 28,
+                "approved": false
+            },
+            {
+                "id": 349,
+                "account_id": 9,
+                "specialty_id": 28,
+                "approved": false
+            },
+            {
+                "id": 430,
+                "account_id": 11,
+                "specialty_id": 28,
+                "approved": true
+            },
+            {
+                "id": 463,
+                "account_id": 12,
+                "specialty_id": 28,
+                "approved": true
+            },
+            {
+                "id": 642,
+                "account_id": 17,
+                "specialty_id": 28,
+                "approved": false
+            },
+            {
+                "id": 686,
+                "account_id": 18,
+                "specialty_id": 28,
+                "approved": true
+            },
+            {
+                "id": 766,
+                "account_id": 20,
+                "specialty_id": 28,
+                "approved": false
+            },
+            {
+                "id": 841,
+                "account_id": 22,
+                "specialty_id": 28,
+                "approved": true
+            },
+            {
+                "id": 1087,
+                "account_id": 28,
+                "specialty_id": 28,
+                "approved": false
+            },
+            {
+                "id": 1167,
+                "account_id": 30,
+                "specialty_id": 28,
+                "approved": true
+            },
+            {
+                "id": 1214,
+                "account_id": 31,
+                "specialty_id": 28,
+                "approved": true
+            },
+            {
+                "id": 1254,
+                "account_id": 32,
+                "specialty_id": 28,
+                "approved": true
+            },
+            {
+                "id": 1349,
+                "account_id": 34,
+                "specialty_id": 28,
+                "approved": true
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "parent_id": null,
+        "name": "Tennis Coach",
+        "rank": 3,
+        "status": 1,
+        "account_specialty": {
+            "exists": false,
+            "id": 0,
+            "approved": false
+        },
+        "childrenRecursive": [
+            {
+                "id": 57,
+                "parent_id": 29,
+                "name": "Kids Programming",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            }
+        ],
+        "children_recursive": [
+            {
+                "id": 57,
+                "parent_id": 29,
+                "name": "Kids Programming",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            }
+        ],
+        "account_specialties": [
+            {
+                "id": 19,
+                "account_id": 1,
+                "specialty_id": 29,
+                "approved": true
+            },
+            {
+                "id": 56,
+                "account_id": 2,
+                "specialty_id": 29,
+                "approved": true
+            },
+            {
+                "id": 100,
+                "account_id": 3,
+                "specialty_id": 29,
+                "approved": false
+            },
+            {
+                "id": 308,
+                "account_id": 8,
+                "specialty_id": 29,
+                "approved": false
+            },
+            {
+                "id": 350,
+                "account_id": 9,
+                "specialty_id": 29,
+                "approved": false
+            },
+            {
+                "id": 384,
+                "account_id": 10,
+                "specialty_id": 29,
+                "approved": false
+            },
+            {
+                "id": 464,
+                "account_id": 12,
+                "specialty_id": 29,
+                "approved": true
+            },
+            {
+                "id": 497,
+                "account_id": 13,
+                "specialty_id": 29,
+                "approved": false
+            },
+            {
+                "id": 534,
+                "account_id": 14,
+                "specialty_id": 29,
+                "approved": false
+            },
+            {
+                "id": 643,
+                "account_id": 17,
+                "specialty_id": 29,
+                "approved": false
+            },
+            {
+                "id": 799,
+                "account_id": 21,
+                "specialty_id": 29,
+                "approved": false
+            },
+            {
+                "id": 883,
+                "account_id": 23,
+                "specialty_id": 29,
+                "approved": false
+            },
+            {
+                "id": 925,
+                "account_id": 24,
+                "specialty_id": 29,
+                "approved": false
+            },
+            {
+                "id": 962,
+                "account_id": 25,
+                "specialty_id": 29,
+                "approved": true
+            },
+            {
+                "id": 1000,
+                "account_id": 26,
+                "specialty_id": 29,
+                "approved": false
+            },
+            {
+                "id": 1088,
+                "account_id": 28,
+                "specialty_id": 29,
+                "approved": false
+            },
+            {
+                "id": 1255,
+                "account_id": 32,
+                "specialty_id": 29,
+                "approved": false
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "parent_id": null,
+        "name": "Chiropractor",
+        "rank": 9,
+        "status": 0,
+        "account_specialty": {
+            "exists": true,
+            "id": 1350,
+            "approved": true
+        },
+        "childrenRecursive": [],
+        "children_recursive": [],
+        "account_specialties": [
+            {
+                "id": 20,
+                "account_id": 1,
+                "specialty_id": 30,
+                "approved": false
+            },
+            {
+                "id": 145,
+                "account_id": 4,
+                "specialty_id": 30,
+                "approved": false
+            },
+            {
+                "id": 191,
+                "account_id": 5,
+                "specialty_id": 30,
+                "approved": false
+            },
+            {
+                "id": 273,
+                "account_id": 7,
+                "specialty_id": 30,
+                "approved": false
+            },
+            {
+                "id": 309,
+                "account_id": 8,
+                "specialty_id": 30,
+                "approved": true
+            },
+            {
+                "id": 498,
+                "account_id": 13,
+                "specialty_id": 30,
+                "approved": true
+            },
+            {
+                "id": 535,
+                "account_id": 14,
+                "specialty_id": 30,
+                "approved": true
+            },
+            {
+                "id": 573,
+                "account_id": 15,
+                "specialty_id": 30,
+                "approved": true
+            },
+            {
+                "id": 605,
+                "account_id": 16,
+                "specialty_id": 30,
+                "approved": false
+            },
+            {
+                "id": 644,
+                "account_id": 17,
+                "specialty_id": 30,
+                "approved": false
+            },
+            {
+                "id": 731,
+                "account_id": 19,
+                "specialty_id": 30,
+                "approved": false
+            },
+            {
+                "id": 963,
+                "account_id": 25,
+                "specialty_id": 30,
+                "approved": false
+            },
+            {
+                "id": 1001,
+                "account_id": 26,
+                "specialty_id": 30,
+                "approved": true
+            },
+            {
+                "id": 1168,
+                "account_id": 30,
+                "specialty_id": 30,
+                "approved": false
+            },
+            {
+                "id": 1215,
+                "account_id": 31,
+                "specialty_id": 30,
+                "approved": false
+            },
+            {
+                "id": 1256,
+                "account_id": 32,
+                "specialty_id": 30,
+                "approved": false
+            },
+            {
+                "id": 1299,
+                "account_id": 33,
+                "specialty_id": 30,
+                "approved": false
+            },
+            {
+                "id": 1350,
+                "account_id": 34,
+                "specialty_id": 30,
+                "approved": true
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "parent_id": null,
+        "name": "Fitness Enthusiast",
+        "rank": 8,
+        "status": 1,
+        "account_specialty": {
+            "exists": false,
+            "id": 0,
+            "approved": false
+        },
+        "childrenRecursive": [],
+        "children_recursive": [],
+        "account_specialties": [
+            {
+                "id": 21,
+                "account_id": 1,
+                "specialty_id": 31,
+                "approved": false
+            },
+            {
+                "id": 236,
+                "account_id": 6,
+                "specialty_id": 31,
+                "approved": true
+            },
+            {
+                "id": 351,
+                "account_id": 9,
+                "specialty_id": 31,
+                "approved": true
+            },
+            {
+                "id": 385,
+                "account_id": 10,
+                "specialty_id": 31,
+                "approved": false
+            },
+            {
+                "id": 431,
+                "account_id": 11,
+                "specialty_id": 31,
+                "approved": true
+            },
+            {
+                "id": 499,
+                "account_id": 13,
+                "specialty_id": 31,
+                "approved": false
+            },
+            {
+                "id": 574,
+                "account_id": 15,
+                "specialty_id": 31,
+                "approved": false
+            },
+            {
+                "id": 687,
+                "account_id": 18,
+                "specialty_id": 31,
+                "approved": false
+            },
+            {
+                "id": 884,
+                "account_id": 23,
+                "specialty_id": 31,
+                "approved": true
+            },
+            {
+                "id": 1002,
+                "account_id": 26,
+                "specialty_id": 31,
+                "approved": true
+            },
+            {
+                "id": 1046,
+                "account_id": 27,
+                "specialty_id": 31,
+                "approved": true
+            },
+            {
+                "id": 1089,
+                "account_id": 28,
+                "specialty_id": 31,
+                "approved": true
+            },
+            {
+                "id": 1130,
+                "account_id": 29,
+                "specialty_id": 31,
+                "approved": true
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "parent_id": null,
+        "name": "Health\/Fitness Biz",
+        "rank": 8,
+        "status": 1,
+        "account_specialty": {
+            "exists": true,
+            "id": 1351,
+            "approved": false
+        },
+        "childrenRecursive": [],
+        "children_recursive": [],
+        "account_specialties": [
+            {
+                "id": 22,
+                "account_id": 1,
+                "specialty_id": 32,
+                "approved": true
+            },
+            {
+                "id": 101,
+                "account_id": 3,
+                "specialty_id": 32,
+                "approved": true
+            },
+            {
+                "id": 192,
+                "account_id": 5,
+                "specialty_id": 32,
+                "approved": false
+            },
+            {
+                "id": 237,
+                "account_id": 6,
+                "specialty_id": 32,
+                "approved": true
+            },
+            {
+                "id": 352,
+                "account_id": 9,
+                "specialty_id": 32,
+                "approved": true
+            },
+            {
+                "id": 386,
+                "account_id": 10,
+                "specialty_id": 32,
+                "approved": false
+            },
+            {
+                "id": 500,
+                "account_id": 13,
+                "specialty_id": 32,
+                "approved": false
+            },
+            {
+                "id": 536,
+                "account_id": 14,
+                "specialty_id": 32,
+                "approved": true
+            },
+            {
+                "id": 688,
+                "account_id": 18,
+                "specialty_id": 32,
+                "approved": true
+            },
+            {
+                "id": 732,
+                "account_id": 19,
+                "specialty_id": 32,
+                "approved": true
+            },
+            {
+                "id": 964,
+                "account_id": 25,
+                "specialty_id": 32,
+                "approved": false
+            },
+            {
+                "id": 1003,
+                "account_id": 26,
+                "specialty_id": 32,
+                "approved": false
+            },
+            {
+                "id": 1047,
+                "account_id": 27,
+                "specialty_id": 32,
+                "approved": false
+            },
+            {
+                "id": 1090,
+                "account_id": 28,
+                "specialty_id": 32,
+                "approved": false
+            },
+            {
+                "id": 1131,
+                "account_id": 29,
+                "specialty_id": 32,
+                "approved": true
+            },
+            {
+                "id": 1169,
+                "account_id": 30,
+                "specialty_id": 32,
+                "approved": true
+            },
+            {
+                "id": 1216,
+                "account_id": 31,
+                "specialty_id": 32,
+                "approved": false
+            },
+            {
+                "id": 1351,
+                "account_id": 34,
+                "specialty_id": 32,
+                "approved": false
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "parent_id": null,
+        "name": "Squash Pro",
+        "rank": 9,
+        "status": 0,
+        "account_specialty": {
+            "exists": true,
+            "id": 1352,
+            "approved": false
+        },
+        "childrenRecursive": [],
+        "children_recursive": [],
+        "account_specialties": [
+            {
+                "id": 23,
+                "account_id": 1,
+                "specialty_id": 33,
+                "approved": false
+            },
+            {
+                "id": 102,
+                "account_id": 3,
+                "specialty_id": 33,
+                "approved": true
+            },
+            {
+                "id": 310,
+                "account_id": 8,
+                "specialty_id": 33,
+                "approved": true
+            },
+            {
+                "id": 353,
+                "account_id": 9,
+                "specialty_id": 33,
+                "approved": false
+            },
+            {
+                "id": 432,
+                "account_id": 11,
+                "specialty_id": 33,
+                "approved": true
+            },
+            {
+                "id": 575,
+                "account_id": 15,
+                "specialty_id": 33,
+                "approved": true
+            },
+            {
+                "id": 645,
+                "account_id": 17,
+                "specialty_id": 33,
+                "approved": false
+            },
+            {
+                "id": 800,
+                "account_id": 21,
+                "specialty_id": 33,
+                "approved": false
+            },
+            {
+                "id": 842,
+                "account_id": 22,
+                "specialty_id": 33,
+                "approved": false
+            },
+            {
+                "id": 885,
+                "account_id": 23,
+                "specialty_id": 33,
+                "approved": false
+            },
+            {
+                "id": 1048,
+                "account_id": 27,
+                "specialty_id": 33,
+                "approved": false
+            },
+            {
+                "id": 1132,
+                "account_id": 29,
+                "specialty_id": 33,
+                "approved": false
+            },
+            {
+                "id": 1257,
+                "account_id": 32,
+                "specialty_id": 33,
+                "approved": true
+            },
+            {
+                "id": 1352,
+                "account_id": 34,
+                "specialty_id": 33,
+                "approved": false
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "parent_id": null,
+        "name": "D.J.",
+        "rank": 8,
+        "status": 1,
+        "account_specialty": {
+            "exists": true,
+            "id": 1353,
+            "approved": true
+        },
+        "childrenRecursive": [],
+        "children_recursive": [],
+        "account_specialties": [
+            {
+                "id": 25,
+                "account_id": 1,
+                "specialty_id": 35,
+                "approved": false
+            },
+            {
+                "id": 58,
+                "account_id": 2,
+                "specialty_id": 35,
+                "approved": true
+            },
+            {
+                "id": 146,
+                "account_id": 4,
+                "specialty_id": 35,
+                "approved": false
+            },
+            {
+                "id": 193,
+                "account_id": 5,
+                "specialty_id": 35,
+                "approved": false
+            },
+            {
+                "id": 239,
+                "account_id": 6,
+                "specialty_id": 35,
+                "approved": false
+            },
+            {
+                "id": 274,
+                "account_id": 7,
+                "specialty_id": 35,
+                "approved": true
+            },
+            {
+                "id": 388,
+                "account_id": 10,
+                "specialty_id": 35,
+                "approved": false
+            },
+            {
+                "id": 433,
+                "account_id": 11,
+                "specialty_id": 35,
+                "approved": true
+            },
+            {
+                "id": 465,
+                "account_id": 12,
+                "specialty_id": 35,
+                "approved": false
+            },
+            {
+                "id": 606,
+                "account_id": 16,
+                "specialty_id": 35,
+                "approved": false
+            },
+            {
+                "id": 647,
+                "account_id": 17,
+                "specialty_id": 35,
+                "approved": false
+            },
+            {
+                "id": 690,
+                "account_id": 18,
+                "specialty_id": 35,
+                "approved": true
+            },
+            {
+                "id": 733,
+                "account_id": 19,
+                "specialty_id": 35,
+                "approved": true
+            },
+            {
+                "id": 927,
+                "account_id": 24,
+                "specialty_id": 35,
+                "approved": false
+            },
+            {
+                "id": 965,
+                "account_id": 25,
+                "specialty_id": 35,
+                "approved": false
+            },
+            {
+                "id": 1091,
+                "account_id": 28,
+                "specialty_id": 35,
+                "approved": true
+            },
+            {
+                "id": 1133,
+                "account_id": 29,
+                "specialty_id": 35,
+                "approved": false
+            },
+            {
+                "id": 1170,
+                "account_id": 30,
+                "specialty_id": 35,
+                "approved": false
+            },
+            {
+                "id": 1258,
+                "account_id": 32,
+                "specialty_id": 35,
+                "approved": false
+            },
+            {
+                "id": 1300,
+                "account_id": 33,
+                "specialty_id": 35,
+                "approved": true
+            },
+            {
+                "id": 1353,
+                "account_id": 34,
+                "specialty_id": 35,
+                "approved": true
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "parent_id": null,
+        "name": "Dance Instructor",
+        "rank": 8,
+        "status": 0,
+        "account_specialty": {
+            "exists": true,
+            "id": 1354,
+            "approved": false
+        },
+        "childrenRecursive": [
+            {
+                "id": 37,
+                "parent_id": 36,
+                "name": "Ball Room",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1355,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 38,
+                "parent_id": 36,
+                "name": "Latin",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1356,
+                    "approved": true
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 39,
+                "parent_id": 36,
+                "name": "Urban, HipHop",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 63,
+                "parent_id": 36,
+                "name": "Belly Dancing",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1364,
+                    "approved": true
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            }
+        ],
+        "children_recursive": [
+            {
+                "id": 37,
+                "parent_id": 36,
+                "name": "Ball Room",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1355,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 38,
+                "parent_id": 36,
+                "name": "Latin",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1356,
+                    "approved": true
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 39,
+                "parent_id": 36,
+                "name": "Urban, HipHop",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 63,
+                "parent_id": 36,
+                "name": "Belly Dancing",
+                "rank": 0,
+                "status": 1,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1364,
+                    "approved": true
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            }
+        ],
+        "account_specialties": [
+            {
+                "id": 26,
+                "account_id": 1,
+                "specialty_id": 36,
+                "approved": false
+            },
+            {
+                "id": 103,
+                "account_id": 3,
+                "specialty_id": 36,
+                "approved": true
+            },
+            {
+                "id": 147,
+                "account_id": 4,
+                "specialty_id": 36,
+                "approved": false
+            },
+            {
+                "id": 312,
+                "account_id": 8,
+                "specialty_id": 36,
+                "approved": true
+            },
+            {
+                "id": 355,
+                "account_id": 9,
+                "specialty_id": 36,
+                "approved": true
+            },
+            {
+                "id": 389,
+                "account_id": 10,
+                "specialty_id": 36,
+                "approved": false
+            },
+            {
+                "id": 502,
+                "account_id": 13,
+                "specialty_id": 36,
+                "approved": false
+            },
+            {
+                "id": 537,
+                "account_id": 14,
+                "specialty_id": 36,
+                "approved": true
+            },
+            {
+                "id": 802,
+                "account_id": 21,
+                "specialty_id": 36,
+                "approved": true
+            },
+            {
+                "id": 928,
+                "account_id": 24,
+                "specialty_id": 36,
+                "approved": true
+            },
+            {
+                "id": 1005,
+                "account_id": 26,
+                "specialty_id": 36,
+                "approved": true
+            },
+            {
+                "id": 1049,
+                "account_id": 27,
+                "specialty_id": 36,
+                "approved": true
+            },
+            {
+                "id": 1092,
+                "account_id": 28,
+                "specialty_id": 36,
+                "approved": false
+            },
+            {
+                "id": 1218,
+                "account_id": 31,
+                "specialty_id": 36,
+                "approved": true
+            },
+            {
+                "id": 1301,
+                "account_id": 33,
+                "specialty_id": 36,
+                "approved": true
+            },
+            {
+                "id": 1354,
+                "account_id": 34,
+                "specialty_id": 36,
+                "approved": false
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "parent_id": null,
+        "name": "Pound Fitness",
+        "rank": 50,
+        "status": 0,
+        "account_specialty": {
+            "exists": false,
+            "id": 0,
+            "approved": false
+        },
+        "childrenRecursive": [],
+        "children_recursive": [],
+        "account_specialties": [
+            {
+                "id": 153,
+                "account_id": 4,
+                "specialty_id": 43,
+                "approved": false
+            },
+            {
+                "id": 242,
+                "account_id": 6,
+                "specialty_id": 43,
+                "approved": true
+            },
+            {
+                "id": 280,
+                "account_id": 7,
+                "specialty_id": 43,
+                "approved": true
+            },
+            {
+                "id": 315,
+                "account_id": 8,
+                "specialty_id": 43,
+                "approved": false
+            },
+            {
+                "id": 437,
+                "account_id": 11,
+                "specialty_id": 43,
+                "approved": false
+            },
+            {
+                "id": 468,
+                "account_id": 12,
+                "specialty_id": 43,
+                "approved": true
+            },
+            {
+                "id": 577,
+                "account_id": 15,
+                "specialty_id": 43,
+                "approved": true
+            },
+            {
+                "id": 695,
+                "account_id": 18,
+                "specialty_id": 43,
+                "approved": true
+            },
+            {
+                "id": 735,
+                "account_id": 19,
+                "specialty_id": 43,
+                "approved": true
+            },
+            {
+                "id": 771,
+                "account_id": 20,
+                "specialty_id": 43,
+                "approved": false
+            },
+            {
+                "id": 808,
+                "account_id": 21,
+                "specialty_id": 43,
+                "approved": false
+            },
+            {
+                "id": 890,
+                "account_id": 23,
+                "specialty_id": 43,
+                "approved": true
+            },
+            {
+                "id": 971,
+                "account_id": 25,
+                "specialty_id": 43,
+                "approved": false
+            },
+            {
+                "id": 1010,
+                "account_id": 26,
+                "specialty_id": 43,
+                "approved": true
+            },
+            {
+                "id": 1135,
+                "account_id": 29,
+                "specialty_id": 43,
+                "approved": false
+            },
+            {
+                "id": 1172,
+                "account_id": 30,
+                "specialty_id": 43,
+                "approved": true
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "parent_id": null,
+        "name": "Musician",
+        "rank": 9,
+        "status": 1,
+        "account_specialty": {
+            "exists": true,
+            "id": 1362,
+            "approved": true
+        },
+        "childrenRecursive": [],
+        "children_recursive": [],
+        "account_specialties": [
+            {
+                "id": 162,
+                "account_id": 4,
+                "specialty_id": 61,
+                "approved": false
+            },
+            {
+                "id": 289,
+                "account_id": 7,
+                "specialty_id": 61,
+                "approved": true
+            },
+            {
+                "id": 325,
+                "account_id": 8,
+                "specialty_id": 61,
+                "approved": true
+            },
+            {
+                "id": 475,
+                "account_id": 12,
+                "specialty_id": 61,
+                "approved": false
+            },
+            {
+                "id": 548,
+                "account_id": 14,
+                "specialty_id": 61,
+                "approved": true
+            },
+            {
+                "id": 619,
+                "account_id": 16,
+                "specialty_id": 61,
+                "approved": true
+            },
+            {
+                "id": 778,
+                "account_id": 20,
+                "specialty_id": 61,
+                "approved": true
+            },
+            {
+                "id": 939,
+                "account_id": 24,
+                "specialty_id": 61,
+                "approved": false
+            },
+            {
+                "id": 1022,
+                "account_id": 26,
+                "specialty_id": 61,
+                "approved": true
+            },
+            {
+                "id": 1104,
+                "account_id": 28,
+                "specialty_id": 61,
+                "approved": false
+            },
+            {
+                "id": 1144,
+                "account_id": 29,
+                "specialty_id": 61,
+                "approved": true
+            },
+            {
+                "id": 1270,
+                "account_id": 32,
+                "specialty_id": 61,
+                "approved": true
+            },
+            {
+                "id": 1316,
+                "account_id": 33,
+                "specialty_id": 61,
+                "approved": true
+            },
+            {
+                "id": 1362,
+                "account_id": 34,
+                "specialty_id": 61,
+                "approved": true
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "parent_id": null,
+        "name": "Kids Programming",
+        "rank": 0,
+        "status": 0,
+        "account_specialty": {
+            "exists": true,
+            "id": 1366,
+            "approved": true
+        },
+        "childrenRecursive": [],
+        "children_recursive": [],
+        "account_specialties": [
+            {
+                "id": 75,
+                "account_id": 2,
+                "specialty_id": 66,
+                "approved": false
+            },
+            {
+                "id": 410,
+                "account_id": 10,
+                "specialty_id": 66,
+                "approved": false
+            },
+            {
+                "id": 586,
+                "account_id": 15,
+                "specialty_id": 66,
+                "approved": false
+            },
+            {
+                "id": 623,
+                "account_id": 16,
+                "specialty_id": 66,
+                "approved": false
+            },
+            {
+                "id": 747,
+                "account_id": 19,
+                "specialty_id": 66,
+                "approved": true
+            },
+            {
+                "id": 780,
+                "account_id": 20,
+                "specialty_id": 66,
+                "approved": false
+            },
+            {
+                "id": 860,
+                "account_id": 22,
+                "specialty_id": 66,
+                "approved": true
+            },
+            {
+                "id": 900,
+                "account_id": 23,
+                "specialty_id": 66,
+                "approved": false
+            },
+            {
+                "id": 942,
+                "account_id": 24,
+                "specialty_id": 66,
+                "approved": false
+            },
+            {
+                "id": 1064,
+                "account_id": 27,
+                "specialty_id": 66,
+                "approved": false
+            },
+            {
+                "id": 1148,
+                "account_id": 29,
+                "specialty_id": 66,
+                "approved": true
+            },
+            {
+                "id": 1188,
+                "account_id": 30,
+                "specialty_id": 66,
+                "approved": true
+            },
+            {
+                "id": 1319,
+                "account_id": 33,
+                "specialty_id": 66,
+                "approved": true
+            },
+            {
+                "id": 1366,
+                "account_id": 34,
+                "specialty_id": 66,
+                "approved": true
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "parent_id": null,
+        "name": "Pickle Ball Coach",
+        "rank": 1,
+        "status": 1,
+        "account_specialty": {
+            "exists": false,
+            "id": 0,
+            "approved": false
+        },
+        "childrenRecursive": [],
+        "children_recursive": [],
+        "account_specialties": [
+            {
+                "id": 119,
+                "account_id": 3,
+                "specialty_id": 67,
+                "approved": true
+            },
+            {
+                "id": 165,
+                "account_id": 4,
+                "specialty_id": 67,
+                "approved": true
+            },
+            {
+                "id": 211,
+                "account_id": 5,
+                "specialty_id": 67,
+                "approved": true
+            },
+            {
+                "id": 254,
+                "account_id": 6,
+                "specialty_id": 67,
+                "approved": true
+            },
+            {
+                "id": 477,
+                "account_id": 12,
+                "specialty_id": 67,
+                "approved": true
+            },
+            {
+                "id": 550,
+                "account_id": 14,
+                "specialty_id": 67,
+                "approved": true
+            },
+            {
+                "id": 587,
+                "account_id": 15,
+                "specialty_id": 67,
+                "approved": false
+            },
+            {
+                "id": 624,
+                "account_id": 16,
+                "specialty_id": 67,
+                "approved": true
+            },
+            {
+                "id": 748,
+                "account_id": 19,
+                "specialty_id": 67,
+                "approved": true
+            },
+            {
+                "id": 781,
+                "account_id": 20,
+                "specialty_id": 67,
+                "approved": false
+            },
+            {
+                "id": 818,
+                "account_id": 21,
+                "specialty_id": 67,
+                "approved": true
+            },
+            {
+                "id": 861,
+                "account_id": 22,
+                "specialty_id": 67,
+                "approved": false
+            },
+            {
+                "id": 1024,
+                "account_id": 26,
+                "specialty_id": 67,
+                "approved": true
+            },
+            {
+                "id": 1107,
+                "account_id": 28,
+                "specialty_id": 67,
+                "approved": false
+            },
+            {
+                "id": 1229,
+                "account_id": 31,
+                "specialty_id": 67,
+                "approved": true
+            },
+            {
+                "id": 1273,
+                "account_id": 32,
+                "specialty_id": 67,
+                "approved": true
+            },
+            {
+                "id": 1320,
+                "account_id": 33,
+                "specialty_id": 67,
+                "approved": true
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "parent_id": null,
+        "name": "Barre",
+        "rank": 3,
+        "status": 1,
+        "account_specialty": {
+            "exists": false,
+            "id": 0,
+            "approved": false
+        },
+        "childrenRecursive": [],
+        "children_recursive": [],
+        "account_specialties": [
+            {
+                "id": 290,
+                "account_id": 7,
+                "specialty_id": 69,
+                "approved": true
+            },
+            {
+                "id": 449,
+                "account_id": 11,
+                "specialty_id": 69,
+                "approved": true
+            },
+            {
+                "id": 479,
+                "account_id": 12,
+                "specialty_id": 69,
+                "approved": false
+            },
+            {
+                "id": 517,
+                "account_id": 13,
+                "specialty_id": 69,
+                "approved": false
+            },
+            {
+                "id": 626,
+                "account_id": 16,
+                "specialty_id": 69,
+                "approved": true
+            },
+            {
+                "id": 664,
+                "account_id": 17,
+                "specialty_id": 69,
+                "approved": true
+            },
+            {
+                "id": 749,
+                "account_id": 19,
+                "specialty_id": 69,
+                "approved": false
+            },
+            {
+                "id": 782,
+                "account_id": 20,
+                "specialty_id": 69,
+                "approved": true
+            },
+            {
+                "id": 901,
+                "account_id": 23,
+                "specialty_id": 69,
+                "approved": false
+            },
+            {
+                "id": 982,
+                "account_id": 25,
+                "specialty_id": 69,
+                "approved": true
+            },
+            {
+                "id": 1025,
+                "account_id": 26,
+                "specialty_id": 69,
+                "approved": false
+            },
+            {
+                "id": 1066,
+                "account_id": 27,
+                "specialty_id": 69,
+                "approved": true
+            },
+            {
+                "id": 1150,
+                "account_id": 29,
+                "specialty_id": 69,
+                "approved": false
+            },
+            {
+                "id": 1190,
+                "account_id": 30,
+                "specialty_id": 69,
+                "approved": true
+            },
+            {
+                "id": 1230,
+                "account_id": 31,
+                "specialty_id": 69,
+                "approved": true
+            },
+            {
+                "id": 1275,
+                "account_id": 32,
+                "specialty_id": 69,
+                "approved": false
+            },
+            {
+                "id": 1322,
+                "account_id": 33,
+                "specialty_id": 69,
+                "approved": true
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "parent_id": null,
+        "name": "Strong Nation",
+        "rank": 1,
+        "status": 1,
+        "account_specialty": {
+            "exists": false,
+            "id": 0,
+            "approved": false
+        },
+        "childrenRecursive": [
+            {
+                "id": 74,
+                "parent_id": 70,
+                "name": "STRONG 30",
+                "rank": 1,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 76,
+                "parent_id": 70,
+                "name": "Strong Nation",
+                "rank": 1,
+                "status": 0,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1371,
+                    "approved": true
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            }
+        ],
+        "children_recursive": [
+            {
+                "id": 74,
+                "parent_id": 70,
+                "name": "STRONG 30",
+                "rank": 1,
+                "status": 1,
+                "account_specialty": {
+                    "exists": false,
+                    "id": 0,
+                    "approved": false
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            },
+            {
+                "id": 76,
+                "parent_id": 70,
+                "name": "Strong Nation",
+                "rank": 1,
+                "status": 0,
+                "account_specialty": {
+                    "exists": true,
+                    "id": 1371,
+                    "approved": true
+                },
+                "childrenRecursive": [],
+                "children_recursive": []
+            }
+        ],
+        "account_specialties": [
+            {
+                "id": 77,
+                "account_id": 2,
+                "specialty_id": 70,
+                "approved": false
+            },
+            {
+                "id": 213,
+                "account_id": 5,
+                "specialty_id": 70,
+                "approved": true
+            },
+            {
+                "id": 255,
+                "account_id": 6,
+                "specialty_id": 70,
+                "approved": true
+            },
+            {
+                "id": 331,
+                "account_id": 8,
+                "specialty_id": 70,
+                "approved": false
+            },
+            {
+                "id": 364,
+                "account_id": 9,
+                "specialty_id": 70,
+                "approved": false
+            },
+            {
+                "id": 450,
+                "account_id": 11,
+                "specialty_id": 70,
+                "approved": true
+            },
+            {
+                "id": 480,
+                "account_id": 12,
+                "specialty_id": 70,
+                "approved": true
+            },
+            {
+                "id": 518,
+                "account_id": 13,
+                "specialty_id": 70,
+                "approved": true
+            },
+            {
+                "id": 552,
+                "account_id": 14,
+                "specialty_id": 70,
+                "approved": false
+            },
+            {
+                "id": 665,
+                "account_id": 17,
+                "specialty_id": 70,
+                "approved": false
+            },
+            {
+                "id": 863,
+                "account_id": 22,
+                "specialty_id": 70,
+                "approved": false
+            },
+            {
+                "id": 902,
+                "account_id": 23,
+                "specialty_id": 70,
+                "approved": false
+            },
+            {
+                "id": 944,
+                "account_id": 24,
+                "specialty_id": 70,
+                "approved": false
+            },
+            {
+                "id": 983,
+                "account_id": 25,
+                "specialty_id": 70,
+                "approved": true
+            },
+            {
+                "id": 1026,
+                "account_id": 26,
+                "specialty_id": 70,
+                "approved": false
+            },
+            {
+                "id": 1067,
+                "account_id": 27,
+                "specialty_id": 70,
+                "approved": true
+            },
+            {
+                "id": 1151,
+                "account_id": 29,
+                "specialty_id": 70,
+                "approved": true
+            },
+            {
+                "id": 1231,
+                "account_id": 31,
+                "specialty_id": 70,
+                "approved": false
+            },
+            {
+                "id": 1276,
+                "account_id": 32,
+                "specialty_id": 70,
+                "approved": false
+            },
+            {
+                "id": 1323,
+                "account_id": 33,
+                "specialty_id": 70,
+                "approved": false
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "parent_id": null,
+        "name": "Aqua Instructor",
+        "rank": 1,
+        "status": 1,
+        "account_specialty": {
+            "exists": true,
+            "id": 1368,
+            "approved": true
+        },
+        "childrenRecursive": [],
+        "children_recursive": [],
+        "account_specialties": [
+            {
+                "id": 78,
+                "account_id": 2,
+                "specialty_id": 72,
+                "approved": true
+            },
+            {
+                "id": 122,
+                "account_id": 3,
+                "specialty_id": 72,
+                "approved": true
+            },
+            {
+                "id": 167,
+                "account_id": 4,
+                "specialty_id": 72,
+                "approved": true
+            },
+            {
+                "id": 257,
+                "account_id": 6,
+                "specialty_id": 72,
+                "approved": true
+            },
+            {
+                "id": 292,
+                "account_id": 7,
+                "specialty_id": 72,
+                "approved": true
+            },
+            {
+                "id": 482,
+                "account_id": 12,
+                "specialty_id": 72,
+                "approved": false
+            },
+            {
+                "id": 520,
+                "account_id": 13,
+                "specialty_id": 72,
+                "approved": true
+            },
+            {
+                "id": 627,
+                "account_id": 16,
+                "specialty_id": 72,
+                "approved": false
+            },
+            {
+                "id": 708,
+                "account_id": 18,
+                "specialty_id": 72,
+                "approved": false
+            },
+            {
+                "id": 865,
+                "account_id": 22,
+                "specialty_id": 72,
+                "approved": true
+            },
+            {
+                "id": 903,
+                "account_id": 23,
+                "specialty_id": 72,
+                "approved": true
+            },
+            {
+                "id": 945,
+                "account_id": 24,
+                "specialty_id": 72,
+                "approved": false
+            },
+            {
+                "id": 1027,
+                "account_id": 26,
+                "specialty_id": 72,
+                "approved": true
+            },
+            {
+                "id": 1069,
+                "account_id": 27,
+                "specialty_id": 72,
+                "approved": false
+            },
+            {
+                "id": 1109,
+                "account_id": 28,
+                "specialty_id": 72,
+                "approved": false
+            },
+            {
+                "id": 1192,
+                "account_id": 30,
+                "specialty_id": 72,
+                "approved": false
+            },
+            {
+                "id": 1233,
+                "account_id": 31,
+                "specialty_id": 72,
+                "approved": false
+            },
+            {
+                "id": 1277,
+                "account_id": 32,
+                "specialty_id": 72,
+                "approved": true
+            },
+            {
+                "id": 1325,
+                "account_id": 33,
+                "specialty_id": 72,
+                "approved": true
+            },
+            {
+                "id": 1368,
+                "account_id": 34,
+                "specialty_id": 72,
+                "approved": true
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "parent_id": null,
+        "name": "STRONG 30",
+        "rank": 1,
+        "status": 1,
+        "account_specialty": {
+            "exists": true,
+            "id": 1370,
+            "approved": true
+        },
+        "childrenRecursive": [],
+        "children_recursive": [],
+        "account_specialties": [
+            {
+                "id": 41,
+                "account_id": 1,
+                "specialty_id": 75,
+                "approved": false
+            },
+            {
+                "id": 215,
+                "account_id": 5,
+                "specialty_id": 75,
+                "approved": false
+            },
+            {
+                "id": 258,
+                "account_id": 6,
+                "specialty_id": 75,
+                "approved": true
+            },
+            {
+                "id": 332,
+                "account_id": 8,
+                "specialty_id": 75,
+                "approved": true
+            },
+            {
+                "id": 367,
+                "account_id": 9,
+                "specialty_id": 75,
+                "approved": false
+            },
+            {
+                "id": 454,
+                "account_id": 11,
+                "specialty_id": 75,
+                "approved": true
+            },
+            {
+                "id": 522,
+                "account_id": 13,
+                "specialty_id": 75,
+                "approved": true
+            },
+            {
+                "id": 555,
+                "account_id": 14,
+                "specialty_id": 75,
+                "approved": true
+            },
+            {
+                "id": 590,
+                "account_id": 15,
+                "specialty_id": 75,
+                "approved": false
+            },
+            {
+                "id": 710,
+                "account_id": 18,
+                "specialty_id": 75,
+                "approved": true
+            },
+            {
+                "id": 752,
+                "account_id": 19,
+                "specialty_id": 75,
+                "approved": true
+            },
+            {
+                "id": 784,
+                "account_id": 20,
+                "specialty_id": 75,
+                "approved": true
+            },
+            {
+                "id": 821,
+                "account_id": 21,
+                "specialty_id": 75,
+                "approved": true
+            },
+            {
+                "id": 868,
+                "account_id": 22,
+                "specialty_id": 75,
+                "approved": false
+            },
+            {
+                "id": 906,
+                "account_id": 23,
+                "specialty_id": 75,
+                "approved": true
+            },
+            {
+                "id": 986,
+                "account_id": 25,
+                "specialty_id": 75,
+                "approved": true
+            },
+            {
+                "id": 1111,
+                "account_id": 28,
+                "specialty_id": 75,
+                "approved": false
+            },
+            {
+                "id": 1194,
+                "account_id": 30,
+                "specialty_id": 75,
+                "approved": false
+            },
+            {
+                "id": 1280,
+                "account_id": 32,
+                "specialty_id": 75,
+                "approved": false
+            },
+            {
+                "id": 1328,
+                "account_id": 33,
+                "specialty_id": 75,
+                "approved": false
+            },
+            {
+                "id": 1370,
+                "account_id": 34,
+                "specialty_id": 75,
+                "approved": true
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "parent_id": null,
+        "name": "Pole Dance Instructor",
+        "rank": 1,
+        "status": 0,
+        "account_specialty": {
+            "exists": false,
+            "id": 0,
+            "approved": false
+        },
+        "childrenRecursive": [],
+        "children_recursive": [],
+        "account_specialties": [
+            {
+                "id": 81,
+                "account_id": 2,
+                "specialty_id": 77,
+                "approved": false
+            },
+            {
+                "id": 217,
+                "account_id": 5,
+                "specialty_id": 77,
+                "approved": true
+            },
+            {
+                "id": 333,
+                "account_id": 8,
+                "specialty_id": 77,
+                "approved": false
+            },
+            {
+                "id": 592,
+                "account_id": 15,
+                "specialty_id": 77,
+                "approved": false
+            },
+            {
+                "id": 988,
+                "account_id": 25,
+                "specialty_id": 77,
+                "approved": true
+            },
+            {
+                "id": 1031,
+                "account_id": 26,
+                "specialty_id": 77,
+                "approved": true
+            },
+            {
+                "id": 1236,
+                "account_id": 31,
+                "specialty_id": 77,
+                "approved": true
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "parent_id": null,
+        "name": "Pound",
+        "rank": 1,
+        "status": 1,
+        "account_specialty": {
+            "exists": true,
+            "id": 1372,
+            "approved": true
+        },
+        "childrenRecursive": [],
+        "children_recursive": [],
+        "account_specialties": [
+            {
+                "id": 125,
+                "account_id": 3,
+                "specialty_id": 78,
+                "approved": true
+            },
+            {
+                "id": 170,
+                "account_id": 4,
+                "specialty_id": 78,
+                "approved": true
+            },
+            {
+                "id": 218,
+                "account_id": 5,
+                "specialty_id": 78,
+                "approved": true
+            },
+            {
+                "id": 412,
+                "account_id": 10,
+                "specialty_id": 78,
+                "approved": true
+            },
+            {
+                "id": 485,
+                "account_id": 12,
+                "specialty_id": 78,
+                "approved": false
+            },
+            {
+                "id": 557,
+                "account_id": 14,
+                "specialty_id": 78,
+                "approved": false
+            },
+            {
+                "id": 593,
+                "account_id": 15,
+                "specialty_id": 78,
+                "approved": false
+            },
+            {
+                "id": 628,
+                "account_id": 16,
+                "specialty_id": 78,
+                "approved": false
+            },
+            {
+                "id": 669,
+                "account_id": 17,
+                "specialty_id": 78,
+                "approved": false
+            },
+            {
+                "id": 712,
+                "account_id": 18,
+                "specialty_id": 78,
+                "approved": false
+            },
+            {
+                "id": 870,
+                "account_id": 22,
+                "specialty_id": 78,
+                "approved": true
+            },
+            {
+                "id": 947,
+                "account_id": 24,
+                "specialty_id": 78,
+                "approved": false
+            },
+            {
+                "id": 1072,
+                "account_id": 27,
+                "specialty_id": 78,
+                "approved": false
+            },
+            {
+                "id": 1154,
+                "account_id": 29,
+                "specialty_id": 78,
+                "approved": false
+            },
+            {
+                "id": 1195,
+                "account_id": 30,
+                "specialty_id": 78,
+                "approved": true
+            },
+            {
+                "id": 1237,
+                "account_id": 31,
+                "specialty_id": 78,
+                "approved": true
+            },
+            {
+                "id": 1330,
+                "account_id": 33,
+                "specialty_id": 78,
+                "approved": true
+            },
+            {
+                "id": 1372,
+                "account_id": 34,
+                "specialty_id": 78,
+                "approved": true
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "parent_id": null,
+        "name": "Tai Chi",
+        "rank": 1,
+        "status": 1,
+        "account_specialty": {
+            "exists": false,
+            "id": 0,
+            "approved": false
+        },
+        "childrenRecursive": [],
+        "children_recursive": [],
+        "account_specialties": [
+            {
+                "id": 126,
+                "account_id": 3,
+                "specialty_id": 79,
+                "approved": true
+            },
+            {
+                "id": 294,
+                "account_id": 7,
+                "specialty_id": 79,
+                "approved": false
+            },
+            {
+                "id": 334,
+                "account_id": 8,
+                "specialty_id": 79,
+                "approved": true
+            },
+            {
+                "id": 413,
+                "account_id": 10,
+                "specialty_id": 79,
+                "approved": true
+            },
+            {
+                "id": 486,
+                "account_id": 12,
+                "specialty_id": 79,
+                "approved": true
+            },
+            {
+                "id": 523,
+                "account_id": 13,
+                "specialty_id": 79,
+                "approved": true
+            },
+            {
+                "id": 558,
+                "account_id": 14,
+                "specialty_id": 79,
+                "approved": true
+            },
+            {
+                "id": 713,
+                "account_id": 18,
+                "specialty_id": 79,
+                "approved": true
+            },
+            {
+                "id": 753,
+                "account_id": 19,
+                "specialty_id": 79,
+                "approved": false
+            },
+            {
+                "id": 907,
+                "account_id": 23,
+                "specialty_id": 79,
+                "approved": true
+            },
+            {
+                "id": 948,
+                "account_id": 24,
+                "specialty_id": 79,
+                "approved": true
+            },
+            {
+                "id": 1032,
+                "account_id": 26,
+                "specialty_id": 79,
+                "approved": false
+            },
+            {
+                "id": 1112,
+                "account_id": 28,
+                "specialty_id": 79,
+                "approved": false
+            },
+            {
+                "id": 1155,
+                "account_id": 29,
+                "specialty_id": 79,
+                "approved": true
+            },
+            {
+                "id": 1196,
+                "account_id": 30,
+                "specialty_id": 79,
+                "approved": false
+            },
+            {
+                "id": 1282,
+                "account_id": 32,
+                "specialty_id": 79,
+                "approved": true
+            },
+            {
+                "id": 1331,
+                "account_id": 33,
+                "specialty_id": 79,
+                "approved": false
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "parent_id": null,
+        "name": "BurnAlong Partner",
+        "rank": 1,
+        "status": 1,
+        "account_specialty": {
+            "exists": true,
+            "id": 1373,
+            "approved": false
+        },
+        "childrenRecursive": [],
+        "children_recursive": [],
+        "account_specialties": [
+            {
+                "id": 171,
+                "account_id": 4,
+                "specialty_id": 80,
+                "approved": true
+            },
+            {
+                "id": 219,
+                "account_id": 5,
+                "specialty_id": 80,
+                "approved": true
+            },
+            {
+                "id": 259,
+                "account_id": 6,
+                "specialty_id": 80,
+                "approved": true
+            },
+            {
+                "id": 335,
+                "account_id": 8,
+                "specialty_id": 80,
+                "approved": false
+            },
+            {
+                "id": 414,
+                "account_id": 10,
+                "specialty_id": 80,
+                "approved": false
+            },
+            {
+                "id": 559,
+                "account_id": 14,
+                "specialty_id": 80,
+                "approved": false
+            },
+            {
+                "id": 670,
+                "account_id": 17,
+                "specialty_id": 80,
+                "approved": false
+            },
+            {
+                "id": 714,
+                "account_id": 18,
+                "specialty_id": 80,
+                "approved": false
+            },
+            {
+                "id": 754,
+                "account_id": 19,
+                "specialty_id": 80,
+                "approved": true
+            },
+            {
+                "id": 785,
+                "account_id": 20,
+                "specialty_id": 80,
+                "approved": false
+            },
+            {
+                "id": 823,
+                "account_id": 21,
+                "specialty_id": 80,
+                "approved": true
+            },
+            {
+                "id": 871,
+                "account_id": 22,
+                "specialty_id": 80,
+                "approved": true
+            },
+            {
+                "id": 908,
+                "account_id": 23,
+                "specialty_id": 80,
+                "approved": false
+            },
+            {
+                "id": 1113,
+                "account_id": 28,
+                "specialty_id": 80,
+                "approved": true
+            },
+            {
+                "id": 1197,
+                "account_id": 30,
+                "specialty_id": 80,
+                "approved": true
+            },
+            {
+                "id": 1238,
+                "account_id": 31,
+                "specialty_id": 80,
+                "approved": false
+            },
+            {
+                "id": 1283,
+                "account_id": 32,
+                "specialty_id": 80,
+                "approved": false
+            },
+            {
+                "id": 1373,
+                "account_id": 34,
+                "specialty_id": 80,
+                "approved": false
+            }
+        ]
+    }
+]

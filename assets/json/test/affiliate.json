@@ -1,0 +1,177 @@
+{
+    "current_page": 1,
+    "data": [
+        {
+            "id": 3,
+            "name": "Aubrey Christiansen",
+            "email": "carolyne91@hotmail.com",
+            "status": true,
+            "affiliate_level_id": 1,
+            "account_id": 1,
+            "address_id": 1
+        },
+        {
+            "id": 4,
+            "name": "Miss Carolyne Daugherty",
+            "email": "clinton.kuphal@quigley.com",
+            "status": true,
+            "affiliate_level_id": 1,
+            "account_id": 1,
+            "address_id": 1
+        },
+        {
+            "id": 5,
+            "name": "Alexane Daugherty",
+            "email": "libbie.botsford@hegmann.net",
+            "status": true,
+            "affiliate_level_id": 1,
+            "account_id": 1,
+            "address_id": 1
+        },
+        {
+            "id": 6,
+            "name": "Laurence Johns",
+            "email": "wfriesen@bednar.com",
+            "status": true,
+            "affiliate_level_id": 1,
+            "account_id": 1,
+            "address_id": 1
+        },
+        {
+            "id": 7,
+            "name": "Nickolas Maggio",
+            "email": "raynor.rodrigo@gmail.com",
+            "status": true,
+            "affiliate_level_id": 1,
+            "account_id": 1,
+            "address_id": 1
+        },
+        {
+            "id": 8,
+            "name": "Ms. Zula Doyle DDS",
+            "email": "elta40@bogan.biz",
+            "status": true,
+            "affiliate_level_id": 1,
+            "account_id": 1,
+            "address_id": 1
+        },
+        {
+            "id": 9,
+            "name": "Ezekiel Rice",
+            "email": "mattie.steuber@veum.com",
+            "status": true,
+            "affiliate_level_id": 1,
+            "account_id": 1,
+            "address_id": 1
+        },
+        {
+            "id": 10,
+            "name": "Miss Nannie Bosco I",
+            "email": "reuben84@rice.org",
+            "status": true,
+            "affiliate_level_id": 1,
+            "account_id": 1,
+            "address_id": 1
+        },
+        {
+            "id": 11,
+            "name": "Maximillian Marquardt",
+            "email": "gage.pollich@langosh.org",
+            "status": true,
+            "affiliate_level_id": 2,
+            "account_id": 2,
+            "address_id": 1
+        },
+        {
+            "id": 12,
+            "name": "Ms. Celia Denesik",
+            "email": "edwin21@rippin.info",
+            "status": true,
+            "affiliate_level_id": 2,
+            "account_id": 2,
+            "address_id": 1
+        },
+        {
+            "id": 13,
+            "name": "Nya Konopelski",
+            "email": "schultz.thaddeus@hotmail.com",
+            "status": true,
+            "affiliate_level_id": 2,
+            "account_id": 2,
+            "address_id": 1
+        },
+        {
+            "id": 14,
+            "name": "Cecilia Walker V",
+            "email": "mccullough.terrence@hotmail.com",
+            "status": true,
+            "affiliate_level_id": 2,
+            "account_id": 2,
+            "address_id": 1
+        },
+        {
+            "id": 15,
+            "name": "Rogers Kassulke",
+            "email": "lang.angus@yahoo.com",
+            "status": true,
+            "affiliate_level_id": 2,
+            "account_id": 2,
+            "address_id": 1
+        },
+        {
+            "id": 16,
+            "name": "Dr. Lonnie Senger",
+            "email": "mohammed.stoltenberg@gmail.com",
+            "status": true,
+            "affiliate_level_id": 2,
+            "account_id": 2,
+            "address_id": 1
+        },
+        {
+            "id": 17,
+            "name": "Amber Altenwerth III",
+            "email": "schmeler.alfonzo@yahoo.com",
+            "status": true,
+            "affiliate_level_id": 2,
+            "account_id": 2,
+            "address_id": 1
+        }
+    ],
+    "first_page_url": "http:\/\/localhost:89\/api\/admin\/affiliate?page=1",
+    "from": 1,
+    "last_page": 3,
+    "last_page_url": "http:\/\/localhost:89\/api\/admin\/affiliate?page=3",
+    "links": [
+        {
+            "url": null,
+            "label": "&laquo; Previous",
+            "active": false
+        },
+        {
+            "url": "http:\/\/localhost:89\/api\/admin\/affiliate?page=1",
+            "label": "1",
+            "active": true
+        },
+        {
+            "url": "http:\/\/localhost:89\/api\/admin\/affiliate?page=2",
+            "label": "2",
+            "active": false
+        },
+        {
+            "url": "http:\/\/localhost:89\/api\/admin\/affiliate?page=3",
+            "label": "3",
+            "active": false
+        },
+        {
+            "url": "http:\/\/localhost:89\/api\/admin\/affiliate?page=2",
+            "label": "Next &raquo;",
+            "active": false
+        }
+    ],
+    "next_page_url": "http:\/\/localhost:89\/api\/admin\/affiliate?page=2",
+    "path": "http:\/\/localhost:89\/api\/admin\/affiliate",
+    "per_page": 15,
+    "prev_page_url": null,
+    "to": 15,
+    "total": 38
+}

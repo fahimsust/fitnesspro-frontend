@@ -1,0 +1,92 @@
+[
+    {
+        "id": 11,
+        "name": "Ex Goal",
+        "type_id": 1,
+        "show_in_details": true,
+        "show_in_search": true,
+        "pivot": {
+            "set_id": 7,
+            "attribute_id": 11
+        },
+        "options": [
+            {
+                "id": 80,
+                "attribute_id": 11,
+                "display": "Strength",
+                "value": "",
+                "rank": 0,
+                "status": true
+            },
+            {
+                "id": 81,
+                "attribute_id": 11,
+                "display": "Balance",
+                "value": "",
+                "rank": 1,
+                "status": true
+            },
+            {
+                "id": 82,
+                "attribute_id": 11,
+                "display": "Core",
+                "value": "",
+                "rank": 2,
+                "status": true
+            },
+            {
+                "id": 83,
+                "attribute_id": 11,
+                "display": "Athletic",
+                "value": "",
+                "rank": 3,
+                "status": true
+            },
+            {
+                "id": 84,
+                "attribute_id": 11,
+                "display": "Cardiovascular",
+                "value": "",
+                "rank": 4,
+                "status": true
+            },
+            {
+                "id": 85,
+                "attribute_id": 11,
+                "display": "Accessory",
+                "value": "",
+                "rank": 5,
+                "status": true
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Age Requirement",
+        "type_id": 1,
+        "show_in_details": true,
+        "show_in_search": true,
+        "pivot": {
+            "set_id": 7,
+            "attribute_id": 18
+        },
+        "options": [
+            {
+                "id": 111,
+                "attribute_id": 18,
+                "display": "Adult Only Resort",
+                "value": "",
+                "rank": 0,
+                "status": true
+            },
+            {
+                "id": 112,
+                "attribute_id": 18,
+                "display": "Family Resort",
+                "value": "",
+                "rank": 1,
+                "status": true
+            }
+        ]
+    }
+]

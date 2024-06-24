@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Order Complete (Auto)",
+        "subject": "Your {SITE_NAME} order has been received",
+        "alt_body": "Thank you for your order, {CUSTOMER_FIRST_NAME}!\\r\\n\\r\\n{ORDER_SUMMARY}",
+        "html_body": "&lt;p&gt;\\r\\n\t&amp;nbsp;&lt;\/p&gt;\\r\\n&lt;p&gt;\\r\\n\tThank you for your order,&amp;nbsp;{CUSTOMER_FIRST_NAME}!&lt;\/p&gt;\\r\\n&lt;p&gt;\\r\\n\t{ORDER_SUMMARY_HTML}&lt;\/p&gt;\\r\\n&lt;p&gt;\\r\\n\t&amp;nbsp;&lt;\/p&gt;",
+        "note": "Auto sent on all new orders",
+        "system_id": "1",
+        "category_id": null
+    },
+    {
+        "id": 2,
+        "name": "Affiliate - Forgot Password",
+        "subject": "Affiliate Login Info for {SITE_NAME}",
+        "alt_body": "Dear {AFF_NAME}:\\r\\n\\r\\nYour affiliate password is {AFF_PASS}.  You can login to your affiliate account at {SITE_URL}affiliates.",
+        "html_body": "&lt;p&gt;\\r\\n\tDear {AFF_NAME}:&lt;\/p&gt;\\r\\n&lt;p&gt;\\r\\n\tYour affiliate password is&amp;nbsp;&lt;strong&gt;{AFF_PASS}&lt;\/strong&gt;. &amp;nbsp;You can login to your affiliate account at {SITE_URL}affiliates.&lt;\/p&gt;",
+        "note": "Sends forgotten password to affiliate when they request while logged in",
+        "system_id": "2",
+        "category_id": null
+    },
+    {
+        "id": 3,
+        "name": "New Order Email to Drop Shipper",
+        "subject": "New Dropship Order from {SITE_NAME}",
+        "alt_body": "Account No.: {DISTRIBUTOR_ACCOUNT_NO}\\r\\n\\r\\nBelow are the details for this new order from {SITE_NAME} - Shipment ID {SHIPMENT_ID}:\\r\\n\\r\\n{ORDER_PRODUCTS_LIST}\\r\\n\\r\\nPlease ship to the following address using {SHIPPING_METHOD_NAME}:\\r\\n\\r\\n{SHIP_FIRST_NAME} {SHIP_LAST_NAME}\\r\\n{SHIP_ADDRESS}\\r\\n{SHIP_CITY}, {SHIP_STATE} {SHIP_ZIP}\\r\\n{SHIP_COUNTRY}",
+        "html_body": "&lt;p&gt;\\r\\n\tAccount No.: {DISTRIBUTOR_ACCOUNT_NO}&lt;\/p&gt;\\r\\n&lt;p&gt;\\r\\n\tBelow are the details for this new order from {SITE_NAME} - Shipment ID {SHIPMENT_ID}:&lt;\/p&gt;\\r\\n&lt;p&gt;\\r\\n\t{ORDER_PRODUCTS_HTML_LIST}&lt;\/p&gt;\\r\\n&lt;p&gt;\\r\\n\tPlease ship to the following address using {SHIPPING_METHOD_NAME}:&lt;\/p&gt;\\r\\n&lt;p&gt;\\r\\n\t{SHIP_FIRST_NAME} {SHIP_LAST_NAME}&lt;br \/&gt;\\r\\n\t{SHIP_ADDRESS_HTML}&lt;br \/&gt;\\r\\n\t{SHIP_CITY}, {SHIP_STATE} {SHIP_ZIP}&lt;br \/&gt;\\r\\n\t{SHIP_COUNTRY}&lt;\/p&gt;",
+        "note": "Email sent to dropshipper to process new shipment",
+        "system_id": "3",
+        "category_id": null
+    },
+    {
+        "id": 4,
+        "name": "Customer Account - Forgot Password",
+        "subject": "{SITE_NAME} Password Reset",
+        "alt_body": "Dear {ACCOUNT_FIRST_NAME},\\r\\n\\r\\nYour {SITE_NAME} account password has been reset. Your new password is {NEW_PASSWORD}.\\r\\n\\r\\nYou can now login to your account using your email address and new password.",
+        "html_body": "&lt;p&gt;\\r\\n\tDear {ACCOUNT_FIRST_NAME},&lt;\/p&gt;\\r\\n&lt;div&gt;\\r\\n\t&lt;p&gt;\\r\\n\t\tYour {SITE_NAME} account password has been reset. Your new password is&amp;nbsp;&lt;strong&gt;{NEW_PASSWORD}&lt;\/strong&gt;.&lt;\/p&gt;\\r\\n\t&lt;p&gt;\\r\\n\t\tYou can now login to your account using your email address and new password.&lt;\/p&gt;\\r\\n&lt;\/div&gt;",
+        "note": "from front end, customer can request password",
+        "system_id": "6",
+        "category_id": null
+    },
+    {
+        "id": 5,
+        "name": "Gift Card Information",
+        "subject": "Your Gift Card Information",
+        "alt_body": "Here is your gift card information:\\r\\n\\r\\nGift Card Code: {GIFTCARD_CODE}\\r\\nGift Card Expiration: {GIFTCARD_EXP}",
+        "html_body": "&lt;p&gt;Here is your gift card information:&lt;\/p&gt;\\r\\n&lt;p&gt;Gift Card Code:&amp;nbsp;{GIFTCARD_CODE}&lt;br \/&gt; Gift Card Expiration:&amp;nbsp;{GIFTCARD_EXP}&lt;\/p&gt;",
+        "note": "",
+        "system_id": "giftcard_info",
+        "category_id": null
+    },
+    {
+        "id": 6,
+        "name": "Customer Account - Forgot Username",
+        "subject": "Your {SITE_NAME} Account Username",
+        "alt_body": "Dear {ACCOUNT_FIRST_NAME},\\r\\n\\r\\nYour {SITE_NAME} account username is listed below.  You can login to your account by clicking (or copy and pasting) this link:\\r\\n\\r\\n{ACCOUNT_LOGIN_LINK}\\r\\n\\r\\nYour username is {ACCOUNT_USER}.\\r\\n\\r\\nDo Not Copy and Paste - Manually type userid and password into login fields.\\r\\n\\r\\nYou can now login to your account using your userid and password.",
+        "html_body": "&lt;p&gt;&amp;nbsp;&lt;\/p&gt;\\r\\n&lt;table style=&quot;height: 703px;&quot; border=&quot;4&quot; width=&quot;629&quot; cellpadding=&quot;5&quot;&gt;\\r\\n&lt;tbody&gt;\\r\\n&lt;tr&gt;\\r\\n&lt;td&gt;\\r\\n&lt;p style=&quot;text-align: left;&quot;&gt;Dear {ACCOUNT_FIRST_NAME},&lt;br \/&gt; &amp;nbsp;&lt;\/p&gt;\\r\\n&lt;div&gt;\\r\\n&lt;p&gt;Your {SITE_NAME} account&amp;nbsp;username is listed below. &amp;nbsp;You can login to your account by clicking (or copy and pasting) the following link. From that link you will be prompted to change your password. Once doing this you can access the site via any menu tab.&lt;\/p&gt;\\r\\n&lt;p&gt;{ACCOUNT_LOGIN_LINK_HTML}&lt;\/p&gt;\\r\\n&lt;p&gt;Your username is &lt;strong&gt;{ACCOUNT_USER}&lt;\/strong&gt;",
+        "note": "",
+        "system_id": "forgot_username",
+        "category_id": null
+    },
+    {
+        "id": 7,
+        "name": "Customer Account - Recover Registration",
+        "subject": "Recover Registration",
+        "alt_body": "Dear {ACCOUNT_FIRST_NAME},\\r\\n\\r\\nYour {SITE_NAME} account username is listed below.  You can recover your registration by clicking (or copy and pasting) this link:\\r\\n\\r\\n{REGISTRATION_REOVERY_LINK_HTML}.",
+        "html_body": "&lt;p&gt;&amp;nbsp;&lt;\/p&gt;\\r\\n&lt;table style=&quot;height: 703px;&quot; border=&quot;4&quot; width=&quot;629&quot; cellpadding=&quot;5&quot;&gt;\\r\\n&lt;tbody&gt;\\r\\n&lt;tr&gt;\\r\\n&lt;td&gt;\\r\\n&lt;p style=&quot;text-align: left;&quot;&gt;Dear {ACCOUNT_FIRST_NAME},&lt;br \/&gt; &amp;nbsp;&lt;\/p&gt;\\r\\n&lt;div&gt;\\r\\n&lt;p&gt;You can recover your registration by clicking (or copy and pasting) the following link. .&lt;\/p&gt;\\r\\n&lt;p&gt;{ACCOUNT_LOGIN_LINK_HTML}&lt;\/p&gt;",
+        "note": "",
+        "system_id": "registration_recover",
+        "category_id": null
+    }
+]

@@ -1,0 +1,10 @@
+{
+    "id": 4,
+    "name": "Customer Account - Forgot Password",
+    "subject": "Default Site Password Reset",
+    "alt_body": "Dear Esther,\\r\\n\\r\\nYour Default Site account password has been reset. Your new password is {NEW_PASSWORD}.\\r\\n\\r\\nYou can now login to your account using your email address and new password.",
+    "html_body": "&lt;p&gt;\\r\\n\tDear Esther,&lt;\/p&gt;\\r\\n&lt;div&gt;\\r\\n\t&lt;p&gt;\\r\\n\t\tYour Default Site account password has been reset. Your new password is&amp;nbsp;&lt;strong&gt;{NEW_PASSWORD}&lt;\/strong&gt;.&lt;\/p&gt;\\r\\n\t&lt;p&gt;\\r\\n\t\tYou can now login to your account using your email address and new password.&lt;\/p&gt;\\r\\n&lt;\/div&gt;",
+    "note": "from front end, customer can request password",
+    "system_id": "6",
+    "category_id": null
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "aut",
+        "status": true,
+        "any_all": "any"
+    },
+    {
+        "id": 2,
+        "name": "consequuntur",
+        "status": true,
+        "any_all": "any"
+    },
+    {
+        "id": 3,
+        "name": "in",
+        "status": true,
+        "any_all": "any"
+    },
+    {
+        "id": 4,
+        "name": "velit",
+        "status": true,
+        "any_all": "any"
+    },
+    {
+        "id": 5,
+        "name": "quia",
+        "status": true,
+        "any_all": "any"
+    },
+    {
+        "id": 6,
+        "name": "ipsum",
+        "status": true,
+        "any_all": "any"
+    },
+    {
+        "id": 7,
+        "name": "distinctio",
+        "status": true,
+        "any_all": "any"
+    },
+    {
+        "id": 8,
+        "name": "aspernatur",
+        "status": true,
+        "any_all": "any"
+    },
+    {
+        "id": 9,
+        "name": "odio",
+        "status": true,
+        "any_all": "any"
+    },
+    {
+        "id": 10,
+        "name": "ea",
+        "status": true,
+        "any_all": "any"
+    }
+]

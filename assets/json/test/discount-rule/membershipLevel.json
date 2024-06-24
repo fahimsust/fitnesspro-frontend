@@ -1,0 +1,78 @@
+{
+    "current_page": 1,
+    "data": [
+        {
+            "id": 2,
+            "name": "Travel",
+            "rank": 5,
+            "status": true,
+            "annual_product_id": 7495,
+            "monthly_product_id": null,
+            "renewal_discount": 10,
+            "description": "",
+            "signupemail_customer": 0,
+            "renewemail_customer": 0,
+            "expirationalert1_email": 0,
+            "expirationalert2_email": 0,
+            "expiration_email": 0,
+            "affiliate_level_id": 2,
+            "is_default": true,
+            "signuprenew_option": true,
+            "auto_renewal_of": null,
+            "trial": false,
+            "paypal_plan_id": null,
+            "auto_renew_reward": null,
+            "tag": "travel"
+        },
+        {
+            "id": 4,
+            "name": "Enterprise",
+            "rank": 20,
+            "status": true,
+            "annual_product_id": 7493,
+            "monthly_product_id": null,
+            "renewal_discount": 5,
+            "description": "",
+            "signupemail_customer": 0,
+            "renewemail_customer": 0,
+            "expirationalert1_email": 0,
+            "expirationalert2_email": 0,
+            "expiration_email": 0,
+            "affiliate_level_id": 4,
+            "is_default": false,
+            "signuprenew_option": true,
+            "auto_renewal_of": null,
+            "trial": false,
+            "paypal_plan_id": null,
+            "auto_renew_reward": null,
+            "tag": "enterprise"
+        }
+    ],
+    "first_page_url": "http:\/\/localhost:89\/api\/admin\/membership-level?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "http:\/\/localhost:89\/api\/admin\/membership-level?page=1",
+    "links": [
+        {
+            "url": null,
+            "label": "&laquo; Previous",
+            "active": false
+        },
+        {
+            "url": "http:\/\/localhost:89\/api\/admin\/membership-level?page=1",
+            "label": "1",
+            "active": true
+        },
+        {
+            "url": null,
+            "label": "Next &raquo;",
+            "active": false
+        }
+    ],
+    "next_page_url": null,
+    "path": "http:\/\/localhost:89\/api\/admin\/membership-level",
+    "per_page": 15,
+    "prev_page_url": null,
+    "to": 2,
+    "total": 2
+}

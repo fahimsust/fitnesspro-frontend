@@ -1,0 +1,26 @@
+[
+    {
+        "id": 4,
+        "name": "Discontinued",
+        "display": null,
+        "qty_min": null,
+        "qty_max": null,
+        "auto_adjust": false
+    },
+    {
+        "id": 3,
+        "name": "On Order",
+        "display": null,
+        "qty_min": null,
+        "qty_max": null,
+        "auto_adjust": false
+    },
+    {
+        "id": 2,
+        "name": "Out of Stock",
+        "display": null,
+        "qty_min": null,
+        "qty_max": 0,
+        "auto_adjust": true
+    }
+]

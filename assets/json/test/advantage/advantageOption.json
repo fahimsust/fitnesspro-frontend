@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Free Shipping",
+        "component_type": "FreeShipping"
+    },
+    {
+        "id": 2,
+        "name": "Percentage Off Shipping",
+        "component_type": "PercentageOfShipping"
+    },
+    {
+        "id": 3,
+        "name": "Amount Off Shipping",
+        "component_type": "AmountOfShipping"
+    },
+    {
+        "id": 4,
+        "name": "Free Product (Not Auto Added)",
+        "component_type": "FreeProduct"
+    },
+    {
+        "id": 5,
+        "name": "Percentage Off Product",
+        "component_type": "PercentageOffProduct"
+    },
+    {
+        "id": 6,
+        "name": "Amount Off Product",
+        "component_type": "AmountOffProduct"
+    },
+    {
+        "id": 7,
+        "name": "Percentage Off Order",
+        "component_type": "PercentageOffOrder"
+    },
+    {
+        "id": 8,
+        "name": "Amount Off Order",
+        "component_type": "AmountOffOrder"
+    },
+    {
+        "id": 9,
+        "name": "Free Product (Auto Added to Cart)",
+        "component_type": "FreeProductAutoAdded"
+    },
+    {
+        "id": 10,
+        "name": "Free Product of Specified Type (Not Auto Added)",
+        "component_type": "FreeProductOfType"
+    },
+    {
+        "id": 11,
+        "name": "Percentage Off Product of Specified Type",
+        "component_type": "PercentageOffProductOfType"
+    },
+    {
+        "id": 12,
+        "name": "Amount Off Product of Specified Type",
+        "component_type": "AmountOffProductOfType"
+    },
+    {
+        "id": 13,
+        "name": "Percentage Off Product (Auto Added to Cart)",
+        "component_type": "PercentageOffProductAutoAdded"
+    },
+    {
+        "id": 14,
+        "name": "Amount Off Product (Auto Added to Cart)",
+        "component_type": "AmountOffProductAutoAdded"
+    }
+]

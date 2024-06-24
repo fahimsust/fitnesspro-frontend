@@ -1,0 +1,38 @@
+[
+    {
+        "id": 4,
+        "name": "Miguel McKenzie",
+        "status": true,
+        "any_all": "any"
+    },
+    {
+        "id": 3,
+        "name": "Mr. General Crist IV",
+        "status": true,
+        "any_all": "all"
+    },
+    {
+        "id": 10,
+        "name": "Mr. Quincy Mertz Jr.",
+        "status": true,
+        "any_all": "all"
+    },
+    {
+        "id": 2,
+        "name": "Prof. Max Larkin",
+        "status": true,
+        "any_all": "all"
+    },
+    {
+        "id": 8,
+        "name": "Taya Mertz",
+        "status": true,
+        "any_all": "all"
+    },
+    {
+        "id": 9,
+        "name": "Vincenza Wehner DDS",
+        "status": true,
+        "any_all": "all"
+    }
+]

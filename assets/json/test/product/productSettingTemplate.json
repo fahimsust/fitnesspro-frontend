@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "ipsa",
+        "settings_template_id": null,
+        "product_detail_template": 1,
+        "product_thumbnail_template": 1,
+        "product_zoom_template": 1,
+        "layout_id": 1,
+        "module_template_id": 1,
+        "layout_id_default": null,
+        "module_template_id_default": null,
+        "product_detail_template_default": null,
+        "product_thumbnail_template_default": null,
+        "product_zoom_template_default": null
+    }
+]

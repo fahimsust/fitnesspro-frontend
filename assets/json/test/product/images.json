@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "filename": "image\/LWScreenShot 2024-03-29 at 2.17.34 PM_1711895692.png",
+        "default_caption": "Order Complete (Auto)",
+        "name": "Order Complete (Auto)",
+        "inventory_image_id": null,
+        "url": "https:\/\/assets-fitnessprotravel.sfo3.cdn.digitaloceanspaces.com\/catalog\/images\/image\/LWScreenShot 2024-03-29 at 2.17.34 PM_1711895692.png",
+        "pivot": {
+            "product_id": 7497,
+            "image_id": 1
+        }
+    },
+    {
+        "id": 2,
+        "filename": "image\/LWScreenShot 2024-03-29 at 2.17.06 PM_1711895744.png",
+        "default_caption": "voluptas",
+        "name": "voluptas",
+        "inventory_image_id": null,
+        "url": "https:\/\/assets-fitnessprotravel.sfo3.cdn.digitaloceanspaces.com\/catalog\/images\/image\/LWScreenShot 2024-03-29 at 2.17.06 PM_1711895744.png",
+        "pivot": {
+            "product_id": 7497,
+            "image_id": 2
+        }
+    }
+]

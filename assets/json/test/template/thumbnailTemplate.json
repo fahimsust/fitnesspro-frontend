@@ -1,0 +1,34 @@
+[
+    {
+        "id": 2,
+        "type_id": 2,
+        "name": "Default",
+        "include": "default",
+        "image_width": "150",
+        "image_height": "0"
+    },
+    {
+        "id": 4,
+        "type_id": 2,
+        "name": "List",
+        "include": "list",
+        "image_width": "",
+        "image_height": ""
+    },
+    {
+        "id": 8,
+        "type_id": 2,
+        "name": "Featured",
+        "include": "featured",
+        "image_width": "",
+        "image_height": ""
+    },
+    {
+        "id": 9,
+        "type_id": 2,
+        "name": "Featured Quarter",
+        "include": "featuredqtr",
+        "image_width": "",
+        "image_height": ""
+    }
+]

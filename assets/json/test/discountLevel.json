@@ -1,0 +1,392 @@
+[
+    {
+        "id": 1,
+        "name": "rerum",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 77.27,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 2,
+        "name": "suscipit",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 9.29,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 3,
+        "name": "architecto",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 11.5,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 4,
+        "name": "illo",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 92.03,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 5,
+        "name": "qui",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 7.53,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 6,
+        "name": "neque",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 32.43,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 7,
+        "name": "expedita",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 29.83,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 8,
+        "name": "esse",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 26.21,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 9,
+        "name": "sequi",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 2.31,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 10,
+        "name": "quasi",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 49.3,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 11,
+        "name": "totam",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 57.18,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 12,
+        "name": "unde",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 49.72,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 13,
+        "name": "molestias",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 52.37,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 14,
+        "name": "temporibus",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 46.48,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 15,
+        "name": "et",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 60.89,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 16,
+        "name": "repudiandae",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 0.03,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 17,
+        "name": "nesciunt",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 17.86,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 18,
+        "name": "labore",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 98.44,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 19,
+        "name": "voluptas",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 90.49,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 20,
+        "name": "enim",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 1.22,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 21,
+        "name": "alias",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 10.68,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 22,
+        "name": "eum",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 28.47,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 23,
+        "name": "soluta",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 99.11,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 24,
+        "name": "rerum",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 51.98,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 25,
+        "name": "perferendis",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 10.94,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 26,
+        "name": "dolor",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 19.63,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 27,
+        "name": "voluptas",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 33.2,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 28,
+        "name": "sint",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 27.66,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 29,
+        "name": "asperiores",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 40.62,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    },
+    {
+        "id": 30,
+        "name": "illum",
+        "apply_to": 0,
+        "action_type": 0,
+        "action_percentage": 22.73,
+        "action_sitepricing": 0,
+        "status": true,
+        "level_type": {
+            "id": 0,
+            "name": "percentage"
+        }
+    }
+]

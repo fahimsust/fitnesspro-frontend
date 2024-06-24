@@ -1,0 +1,212 @@
+{
+    "current_page": 1,
+    "data": [
+        {
+            "id": 2,
+            "name": "et non",
+            "label": "dicta",
+            "field_type": 2,
+            "required": false,
+            "select_display": "in",
+            "select_auto": false,
+            "status": false
+        },
+        {
+            "id": 3,
+            "name": "cum quia",
+            "label": "et",
+            "field_type": 3,
+            "required": true,
+            "select_display": "itaque",
+            "select_auto": true,
+            "status": false
+        },
+        {
+            "id": 4,
+            "name": "voluptatibus et",
+            "label": "exercitationem",
+            "field_type": 3,
+            "required": false,
+            "select_display": "facere",
+            "select_auto": false,
+            "status": true
+        },
+        {
+            "id": 5,
+            "name": "quae tempora",
+            "label": "laboriosam",
+            "field_type": 3,
+            "required": true,
+            "select_display": "velit",
+            "select_auto": true,
+            "status": true
+        },
+        {
+            "id": 6,
+            "name": "et qui",
+            "label": "nam",
+            "field_type": 3,
+            "required": false,
+            "select_display": "debitis",
+            "select_auto": false,
+            "status": true
+        },
+        {
+            "id": 7,
+            "name": "et ut",
+            "label": "reprehenderit",
+            "field_type": 2,
+            "required": false,
+            "select_display": "est",
+            "select_auto": true,
+            "status": true
+        },
+        {
+            "id": 8,
+            "name": "nam libero",
+            "label": "voluptatem",
+            "field_type": 1,
+            "required": true,
+            "select_display": "est",
+            "select_auto": false,
+            "status": true
+        },
+        {
+            "id": 9,
+            "name": "doloremque eos",
+            "label": "corporis",
+            "field_type": 3,
+            "required": true,
+            "select_display": "cumque",
+            "select_auto": true,
+            "status": true
+        },
+        {
+            "id": 10,
+            "name": "dolorum consequuntur",
+            "label": "consequatur",
+            "field_type": 3,
+            "required": false,
+            "select_display": "pariatur",
+            "select_auto": true,
+            "status": true
+        },
+        {
+            "id": 11,
+            "name": "ut tempore",
+            "label": "omnis",
+            "field_type": 2,
+            "required": false,
+            "select_display": "rerum",
+            "select_auto": false,
+            "status": false
+        },
+        {
+            "id": 12,
+            "name": "quos quod",
+            "label": "ex",
+            "field_type": 1,
+            "required": true,
+            "select_display": "laudantium",
+            "select_auto": false,
+            "status": false
+        },
+        {
+            "id": 13,
+            "name": "consequatur minus",
+            "label": "dolor",
+            "field_type": 3,
+            "required": true,
+            "select_display": "id",
+            "select_auto": true,
+            "status": true
+        },
+        {
+            "id": 14,
+            "name": "perferendis officia",
+            "label": "tenetur",
+            "field_type": 2,
+            "required": false,
+            "select_display": "id",
+            "select_auto": false,
+            "status": true
+        },
+        {
+            "id": 15,
+            "name": "harum ratione",
+            "label": "libero",
+            "field_type": 3,
+            "required": true,
+            "select_display": "distinctio",
+            "select_auto": true,
+            "status": true
+        },
+        {
+            "id": 16,
+            "name": "eos in",
+            "label": "dolorem",
+            "field_type": 1,
+            "required": true,
+            "select_display": "sit",
+            "select_auto": false,
+            "status": true
+        }
+    ],
+    "first_page_url": "http:\/\/localhost:89\/api\/admin\/accessory-fields?page=1",
+    "from": 1,
+    "last_page": 7,
+    "last_page_url": "http:\/\/localhost:89\/api\/admin\/accessory-fields?page=7",
+    "links": [
+        {
+            "url": null,
+            "label": "&laquo; Previous",
+            "active": false
+        },
+        {
+            "url": "http:\/\/localhost:89\/api\/admin\/accessory-fields?page=1",
+            "label": "1",
+            "active": true
+        },
+        {
+            "url": "http:\/\/localhost:89\/api\/admin\/accessory-fields?page=2",
+            "label": "2",
+            "active": false
+        },
+        {
+            "url": "http:\/\/localhost:89\/api\/admin\/accessory-fields?page=3",
+            "label": "3",
+            "active": false
+        },
+        {
+            "url": "http:\/\/localhost:89\/api\/admin\/accessory-fields?page=4",
+            "label": "4",
+            "active": false
+        },
+        {
+            "url": "http:\/\/localhost:89\/api\/admin\/accessory-fields?page=5",
+            "label": "5",
+            "active": false
+        },
+        {
+            "url": "http:\/\/localhost:89\/api\/admin\/accessory-fields?page=6",
+            "label": "6",
+            "active": false
+        },
+        {
+            "url": "http:\/\/localhost:89\/api\/admin\/accessory-fields?page=7",
+            "label": "7",
+            "active": false
+        },
+        {
+            "url": "http:\/\/localhost:89\/api\/admin\/accessory-fields?page=2",
+            "label": "Next &raquo;",
+            "active": false
+        }
+    ],
+    "next_page_url": "http:\/\/localhost:89\/api\/admin\/accessory-fields?page=2",
+    "path": "http:\/\/localhost:89\/api\/admin\/accessory-fields",
+    "per_page": 15,
+    "prev_page_url": null,
+    "to": 15,
+    "total": 99
+}

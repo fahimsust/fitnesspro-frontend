@@ -1,0 +1,14 @@
+{
+    "id": 1,
+    "name": "iure",
+    "display": "ab",
+    "start_date": null,
+    "exp_date": null,
+    "status": false,
+    "limit_per_order": 0,
+    "match_anyall": 0,
+    "random_generated": null,
+    "limit_uses": 0,
+    "limit_per_customer": 0,
+    "deleted_at": null
+}

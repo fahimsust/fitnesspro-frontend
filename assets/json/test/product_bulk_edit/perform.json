@@ -1,0 +1,112 @@
+[
+    {
+        "id": "replace_subtext",
+        "name": "replace subtext with text",
+        "component_type": "Subtext"
+    },
+    {
+        "id": "set_pricing",
+        "name": "set pricing",
+        "component_type": "Pricing"
+    },
+    {
+        "id": "set_status",
+        "name": "set status",
+        "component_type": "SetStatus"
+    },
+    {
+        "id": "set_out_of_stock_status",
+        "name": "set out of stock status",
+        "component_type": "SetOutOfStockStatus"
+    },
+    {
+        "id": "assign_brand",
+        "name": "assign brand",
+        "component_type": "AssignBrand"
+    },
+    {
+        "id": "assign_product_type",
+        "name": "assign product type",
+        "component_type": "AssignProductType"
+    },
+    {
+        "id": "assign_attributes",
+        "name": "assign attribute(s)",
+        "component_type": "AssignAttribute"
+    },
+    {
+        "id": "unassign_attributes",
+        "name": "unassign attribute(s)",
+        "component_type": "AssignAttribute"
+    },
+    {
+        "id": "assign_distributor",
+        "name": "assign distributor",
+        "component_type": "AssignDistributor"
+    },
+    {
+        "id": "publish_on_site",
+        "name": "published on site",
+        "component_type": "Site"
+    },
+    {
+        "id": "unpublish_on_site",
+        "name": "unpublished on site",
+        "component_type": "Site"
+    },
+    {
+        "id": "assign_default_category",
+        "name": "assign default category",
+        "component_type": "DefaultCategory"
+    },
+    {
+        "id": "set_weight",
+        "name": "set weight",
+        "component_type": "Weight"
+    },
+    {
+        "id": "set_thumbnail_template",
+        "name": "set thumbnail template",
+        "component_type": "ThumbnailTemplate"
+    },
+    {
+        "id": "set_detail_template",
+        "name": "set detail template",
+        "component_type": "DetailTemplate"
+    },
+    {
+        "id": "set_zoom_template",
+        "name": "set zoom template",
+        "component_type": "ZoomTemplate"
+    },
+    {
+        "id": "set_inventoried",
+        "name": "set inventoried",
+        "component_type": "EmptyWidget"
+    },
+    {
+        "id": "set_not_inventoried",
+        "name": "set not inventoried",
+        "component_type": "EmptyWidget"
+    },
+    {
+        "id": "set_ordering_rule",
+        "name": "set ordering rule",
+        "component_type": "OrderingRule"
+    },
+    {
+        "id": "assign_to_discount_level",
+        "name": "assign to disocunt level",
+        "component_type": "DisocuntLevel"
+    },
+    {
+        "id": "unassign_from_discount_level",
+        "name": "unassign from disocunt level",
+        "component_type": "DisocuntLevel"
+    },
+    {
+        "id": "modify_Distributor_stock_qty",
+        "name": "modify distributor stock qty",
+        "component_type": "DistributorStockQty"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 43,
+        "name": "Pick-up at Store"
+    },
+    {
+        "id": 31,
+        "name": "UPS 2nd Day Air"
+    },
+    {
+        "id": 36,
+        "name": "UPS 3 Day Select"
+    },
+    {
+        "id": 32,
+        "name": "UPS Ground"
+    },
+    {
+        "id": 30,
+        "name": "UPS Next Day Air"
+    },
+    {
+        "id": 38,
+        "name": "UPS Next Day Air Early A.M."
+    },
+    {
+        "id": 37,
+        "name": "UPS Next Day Air Saver"
+    },
+    {
+        "id": 35,
+        "name": "UPS Standard"
+    },
+    {
+        "id": 33,
+        "name": "UPS Wordwide Express"
+    },
+    {
+        "id": 34,
+        "name": "UPS Worldwide Expedited"
+    }
+]

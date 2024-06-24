@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "None",
+        "file": "none"
+    },
+    {
+        "id": 2,
+        "name": "One Column",
+        "file": "onecolumn"
+    },
+    {
+        "id": 3,
+        "name": "Two Column (Left)",
+        "file": "twocolumn_left"
+    },
+    {
+        "id": 4,
+        "name": "Two Column (Right)",
+        "file": "twocolumn_right"
+    },
+    {
+        "id": 5,
+        "name": "Three Column",
+        "file": "threecolumn"
+    },
+    {
+        "id": 6,
+        "name": "Home",
+        "file": "home"
+    },
+    {
+        "id": 7,
+        "name": "Offline",
+        "file": "offline"
+    }
+]

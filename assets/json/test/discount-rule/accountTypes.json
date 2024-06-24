@@ -1,0 +1,224 @@
+{
+    "current_page": 1,
+    "data": [
+        {
+            "id": 1,
+            "name": "Standard",
+            "default_account_status": 1,
+            "custom_form_id": null,
+            "email_template_id_creation_admin": 1,
+            "email_template_id_creation_user": 1,
+            "email_template_id_activate_user": 1,
+            "discount_level_id": null,
+            "verify_user_email": false,
+            "filter_products": 0,
+            "filter_categories": 0,
+            "loyaltypoints_id": null,
+            "use_specialties": true,
+            "membership_level_id": null,
+            "email_template_id_verify_email": 1,
+            "affiliate_level_id": null,
+            "is_trial": false,
+            "default_status": {
+                "id": 1,
+                "name": "Active"
+            },
+            "discount_level": null
+        },
+        {
+            "id": 2,
+            "name": "Basic",
+            "default_account_status": 1,
+            "custom_form_id": null,
+            "email_template_id_creation_admin": 1,
+            "email_template_id_creation_user": 1,
+            "email_template_id_activate_user": 1,
+            "discount_level_id": null,
+            "verify_user_email": false,
+            "filter_products": 0,
+            "filter_categories": 0,
+            "loyaltypoints_id": null,
+            "use_specialties": true,
+            "membership_level_id": null,
+            "email_template_id_verify_email": 1,
+            "affiliate_level_id": null,
+            "is_trial": false,
+            "default_status": {
+                "id": 1,
+                "name": "Active"
+            },
+            "discount_level": null
+        },
+        {
+            "id": 4,
+            "name": "Medallion",
+            "default_account_status": 1,
+            "custom_form_id": null,
+            "email_template_id_creation_admin": 1,
+            "email_template_id_creation_user": 1,
+            "email_template_id_activate_user": 1,
+            "discount_level_id": null,
+            "verify_user_email": false,
+            "filter_products": 0,
+            "filter_categories": 0,
+            "loyaltypoints_id": null,
+            "use_specialties": true,
+            "membership_level_id": null,
+            "email_template_id_verify_email": 1,
+            "affiliate_level_id": null,
+            "is_trial": false,
+            "default_status": {
+                "id": 1,
+                "name": "Active"
+            },
+            "discount_level": null
+        },
+        {
+            "id": 6,
+            "name": "Basic 30-day Trial",
+            "default_account_status": 1,
+            "custom_form_id": null,
+            "email_template_id_creation_admin": 1,
+            "email_template_id_creation_user": 1,
+            "email_template_id_activate_user": 1,
+            "discount_level_id": null,
+            "verify_user_email": false,
+            "filter_products": 0,
+            "filter_categories": 0,
+            "loyaltypoints_id": null,
+            "use_specialties": true,
+            "membership_level_id": null,
+            "email_template_id_verify_email": 1,
+            "affiliate_level_id": null,
+            "is_trial": false,
+            "default_status": {
+                "id": 1,
+                "name": "Active"
+            },
+            "discount_level": null
+        },
+        {
+            "id": 7,
+            "name": "Basic - Auto Renew",
+            "default_account_status": 1,
+            "custom_form_id": null,
+            "email_template_id_creation_admin": 1,
+            "email_template_id_creation_user": 1,
+            "email_template_id_activate_user": 1,
+            "discount_level_id": null,
+            "verify_user_email": false,
+            "filter_products": 0,
+            "filter_categories": 0,
+            "loyaltypoints_id": null,
+            "use_specialties": true,
+            "membership_level_id": null,
+            "email_template_id_verify_email": 1,
+            "affiliate_level_id": null,
+            "is_trial": false,
+            "default_status": {
+                "id": 1,
+                "name": "Active"
+            },
+            "discount_level": null
+        },
+        {
+            "id": 8,
+            "name": "Travel - Auto Renew",
+            "default_account_status": 1,
+            "custom_form_id": null,
+            "email_template_id_creation_admin": 1,
+            "email_template_id_creation_user": 1,
+            "email_template_id_activate_user": 1,
+            "discount_level_id": null,
+            "verify_user_email": false,
+            "filter_products": 0,
+            "filter_categories": 0,
+            "loyaltypoints_id": null,
+            "use_specialties": true,
+            "membership_level_id": null,
+            "email_template_id_verify_email": 1,
+            "affiliate_level_id": null,
+            "is_trial": false,
+            "default_status": {
+                "id": 1,
+                "name": "Active"
+            },
+            "discount_level": null
+        },
+        {
+            "id": 9,
+            "name": "Medallion - Auto Renew",
+            "default_account_status": 1,
+            "custom_form_id": null,
+            "email_template_id_creation_admin": 1,
+            "email_template_id_creation_user": 1,
+            "email_template_id_activate_user": 1,
+            "discount_level_id": null,
+            "verify_user_email": false,
+            "filter_products": 0,
+            "filter_categories": 0,
+            "loyaltypoints_id": null,
+            "use_specialties": true,
+            "membership_level_id": null,
+            "email_template_id_verify_email": 1,
+            "affiliate_level_id": null,
+            "is_trial": false,
+            "default_status": {
+                "id": 1,
+                "name": "Active"
+            },
+            "discount_level": null
+        },
+        {
+            "id": 10,
+            "name": "Enterprise - Auto Renew",
+            "default_account_status": 1,
+            "custom_form_id": null,
+            "email_template_id_creation_admin": 1,
+            "email_template_id_creation_user": 1,
+            "email_template_id_activate_user": 1,
+            "discount_level_id": null,
+            "verify_user_email": false,
+            "filter_products": 0,
+            "filter_categories": 0,
+            "loyaltypoints_id": null,
+            "use_specialties": true,
+            "membership_level_id": null,
+            "email_template_id_verify_email": 1,
+            "affiliate_level_id": null,
+            "is_trial": false,
+            "default_status": {
+                "id": 1,
+                "name": "Active"
+            },
+            "discount_level": null
+        }
+    ],
+    "first_page_url": "http:\/\/localhost:89\/api\/admin\/account-types?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "http:\/\/localhost:89\/api\/admin\/account-types?page=1",
+    "links": [
+        {
+            "url": null,
+            "label": "&laquo; Previous",
+            "active": false
+        },
+        {
+            "url": "http:\/\/localhost:89\/api\/admin\/account-types?page=1",
+            "label": "1",
+            "active": true
+        },
+        {
+            "url": null,
+            "label": "Next &raquo;",
+            "active": false
+        }
+    ],
+    "next_page_url": null,
+    "path": "http:\/\/localhost:89\/api\/admin\/account-types",
+    "per_page": 15,
+    "prev_page_url": null,
+    "to": 8,
+    "total": 8
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "id": 2,
+        "account_id": 34,
+        "filename": "account_files\/418JzovNBvX70rwyT5tyGrx71sLu6R4Ugh4sty4L.jpg",
+        "uploaded": "2024-04-16T12:21:09.000000Z",
+        "site_id": 1,
+        "approval_status": true
+    },
+    {
+        "id": 1,
+        "account_id": 34,
+        "filename": "account_files\/NTvZ6zaZnPHv3ur2jHL9kCkfKTgodqenfcWo7H1X.jpg",
+        "uploaded": "2024-04-13T10:23:27.000000Z",
+        "site_id": 1,
+        "approval_status": true
+    }
+]
